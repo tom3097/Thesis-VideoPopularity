@@ -1,0 +1,3288 @@
+[2016-10-08 8:04:29.279869] [info] Start crawling.
+[2016-10-08 8:04:29.280025] [info] Analyzing page: 124501338300
+[2016-10-08 8:04:29.311285] [error] Request for page id 124501338300 failed: Unsupported get request. Object with ID '124501338300' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 8:04:29.311402] [info] Analyzing page: 145464235464026
+[2016-10-08 8:04:29.349674] [error] Request for page id 145464235464026 failed: Unsupported get request. Object with ID '145464235464026' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 8:04:29.349788] [info] Analyzing page: 407570359384477
+[2016-10-08 8:04:46.585144] [info] Saving to file...
+[2016-10-08 8:04:46.585289] [info] Total page videos: 0
+[2016-10-08 8:04:46.585469] [info] Saving finished.
+[2016-10-08 8:06:58.177967] [info] Saving to file...
+[2016-10-08 8:06:58.178211] [info] Total page videos: 68
+[2016-10-08 8:06:58.229806] [info] Saving finished.
+[2016-10-08 8:14:38.128959] [info] Saving to file...
+[2016-10-08 8:14:38.129148] [info] Total page videos: 318
+[2016-10-08 8:14:38.204132] [info] Saving finished.
+[2016-10-08 8:17:23.444555] [error] Pattern not found when looking for views count.
+[2016-10-08 8:22:01.672878] [error] Pattern not found when looking for views count.
+[2016-10-08 8:22:15.277611] [error] Pattern not found when looking for views count.
+[2016-10-08 8:22:21.222374] [info] Saving to file...
+[2016-10-08 8:22:21.222559] [info] Total page videos: 565
+[2016-10-08 8:22:21.326704] [info] Saving finished.
+[2016-10-08 8:25:03.295968] [error] Pattern not found when looking for views count.
+[2016-10-08 8:25:21.565454] [error] Pattern not found when looking for views count.
+[2016-10-08 8:25:21.778105] [error] Pattern not found when looking for views count.
+[2016-10-08 8:30:02.375464] [info] Saving to file...
+[2016-10-08 8:30:02.375658] [info] Total page videos: 812
+[2016-10-08 8:30:02.488151] [info] Saving finished.
+[2016-10-08 8:37:47.539721] [info] Saving to file...
+[2016-10-08 8:37:47.539925] [info] Total page videos: 1062
+[2016-10-08 8:37:47.742230] [info] Saving finished.
+[2016-10-08 8:38:14.000411] [info] Saving to file...
+[2016-10-08 8:38:14.000571] [info] Total page videos: 1067
+[2016-10-08 8:38:14.160729] [info] Saving finished.
+[2016-10-08 8:38:32.308228] [info] Saving to file...
+[2016-10-08 8:38:32.308370] [info] Total page videos: 1067
+[2016-10-08 8:38:32.483622] [info] Saving finished.
+[2016-10-08 8:38:50.586057] [info] Saving to file...
+[2016-10-08 8:38:50.586195] [info] Total page videos: 1067
+[2016-10-08 8:38:50.749581] [info] Saving finished.
+[2016-10-08 8:39:07.772336] [info] Saving to file...
+[2016-10-08 8:39:07.772470] [info] Total page videos: 1067
+[2016-10-08 8:39:07.940349] [info] Saving finished.
+[2016-10-08 8:39:26.058104] [info] Saving to file...
+[2016-10-08 8:39:26.058243] [info] Total page videos: 1067
+[2016-10-08 8:39:26.239088] [info] Saving finished.
+[2016-10-08 8:39:45.073225] [info] Saving to file...
+[2016-10-08 8:39:45.073370] [info] Total page videos: 1067
+[2016-10-08 8:39:45.257214] [info] Saving finished.
+[2016-10-08 8:40:04.263031] [info] Saving to file...
+[2016-10-08 8:40:04.263207] [info] Total page videos: 1067
+[2016-10-08 8:40:05.209074] [info] Saving finished.
+[2016-10-08 8:40:23.903243] [info] Saving to file...
+[2016-10-08 8:40:23.903381] [info] Total page videos: 1067
+[2016-10-08 8:40:24.068000] [info] Saving finished.
+[2016-10-08 8:40:40.876744] [info] Saving to file...
+[2016-10-08 8:40:40.876934] [info] Total page videos: 1067
+[2016-10-08 8:40:41.473210] [info] Saving finished.
+[2016-10-08 8:40:57.990040] [info] Saving to file...
+[2016-10-08 8:40:57.990183] [info] Total page videos: 1067
+[2016-10-08 8:40:58.146495] [info] Saving finished.
+[2016-10-08 8:41:16.702328] [info] Saving to file...
+[2016-10-08 8:41:16.702507] [info] Total page videos: 1067
+[2016-10-08 8:41:16.867830] [info] Saving finished.
+[2016-10-08 8:41:34.108599] [info] Saving to file...
+[2016-10-08 8:41:34.108736] [info] Total page videos: 1067
+[2016-10-08 8:41:34.250174] [info] Saving finished.
+[2016-10-08 8:41:50.942147] [info] Saving to file...
+[2016-10-08 8:41:50.942296] [info] Total page videos: 1067
+[2016-10-08 8:41:51.104188] [info] Saving finished.
+[2016-10-08 8:42:10.865118] [info] Saving to file...
+[2016-10-08 8:42:10.865255] [info] Total page videos: 1067
+[2016-10-08 8:42:11.025719] [info] Saving finished.
+[2016-10-08 8:42:27.431162] [info] Saving to file...
+[2016-10-08 8:42:27.431315] [info] Total page videos: 1067
+[2016-10-08 8:42:27.588491] [info] Saving finished.
+[2016-10-08 8:42:44.145804] [info] Saving to file...
+[2016-10-08 8:42:44.145967] [info] Total page videos: 1067
+[2016-10-08 8:42:44.278301] [info] Saving finished.
+[2016-10-08 8:43:01.399241] [info] Saving to file...
+[2016-10-08 8:43:01.399350] [info] Total page videos: 1067
+[2016-10-08 8:43:01.546783] [info] Saving finished.
+[2016-10-08 8:43:19.238321] [info] Saving to file...
+[2016-10-08 8:43:19.238467] [info] Total page videos: 1067
+[2016-10-08 8:43:19.415996] [info] Saving finished.
+[2016-10-08 8:43:35.490974] [info] Saving to file...
+[2016-10-08 8:43:35.491106] [info] Total page videos: 1067
+[2016-10-08 8:43:36.098870] [info] Saving finished.
+[2016-10-08 8:43:52.154947] [info] Saving to file...
+[2016-10-08 8:43:52.155090] [info] Total page videos: 1067
+[2016-10-08 8:43:52.290296] [info] Saving finished.
+[2016-10-08 8:44:02.466200] [info] Saving to file...
+[2016-10-08 8:44:02.466331] [info] Total page videos: 1067
+[2016-10-08 8:44:02.615608] [info] Saving finished.
+[2016-10-08 8:44:02.616816] [info] Total videos: 1067
+[2016-10-08 8:44:02.618105] [info] Analyzing page: ajplusarabi
+[2016-10-08 8:44:40.183470] [info] Saving to file...
+[2016-10-08 8:44:40.183662] [info] Total page videos: 21
+[2016-10-08 8:44:40.188930] [info] Saving finished.
+[2016-10-08 8:51:02.893429] [info] Saving to file...
+[2016-10-08 8:51:02.893634] [info] Total page videos: 271
+[2016-10-08 8:51:02.976686] [info] Saving finished.
+[2016-10-08 8:57:40.431927] [info] Saving to file...
+[2016-10-08 8:57:40.432140] [info] Total page videos: 521
+[2016-10-08 8:57:41.471502] [info] Saving finished.
+[2016-10-08 8:59:03.942495] [info] Saving to file...
+[2016-10-08 8:59:03.942655] [info] Total page videos: 568
+[2016-10-08 8:59:04.097767] [info] Saving finished.
+[2016-10-08 8:59:10.267826] [info] Saving to file...
+[2016-10-08 8:59:10.267935] [info] Total page videos: 568
+[2016-10-08 8:59:10.354093] [info] Saving finished.
+[2016-10-08 8:59:16.801177] [info] Saving to file...
+[2016-10-08 8:59:16.801321] [info] Total page videos: 568
+[2016-10-08 8:59:16.920087] [info] Saving finished.
+[2016-10-08 8:59:16.920236] [info] Total videos: 1635
+[2016-10-08 8:59:16.921403] [info] Analyzing page: ajplusespanol
+[2016-10-08 9:02:16.887109] [info] Saving to file...
+[2016-10-08 9:02:16.887245] [info] Total page videos: 127
+[2016-10-08 9:02:16.903206] [info] Saving finished.
+[2016-10-08 9:02:22.165992] [info] Saving to file...
+[2016-10-08 9:02:22.166138] [info] Total page videos: 127
+[2016-10-08 9:02:22.220293] [info] Saving finished.
+[2016-10-08 9:02:28.511101] [info] Saving to file...
+[2016-10-08 9:02:28.511250] [info] Total page videos: 127
+[2016-10-08 9:02:28.566684] [info] Saving finished.
+[2016-10-08 9:02:28.566998] [info] Saving to file...
+[2016-10-08 9:02:28.567037] [info] Total page videos: 127
+[2016-10-08 9:02:28.576251] [info] Saving finished.
+[2016-10-08 9:02:28.576335] [info] Total videos: 1762
+[2016-10-08 9:02:28.576877] [info] Analyzing page: 729144560553826
+[2016-10-08 9:02:28.693655] [info] Saving to file...
+[2016-10-08 9:02:28.693766] [info] Total page videos: 0
+[2016-10-08 9:02:28.693928] [info] Saving finished.
+[2016-10-08 9:02:28.694011] [info] Total videos: 1762
+[2016-10-08 9:02:28.694077] [info] Analyzing page: officialaddiktion
+[2016-10-08 9:02:28.816576] [error] Request for page id officialaddiktion failed: (#803) Some of the aliases you requested do not exist: officialaddiktion
+[2016-10-08 9:02:28.816708] [info] Analyzing page: notyouraveragegoat
+[2016-10-08 9:02:28.864249] [error] Request for page id notyouraveragegoat failed: (#803) Some of the aliases you requested do not exist: notyouraveragegoat
+[2016-10-08 9:02:28.864362] [info] Analyzing page: 383868794967200
+[2016-10-08 9:02:28.905133] [error] Request for page id 383868794967200 failed: Unsupported get request. Object with ID '383868794967200' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 9:02:28.905249] [info] Analyzing page: missamandacerny
+[2016-10-08 9:03:16.521060] [info] Saving to file...
+[2016-10-08 9:03:16.521198] [info] Total page videos: 26
+[2016-10-08 9:03:16.523524] [info] Saving finished.
+[2016-10-08 9:03:16.523622] [info] Total videos: 1788
+[2016-10-08 9:03:16.523785] [info] Analyzing page: afv
+[2016-10-08 9:03:27.755004] [info] Saving to file...
+[2016-10-08 9:03:27.755147] [info] Total page videos: 0
+[2016-10-08 9:03:27.755328] [info] Saving finished.
+[2016-10-08 9:08:30.136486] [info] Saving to file...
+[2016-10-08 9:08:30.136699] [info] Total page videos: 188
+[2016-10-08 9:08:30.205764] [info] Saving finished.
+[2016-10-08 9:14:57.732467] [info] Saving to file...
+[2016-10-08 9:14:57.732657] [info] Total page videos: 438
+[2016-10-08 9:14:57.782967] [info] Saving finished.
+[2016-10-08 9:21:41.428456] [info] Saving to file...
+[2016-10-08 9:21:41.428661] [info] Total page videos: 688
+[2016-10-08 9:21:41.490215] [info] Saving finished.
+[2016-10-08 9:23:46.360255] [info] Saving to file...
+[2016-10-08 9:23:46.360424] [info] Total page videos: 755
+[2016-10-08 9:23:46.474793] [info] Saving finished.
+[2016-10-08 9:23:59.837851] [info] Saving to file...
+[2016-10-08 9:23:59.837997] [info] Total page videos: 755
+[2016-10-08 9:23:59.949887] [info] Saving finished.
+[2016-10-08 9:24:11.070947] [info] Saving to file...
+[2016-10-08 9:24:11.071096] [info] Total page videos: 755
+[2016-10-08 9:24:11.189070] [info] Saving finished.
+[2016-10-08 9:24:24.508016] [info] Saving to file...
+[2016-10-08 9:24:24.508171] [info] Total page videos: 755
+[2016-10-08 9:24:25.462855] [info] Saving finished.
+[2016-10-08 9:24:37.868767] [info] Saving to file...
+[2016-10-08 9:24:37.868935] [info] Total page videos: 755
+[2016-10-08 9:24:37.983710] [info] Saving finished.
+[2016-10-08 9:24:49.521070] [info] Saving to file...
+[2016-10-08 9:24:49.521250] [info] Total page videos: 755
+[2016-10-08 9:24:50.087131] [info] Saving finished.
+[2016-10-08 9:25:01.782346] [info] Saving to file...
+[2016-10-08 9:25:01.782516] [info] Total page videos: 755
+[2016-10-08 9:25:01.884538] [info] Saving finished.
+[2016-10-08 9:25:13.210473] [info] Saving to file...
+[2016-10-08 9:25:13.210654] [info] Total page videos: 755
+[2016-10-08 9:25:13.322840] [info] Saving finished.
+[2016-10-08 9:25:25.641514] [info] Saving to file...
+[2016-10-08 9:25:25.641647] [info] Total page videos: 755
+[2016-10-08 9:25:25.754193] [info] Saving finished.
+[2016-10-08 9:25:35.873292] [info] Saving to file...
+[2016-10-08 9:25:35.873437] [info] Total page videos: 755
+[2016-10-08 9:25:35.980619] [info] Saving finished.
+[2016-10-08 9:25:40.680104] [info] Saving to file...
+[2016-10-08 9:25:40.680229] [info] Total page videos: 755
+[2016-10-08 9:25:40.763346] [info] Saving finished.
+[2016-10-08 9:25:40.763427] [info] Total videos: 2543
+[2016-10-08 9:25:40.764018] [info] Analyzing page: 123984435600
+[2016-10-08 9:26:15.967135] [info] Saving to file...
+[2016-10-08 9:26:15.967298] [info] Total page videos: 17
+[2016-10-08 9:26:15.970120] [info] Saving finished.
+[2016-10-08 9:26:21.654859] [info] Saving to file...
+[2016-10-08 9:26:21.655038] [info] Total page videos: 17
+[2016-10-08 9:26:21.697691] [info] Saving finished.
+[2016-10-08 9:26:22.760654] [info] Saving to file...
+[2016-10-08 9:26:22.760799] [info] Total page videos: 17
+[2016-10-08 9:26:24.462667] [info] Saving finished.
+[2016-10-08 9:26:24.462846] [info] Total videos: 2560
+[2016-10-08 9:26:24.463886] [info] Analyzing page: 791444607539751
+[2016-10-08 9:26:47.703995] [info] Saving to file...
+[2016-10-08 9:26:47.704143] [info] Total page videos: 9
+[2016-10-08 9:26:47.706218] [info] Saving finished.
+[2016-10-08 9:26:47.706310] [info] Total videos: 2569
+[2016-10-08 9:26:47.706701] [info] Analyzing page: 442299909214819
+[2016-10-08 9:27:47.489281] [info] Saving to file...
+[2016-10-08 9:27:47.489465] [info] Total page videos: 33
+[2016-10-08 9:27:47.493541] [info] Saving finished.
+[2016-10-08 9:27:51.501286] [info] Saving to file...
+[2016-10-08 9:27:51.501430] [info] Total page videos: 33
+[2016-10-08 9:27:51.541416] [info] Saving finished.
+[2016-10-08 9:27:55.381001] [info] Saving to file...
+[2016-10-08 9:27:55.381122] [info] Total page videos: 33
+[2016-10-08 9:27:55.441222] [info] Saving finished.
+[2016-10-08 9:27:55.441576] [info] Saving to file...
+[2016-10-08 9:27:55.441642] [info] Total page videos: 33
+[2016-10-08 9:27:55.471290] [info] Saving finished.
+[2016-10-08 9:27:55.471467] [info] Total videos: 2602
+[2016-10-08 9:27:55.471752] [info] Analyzing page: attn
+[2016-10-08 9:29:53.021601] [error] Pattern not found when looking for views count.
+[2016-10-08 9:30:26.655441] [error] Pattern not found when looking for views count.
+[2016-10-08 9:31:26.590111] [info] Saving to file...
+[2016-10-08 9:31:26.590266] [info] Total page videos: 130
+[2016-10-08 9:31:26.605936] [info] Saving finished.
+[2016-10-08 9:31:41.091869] [info] Saving to file...
+[2016-10-08 9:31:41.092025] [info] Total page videos: 130
+[2016-10-08 9:31:41.160156] [info] Saving finished.
+[2016-10-08 9:31:52.612899] [info] Saving to file...
+[2016-10-08 9:31:52.613053] [info] Total page videos: 130
+[2016-10-08 9:31:52.659183] [info] Saving finished.
+[2016-10-08 9:31:52.659365] [info] Total videos: 2732
+[2016-10-08 9:31:52.660167] [info] Analyzing page: 228735667216
+[2016-10-08 9:32:06.541086] [info] Saving to file...
+[2016-10-08 9:32:06.541235] [info] Total page videos: 0
+[2016-10-08 9:32:06.541419] [info] Saving finished.
+[2016-10-08 9:37:03.814204] [info] Saving to file...
+[2016-10-08 9:37:03.814378] [info] Total page videos: 154
+[2016-10-08 9:37:03.864960] [info] Saving finished.
+[2016-10-08 9:43:47.415426] [error] Pattern not found when looking for views count.
+[2016-10-08 9:44:57.697876] [info] Saving to file...
+[2016-10-08 9:44:57.698076] [info] Total page videos: 403
+[2016-10-08 9:44:57.747857] [info] Saving finished.
+[2016-10-08 9:46:02.617126] [error] Pattern not found when looking for views count.
+[2016-10-08 9:46:08.703735] [error] Pattern not found when looking for views count.
+[2016-10-08 9:49:21.034524] [error] Pattern not found when looking for views count.
+[2016-10-08 9:50:26.021167] [error] Pattern not found when looking for views count.
+[2016-10-08 9:52:46.475281] [info] Saving to file...
+[2016-10-08 9:52:46.475481] [info] Total page videos: 649
+[2016-10-08 9:52:46.552612] [info] Saving finished.
+[2016-10-08 9:55:47.349181] [error] Pattern not found when looking for views count.
+[2016-10-08 9:56:04.583851] [error] Pattern not found when looking for views count.
+[2016-10-08 9:57:40.550117] [error] Pattern not found when looking for views count.
+[2016-10-08 9:57:50.383388] [error] Pattern not found when looking for views count.
+[2016-10-08 9:57:50.602176] [error] Pattern not found when looking for views count.
+[2016-10-08 9:58:38.214984] [info] Saving to file...
+[2016-10-08 9:58:38.215137] [info] Total page videos: 830
+[2016-10-08 9:58:38.336003] [info] Saving finished.
+[2016-10-08 9:58:53.574651] [info] Saving to file...
+[2016-10-08 9:58:53.574814] [info] Total page videos: 830
+[2016-10-08 9:58:53.685806] [info] Saving finished.
+[2016-10-08 9:59:08.320957] [info] Saving to file...
+[2016-10-08 9:59:08.321100] [info] Total page videos: 830
+[2016-10-08 9:59:08.434048] [info] Saving finished.
+[2016-10-08 9:59:25.020771] [info] Saving to file...
+[2016-10-08 9:59:25.020950] [info] Total page videos: 830
+[2016-10-08 9:59:25.137403] [info] Saving finished.
+[2016-10-08 9:59:43.075427] [info] Saving to file...
+[2016-10-08 9:59:43.075587] [info] Total page videos: 830
+[2016-10-08 9:59:43.189465] [info] Saving finished.
+[2016-10-08 9:59:59.304483] [info] Saving to file...
+[2016-10-08 9:59:59.304653] [info] Total page videos: 830
+[2016-10-08 10:00:00.086954] [info] Saving finished.
+[2016-10-08 10:00:17.265655] [info] Saving to file...
+[2016-10-08 10:00:17.265818] [info] Total page videos: 830
+[2016-10-08 10:00:17.395729] [info] Saving finished.
+[2016-10-08 10:00:31.787698] [info] Saving to file...
+[2016-10-08 10:00:31.787849] [info] Total page videos: 830
+[2016-10-08 10:00:31.922349] [info] Saving finished.
+[2016-10-08 10:00:47.149432] [info] Saving to file...
+[2016-10-08 10:00:47.149584] [info] Total page videos: 830
+[2016-10-08 10:00:47.270976] [info] Saving finished.
+[2016-10-08 10:01:04.107606] [info] Saving to file...
+[2016-10-08 10:01:04.107747] [info] Total page videos: 830
+[2016-10-08 10:01:04.224754] [info] Saving finished.
+[2016-10-08 10:01:20.026464] [info] Saving to file...
+[2016-10-08 10:01:20.026607] [info] Total page videos: 830
+[2016-10-08 10:01:20.136073] [info] Saving finished.
+[2016-10-08 10:01:29.403239] [info] Saving to file...
+[2016-10-08 10:01:29.403373] [info] Total page videos: 830
+[2016-10-08 10:01:29.517939] [info] Saving finished.
+[2016-10-08 10:01:29.518062] [info] Total videos: 3562
+[2016-10-08 10:01:29.518696] [info] Analyzing page: banazmx
+[2016-10-08 10:03:14.312596] [info] Saving to file...
+[2016-10-08 10:03:14.312760] [info] Total page videos: 51
+[2016-10-08 10:03:14.319720] [info] Saving finished.
+[2016-10-08 10:03:20.185796] [info] Saving to file...
+[2016-10-08 10:03:20.185965] [info] Total page videos: 51
+[2016-10-08 10:03:20.799135] [info] Saving finished.
+[2016-10-08 10:03:26.547580] [info] Saving to file...
+[2016-10-08 10:03:26.547755] [info] Total page videos: 51
+[2016-10-08 10:03:27.307749] [info] Saving finished.
+[2016-10-08 10:03:33.314930] [info] Saving to file...
+[2016-10-08 10:03:33.315103] [info] Total page videos: 51
+[2016-10-08 10:03:33.361749] [info] Saving finished.
+[2016-10-08 10:03:36.217698] [info] Saving to file...
+[2016-10-08 10:03:36.217828] [info] Total page videos: 51
+[2016-10-08 10:03:36.279301] [info] Saving finished.
+[2016-10-08 10:03:36.279436] [info] Total videos: 3613
+[2016-10-08 10:03:36.280447] [info] Analyzing page: benphillipsuk
+[2016-10-08 10:04:10.733727] [info] Saving to file...
+[2016-10-08 10:04:10.733911] [info] Total page videos: 15
+[2016-10-08 10:04:10.736037] [info] Saving finished.
+[2016-10-08 10:04:10.736831] [info] Saving to file...
+[2016-10-08 10:04:10.736898] [info] Total page videos: 15
+[2016-10-08 10:04:10.778871] [info] Saving finished.
+[2016-10-08 10:04:10.779033] [info] Total videos: 3628
+[2016-10-08 10:04:10.780186] [info] Analyzing page: 106356299474820
+[2016-10-08 10:05:27.878247] [info] Saving to file...
+[2016-10-08 10:05:27.878407] [info] Total page videos: 49
+[2016-10-08 10:05:27.883651] [info] Saving finished.
+[2016-10-08 10:05:36.523745] [info] Saving to file...
+[2016-10-08 10:05:36.523890] [info] Total page videos: 49
+[2016-10-08 10:05:36.561604] [info] Saving finished.
+[2016-10-08 10:05:44.463779] [info] Saving to file...
+[2016-10-08 10:05:44.463929] [info] Total page videos: 49
+[2016-10-08 10:05:44.502244] [info] Saving finished.
+[2016-10-08 10:05:51.913850] [info] Saving to file...
+[2016-10-08 10:05:51.914009] [info] Total page videos: 49
+[2016-10-08 10:05:51.951566] [info] Saving finished.
+[2016-10-08 10:06:00.782845] [info] Saving to file...
+[2016-10-08 10:06:00.783013] [info] Total page videos: 49
+[2016-10-08 10:06:00.841069] [info] Saving finished.
+[2016-10-08 10:06:08.666560] [info] Saving to file...
+[2016-10-08 10:06:08.666712] [info] Total page videos: 49
+[2016-10-08 10:06:08.700917] [info] Saving finished.
+[2016-10-08 10:06:17.205377] [info] Saving to file...
+[2016-10-08 10:06:17.205513] [info] Total page videos: 49
+[2016-10-08 10:06:17.257266] [info] Saving finished.
+[2016-10-08 10:06:25.176888] [info] Saving to file...
+[2016-10-08 10:06:25.177016] [info] Total page videos: 49
+[2016-10-08 10:06:25.222541] [info] Saving finished.
+[2016-10-08 10:06:33.159513] [info] Saving to file...
+[2016-10-08 10:06:33.159657] [info] Total page videos: 49
+[2016-10-08 10:06:33.192645] [info] Saving finished.
+[2016-10-08 10:06:41.569922] [info] Saving to file...
+[2016-10-08 10:06:41.570102] [info] Total page videos: 49
+[2016-10-08 10:06:41.603859] [info] Saving finished.
+[2016-10-08 10:06:49.398091] [info] Saving to file...
+[2016-10-08 10:06:49.398251] [info] Total page videos: 49
+[2016-10-08 10:06:49.443571] [info] Saving finished.
+[2016-10-08 10:06:54.083039] [info] Saving to file...
+[2016-10-08 10:06:54.083184] [info] Total page videos: 49
+[2016-10-08 10:06:54.115400] [info] Saving finished.
+[2016-10-08 10:06:54.115581] [info] Total videos: 3677
+[2016-10-08 10:06:54.116426] [info] Analyzing page: 170901143077174
+[2016-10-08 10:07:22.133182] [info] Saving to file...
+[2016-10-08 10:07:22.133332] [info] Total page videos: 16
+[2016-10-08 10:07:22.136291] [info] Saving finished.
+[2016-10-08 10:07:22.136384] [info] Total videos: 3693
+[2016-10-08 10:07:22.136814] [info] Analyzing page: 7331091005
+[2016-10-08 10:07:35.106945] [info] Saving to file...
+[2016-10-08 10:07:35.107094] [info] Total page videos: 0
+[2016-10-08 10:07:35.107291] [info] Saving finished.
+[2016-10-08 10:07:40.453644] [info] Saving to file...
+[2016-10-08 10:07:40.453795] [info] Total page videos: 0
+[2016-10-08 10:07:40.456094] [info] Saving finished.
+[2016-10-08 10:07:40.456229] [info] Total videos: 3693
+[2016-10-08 10:07:40.457132] [info] Analyzing page: mr.braddy
+[2016-10-08 10:07:55.615309] [info] Saving to file...
+[2016-10-08 10:07:55.615453] [info] Total page videos: 0
+[2016-10-08 10:07:55.615626] [info] Saving finished.
+[2016-10-08 10:08:12.433235] [info] Saving to file...
+[2016-10-08 10:08:12.433393] [info] Total page videos: 0
+[2016-10-08 10:08:12.433651] [info] Saving finished.
+[2016-10-08 10:08:29.057792] [info] Saving to file...
+[2016-10-08 10:08:29.057935] [info] Total page videos: 0
+[2016-10-08 10:08:29.058182] [info] Saving finished.
+[2016-10-08 10:09:49.838644] [info] Saving to file...
+[2016-10-08 10:09:49.838821] [info] Total page videos: 39
+[2016-10-08 10:09:52.086764] [info] Saving finished.
+[2016-10-08 10:17:12.453166] [info] Saving to file...
+[2016-10-08 10:17:12.453347] [info] Total page videos: 286
+[2016-10-08 10:17:12.503885] [info] Saving finished.
+[2016-10-08 10:24:18.376450] [info] Saving to file...
+[2016-10-08 10:24:18.376619] [info] Total page videos: 529
+[2016-10-08 10:24:18.467346] [info] Saving finished.
+[2016-10-08 10:32:20.364558] [info] Saving to file...
+[2016-10-08 10:32:20.364744] [info] Total page videos: 775
+[2016-10-08 10:32:21.518548] [info] Saving finished.
+[2016-10-08 10:39:49.602119] [info] Saving to file...
+[2016-10-08 10:39:49.602303] [info] Total page videos: 1025
+[2016-10-08 10:39:49.734477] [info] Saving finished.
+[2016-10-08 10:47:36.281714] [info] Saving to file...
+[2016-10-08 10:47:36.281904] [info] Total page videos: 1275
+[2016-10-08 10:47:36.433981] [info] Saving finished.
+[2016-10-08 10:54:28.754040] [info] Saving to file...
+[2016-10-08 10:54:28.754219] [info] Total page videos: 1515
+[2016-10-08 10:54:28.920444] [info] Saving finished.
+[2016-10-08 10:54:49.595777] [info] Saving to file...
+[2016-10-08 10:54:49.595912] [info] Total page videos: 1517
+[2016-10-08 10:54:51.747068] [info] Saving finished.
+[2016-10-08 10:55:07.903306] [info] Saving to file...
+[2016-10-08 10:55:07.903467] [info] Total page videos: 1517
+[2016-10-08 10:55:08.409898] [info] Saving finished.
+[2016-10-08 10:55:25.161900] [info] Saving to file...
+[2016-10-08 10:55:25.162049] [info] Total page videos: 1517
+[2016-10-08 10:55:25.803805] [info] Saving finished.
+[2016-10-08 10:55:43.757437] [info] Saving to file...
+[2016-10-08 10:55:43.757571] [info] Total page videos: 1517
+[2016-10-08 10:55:44.060177] [info] Saving finished.
+[2016-10-08 10:56:02.154875] [info] Saving to file...
+[2016-10-08 10:56:02.155056] [info] Total page videos: 1517
+[2016-10-08 10:56:02.317476] [info] Saving finished.
+[2016-10-08 10:56:19.609181] [info] Saving to file...
+[2016-10-08 10:56:19.609349] [info] Total page videos: 1517
+[2016-10-08 10:56:19.772787] [info] Saving finished.
+[2016-10-08 10:56:38.531620] [info] Saving to file...
+[2016-10-08 10:56:38.531786] [info] Total page videos: 1517
+[2016-10-08 10:56:38.717408] [info] Saving finished.
+[2016-10-08 10:56:57.725302] [info] Saving to file...
+[2016-10-08 10:56:57.725474] [info] Total page videos: 1517
+[2016-10-08 10:56:57.905796] [info] Saving finished.
+[2016-10-08 10:57:17.124694] [info] Saving to file...
+[2016-10-08 10:57:17.124869] [info] Total page videos: 1517
+[2016-10-08 10:57:17.304864] [info] Saving finished.
+[2016-10-08 10:57:34.330138] [info] Saving to file...
+[2016-10-08 10:57:34.330307] [info] Total page videos: 1517
+[2016-10-08 10:57:34.508192] [info] Saving finished.
+[2016-10-08 10:57:51.279484] [info] Saving to file...
+[2016-10-08 10:57:51.279654] [info] Total page videos: 1517
+[2016-10-08 10:57:51.471013] [info] Saving finished.
+[2016-10-08 10:58:03.544037] [info] Saving to file...
+[2016-10-08 10:58:03.544200] [info] Total page videos: 1517
+[2016-10-08 10:58:04.087846] [info] Saving finished.
+[2016-10-08 10:58:04.088778] [info] Total videos: 5210
+[2016-10-08 10:58:04.089582] [info] Analyzing page: brightside
+[2016-10-08 11:00:27.780822] [info] Saving to file...
+[2016-10-08 11:00:27.781006] [info] Total page videos: 93
+[2016-10-08 11:00:27.796087] [info] Saving finished.
+[2016-10-08 11:06:22.943842] [info] Saving to file...
+[2016-10-08 11:06:22.944029] [info] Total page videos: 326
+[2016-10-08 11:06:23.030013] [info] Saving finished.
+[2016-10-08 11:06:27.360759] [info] Saving to file...
+[2016-10-08 11:06:27.360905] [info] Total page videos: 326
+[2016-10-08 11:06:27.431164] [info] Saving finished.
+[2016-10-08 11:06:27.688869] [info] Saving to file...
+[2016-10-08 11:06:27.689006] [info] Total page videos: 326
+[2016-10-08 11:06:27.792345] [info] Saving finished.
+[2016-10-08 11:06:27.792495] [info] Total videos: 5536
+[2016-10-08 11:06:27.793052] [info] Analyzing page: cubanswagpapi
+[2016-10-08 11:06:27.863405] [error] Request for page id cubanswagpapi failed: Unsupported get request. Object with ID 'cubanswagpapi' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 11:06:27.863552] [info] Analyzing page: bff
+[2016-10-08 11:06:38.699542] [info] Saving to file...
+[2016-10-08 11:06:38.699708] [info] Total page videos: 2
+[2016-10-08 11:06:38.700191] [info] Saving finished.
+[2016-10-08 11:06:40.125041] [info] Saving to file...
+[2016-10-08 11:06:40.125184] [info] Total page videos: 2
+[2016-10-08 11:06:40.125735] [info] Saving finished.
+[2016-10-08 11:06:40.125818] [info] Total videos: 5538
+[2016-10-08 11:06:40.126323] [info] Analyzing page: 491452930867938
+[2016-10-08 11:08:38.516549] [info] Saving to file...
+[2016-10-08 11:08:38.516689] [info] Total page videos: 67
+[2016-10-08 11:08:38.524987] [info] Saving finished.
+[2016-10-08 11:08:45.160015] [info] Saving to file...
+[2016-10-08 11:08:45.160152] [info] Total page videos: 67
+[2016-10-08 11:08:45.208307] [info] Saving finished.
+[2016-10-08 11:08:45.208798] [info] Saving to file...
+[2016-10-08 11:08:45.208877] [info] Total page videos: 67
+[2016-10-08 11:08:45.217968] [info] Saving finished.
+[2016-10-08 11:08:45.218107] [info] Total videos: 5605
+[2016-10-08 11:08:45.218512] [info] Analyzing page: 1412984988933193
+[2016-10-08 11:09:50.291937] [info] Saving to file...
+[2016-10-08 11:09:50.292095] [info] Total page videos: 41
+[2016-10-08 11:09:50.297244] [info] Saving finished.
+[2016-10-08 11:09:53.277493] [info] Saving to file...
+[2016-10-08 11:09:53.277637] [info] Total page videos: 41
+[2016-10-08 11:09:53.314974] [info] Saving finished.
+[2016-10-08 11:09:53.315148] [info] Total videos: 5646
+[2016-10-08 11:09:53.315656] [info] Analyzing page: 1737181656494507
+[2016-10-08 11:11:49.066998] [info] Saving to file...
+[2016-10-08 11:11:49.067153] [info] Total page videos: 56
+[2016-10-08 11:11:49.074454] [info] Saving finished.
+[2016-10-08 11:11:49.074593] [info] Total videos: 5702
+[2016-10-08 11:11:49.075627] [info] Analyzing page: buzzfeedtopknot
+[2016-10-08 11:12:59.986543] [info] Saving to file...
+[2016-10-08 11:12:59.986711] [info] Total page videos: 41
+[2016-10-08 11:12:59.992336] [info] Saving finished.
+[2016-10-08 11:12:59.993197] [info] Saving to file...
+[2016-10-08 11:12:59.993274] [info] Total page videos: 41
+[2016-10-08 11:13:00.766686] [info] Saving finished.
+[2016-10-08 11:13:00.766855] [info] Total videos: 5743
+[2016-10-08 11:13:00.767823] [info] Analyzing page: 1318800798260799
+[2016-10-08 11:16:24.636677] [info] Saving to file...
+[2016-10-08 11:16:24.636882] [info] Total page videos: 110
+[2016-10-08 11:16:24.651376] [info] Saving finished.
+[2016-10-08 11:23:42.592238] [info] Saving to file...
+[2016-10-08 11:23:42.592427] [info] Total page videos: 355
+[2016-10-08 11:23:42.660574] [info] Saving finished.
+[2016-10-08 11:24:02.206298] [info] Saving to file...
+[2016-10-08 11:24:02.206481] [info] Total page videos: 355
+[2016-10-08 11:24:02.971580] [info] Saving finished.
+[2016-10-08 11:24:23.474967] [info] Saving to file...
+[2016-10-08 11:24:23.475119] [info] Total page videos: 355
+[2016-10-08 11:24:23.544589] [info] Saving finished.
+[2016-10-08 11:24:42.508310] [info] Saving to file...
+[2016-10-08 11:24:42.508460] [info] Total page videos: 355
+[2016-10-08 11:24:42.583980] [info] Saving finished.
+[2016-10-08 11:25:01.511079] [info] Saving to file...
+[2016-10-08 11:25:01.511230] [info] Total page videos: 355
+[2016-10-08 11:25:01.579237] [info] Saving finished.
+[2016-10-08 11:25:16.775335] [info] Saving to file...
+[2016-10-08 11:25:16.775523] [info] Total page videos: 355
+[2016-10-08 11:25:16.852994] [info] Saving finished.
+[2016-10-08 11:25:16.853163] [info] Total videos: 6098
+[2016-10-08 11:25:16.854753] [info] Analyzing page: buzzfeedfood
+[2016-10-08 11:27:03.425947] [info] Saving to file...
+[2016-10-08 11:27:03.426112] [info] Total page videos: 67
+[2016-10-08 11:27:03.434818] [info] Saving finished.
+[2016-10-08 11:27:07.746732] [info] Saving to file...
+[2016-10-08 11:27:07.746876] [info] Total page videos: 67
+[2016-10-08 11:27:07.800997] [info] Saving finished.
+[2016-10-08 11:27:07.801594] [info] Saving to file...
+[2016-10-08 11:27:07.801671] [info] Total page videos: 67
+[2016-10-08 11:27:07.811230] [info] Saving finished.
+[2016-10-08 11:27:07.811362] [info] Total videos: 6165
+[2016-10-08 11:27:07.811820] [info] Analyzing page: buzzfeednews
+[2016-10-08 11:27:13.682306] [error] Pattern not found when looking for views count.
+[2016-10-08 11:27:15.439886] [error] Pattern not found when looking for views count.
+[2016-10-08 11:27:15.670392] [error] Pattern not found when looking for views count.
+[2016-10-08 11:27:30.326282] [error] Pattern not found when looking for views count.
+[2016-10-08 11:27:30.560185] [error] Pattern not found when looking for views count.
+[2016-10-08 11:27:37.058762] [error] Pattern not found when looking for views count.
+[2016-10-08 11:27:54.876548] [error] Pattern not found when looking for views count.
+[2016-10-08 11:27:55.092078] [error] Pattern not found when looking for views count.
+[2016-10-08 11:27:57.007962] [error] Pattern not found when looking for views count.
+[2016-10-08 11:28:06.460107] [error] Pattern not found when looking for views count.
+[2016-10-08 11:30:24.806037] [info] Saving to file...
+[2016-10-08 11:30:24.806233] [info] Total page videos: 110
+[2016-10-08 11:30:25.482783] [info] Saving finished.
+[2016-10-08 11:33:32.303698] [info] Saving to file...
+[2016-10-08 11:33:32.303864] [info] Total page videos: 203
+[2016-10-08 11:33:32.379664] [info] Saving finished.
+[2016-10-08 11:33:41.789011] [info] Saving to file...
+[2016-10-08 11:33:41.789174] [info] Total page videos: 203
+[2016-10-08 11:33:41.854274] [info] Saving finished.
+[2016-10-08 11:33:48.742712] [info] Saving to file...
+[2016-10-08 11:33:48.742852] [info] Total page videos: 203
+[2016-10-08 11:33:48.808128] [info] Saving finished.
+[2016-10-08 11:33:51.621331] [info] Saving to file...
+[2016-10-08 11:33:51.621474] [info] Total page videos: 203
+[2016-10-08 11:33:51.675489] [info] Saving finished.
+[2016-10-08 11:33:51.675658] [info] Total videos: 6368
+[2016-10-08 11:33:51.676808] [info] Analyzing page: buzzfeedvideo
+[2016-10-08 11:37:21.130686] [info] Saving to file...
+[2016-10-08 11:37:21.130888] [info] Total page videos: 110
+[2016-10-08 11:37:21.143336] [info] Saving finished.
+[2016-10-08 11:45:18.835602] [info] Saving to file...
+[2016-10-08 11:45:18.835789] [info] Total page videos: 355
+[2016-10-08 11:45:18.914345] [info] Saving finished.
+[2016-10-08 11:45:38.507874] [info] Saving to file...
+[2016-10-08 11:45:38.508022] [info] Total page videos: 355
+[2016-10-08 11:45:38.577202] [info] Saving finished.
+[2016-10-08 11:45:57.650392] [info] Saving to file...
+[2016-10-08 11:45:57.650556] [info] Total page videos: 355
+[2016-10-08 11:45:58.087059] [info] Saving finished.
+[2016-10-08 11:46:16.751787] [info] Saving to file...
+[2016-10-08 11:46:16.751955] [info] Total page videos: 355
+[2016-10-08 11:46:16.824698] [info] Saving finished.
+[2016-10-08 11:46:35.708049] [info] Saving to file...
+[2016-10-08 11:46:35.708229] [info] Total page videos: 355
+[2016-10-08 11:46:35.804020] [info] Saving finished.
+[2016-10-08 11:46:51.053630] [info] Saving to file...
+[2016-10-08 11:46:51.053802] [info] Total page videos: 355
+[2016-10-08 11:46:51.143817] [info] Saving finished.
+[2016-10-08 11:46:51.143980] [info] Total videos: 6723
+[2016-10-08 11:46:51.145534] [info] Analyzing page: cbcnews
+[2016-10-08 11:50:14.949646] [info] Saving to file...
+[2016-10-08 11:50:14.949831] [info] Total page videos: 127
+[2016-10-08 11:50:14.966902] [info] Saving finished.
+[2016-10-08 11:56:39.831824] [info] Saving to file...
+[2016-10-08 11:56:39.832020] [info] Total page videos: 377
+[2016-10-08 11:56:39.894112] [info] Saving finished.
+[2016-10-08 11:56:58.038269] [info] Saving to file...
+[2016-10-08 11:56:58.038423] [info] Total page videos: 382
+[2016-10-08 11:56:58.120105] [info] Saving finished.
+[2016-10-08 11:57:09.925142] [info] Saving to file...
+[2016-10-08 11:57:09.925306] [info] Total page videos: 382
+[2016-10-08 11:57:10.010863] [info] Saving finished.
+[2016-10-08 11:57:20.380665] [info] Saving to file...
+[2016-10-08 11:57:20.380814] [info] Total page videos: 382
+[2016-10-08 11:57:20.457922] [info] Saving finished.
+[2016-10-08 11:57:32.073451] [info] Saving to file...
+[2016-10-08 11:57:32.073587] [info] Total page videos: 382
+[2016-10-08 11:57:32.148279] [info] Saving finished.
+[2016-10-08 11:57:43.183579] [info] Saving to file...
+[2016-10-08 11:57:43.183695] [info] Total page videos: 382
+[2016-10-08 11:57:43.247169] [info] Saving finished.
+[2016-10-08 11:57:53.976325] [info] Saving to file...
+[2016-10-08 11:57:53.976495] [info] Total page videos: 382
+[2016-10-08 11:57:54.095326] [info] Saving finished.
+[2016-10-08 11:58:04.734946] [info] Saving to file...
+[2016-10-08 11:58:04.735116] [info] Total page videos: 382
+[2016-10-08 11:58:04.833198] [info] Saving finished.
+[2016-10-08 11:58:14.811151] [info] Saving to file...
+[2016-10-08 11:58:14.811307] [info] Total page videos: 382
+[2016-10-08 11:58:14.903678] [info] Saving finished.
+[2016-10-08 11:58:17.772281] [info] Saving to file...
+[2016-10-08 11:58:17.772428] [info] Total page videos: 382
+[2016-10-08 11:58:19.566814] [info] Saving finished.
+[2016-10-08 11:58:19.566998] [info] Total videos: 7105
+[2016-10-08 11:58:19.567867] [info] Analyzing page: cbsnews
+[2016-10-08 12:00:01.294224] [info] Saving to file...
+[2016-10-08 12:00:01.294395] [info] Total page videos: 63
+[2016-10-08 12:00:01.298511] [info] Saving finished.
+[2016-10-08 12:06:44.484966] [info] Saving to file...
+[2016-10-08 12:06:44.485142] [info] Total page videos: 313
+[2016-10-08 12:06:44.542674] [info] Saving finished.
+[2016-10-08 12:06:49.634500] [error] Pattern not found when looking for views count.
+[2016-10-08 12:10:32.519115] [info] Saving to file...
+[2016-10-08 12:10:32.519275] [info] Total page videos: 443
+[2016-10-08 12:10:32.574953] [info] Saving finished.
+[2016-10-08 12:10:42.194428] [info] Saving to file...
+[2016-10-08 12:10:42.194614] [info] Total page videos: 443
+[2016-10-08 12:10:42.259902] [info] Saving finished.
+[2016-10-08 12:10:52.725689] [info] Saving to file...
+[2016-10-08 12:10:52.725884] [info] Total page videos: 443
+[2016-10-08 12:10:52.787233] [info] Saving finished.
+[2016-10-08 12:11:01.709846] [info] Saving to file...
+[2016-10-08 12:11:01.710001] [info] Total page videos: 443
+[2016-10-08 12:11:01.746515] [info] Saving finished.
+[2016-10-08 12:11:06.342375] [info] Saving to file...
+[2016-10-08 12:11:06.342542] [info] Total page videos: 443
+[2016-10-08 12:11:08.086961] [info] Saving finished.
+[2016-10-08 12:11:08.089150] [info] Total videos: 7548
+[2016-10-08 12:11:08.090209] [info] Analyzing page: 5550296508
+[2016-10-08 12:11:34.615928] [info] Saving to file...
+[2016-10-08 12:11:34.616100] [info] Total page videos: 0
+[2016-10-08 12:11:34.616301] [info] Saving finished.
+[2016-10-08 12:11:36.718775] [info] Saving to file...
+[2016-10-08 12:11:36.718910] [info] Total page videos: 0
+[2016-10-08 12:11:36.719142] [info] Saving finished.
+[2016-10-08 12:11:36.719222] [info] Total videos: 7548
+[2016-10-08 12:11:36.719634] [info] Analyzing page: channel4news
+[2016-10-08 12:11:53.932312] [info] Saving to file...
+[2016-10-08 12:11:53.932477] [info] Total page videos: 0
+[2016-10-08 12:11:53.932674] [info] Saving finished.
+[2016-10-08 12:12:48.251662] [error] Pattern not found when looking for views count.
+[2016-10-08 12:18:56.191864] [info] Saving to file...
+[2016-10-08 12:18:56.192045] [info] Total page videos: 232
+[2016-10-08 12:18:56.272653] [info] Saving finished.
+[2016-10-08 12:26:59.572849] [info] Saving to file...
+[2016-10-08 12:26:59.573055] [info] Total page videos: 482
+[2016-10-08 12:26:59.671111] [info] Saving finished.
+[2016-10-08 12:31:15.411506] [info] Saving to file...
+[2016-10-08 12:31:15.411663] [info] Total page videos: 624
+[2016-10-08 12:31:15.522480] [info] Saving finished.
+[2016-10-08 12:31:31.452210] [info] Saving to file...
+[2016-10-08 12:31:31.452362] [info] Total page videos: 624
+[2016-10-08 12:31:31.566478] [info] Saving finished.
+[2016-10-08 12:31:49.609003] [info] Saving to file...
+[2016-10-08 12:31:49.609159] [info] Total page videos: 624
+[2016-10-08 12:31:49.712243] [info] Saving finished.
+[2016-10-08 12:32:07.625087] [info] Saving to file...
+[2016-10-08 12:32:07.625247] [info] Total page videos: 624
+[2016-10-08 12:32:08.086915] [info] Saving finished.
+[2016-10-08 12:32:29.615406] [info] Saving to file...
+[2016-10-08 12:32:29.615566] [info] Total page videos: 624
+[2016-10-08 12:32:29.715046] [info] Saving finished.
+[2016-10-08 12:32:50.043176] [info] Saving to file...
+[2016-10-08 12:32:50.043323] [info] Total page videos: 624
+[2016-10-08 12:32:51.650860] [info] Saving finished.
+[2016-10-08 12:33:06.762703] [info] Saving to file...
+[2016-10-08 12:33:06.762865] [info] Total page videos: 624
+[2016-10-08 12:33:06.871476] [info] Saving finished.
+[2016-10-08 12:33:30.050534] [info] Saving to file...
+[2016-10-08 12:33:30.050704] [info] Total page videos: 624
+[2016-10-08 12:33:30.155389] [info] Saving finished.
+[2016-10-08 12:33:52.976212] [info] Saving to file...
+[2016-10-08 12:33:52.976363] [info] Total page videos: 624
+[2016-10-08 12:33:53.093193] [info] Saving finished.
+[2016-10-08 12:34:16.643229] [info] Saving to file...
+[2016-10-08 12:34:16.643399] [info] Total page videos: 624
+[2016-10-08 12:34:16.742974] [info] Saving finished.
+[2016-10-08 12:34:36.097312] [info] Saving to file...
+[2016-10-08 12:34:36.097480] [info] Total page videos: 624
+[2016-10-08 12:34:36.203598] [info] Saving finished.
+[2016-10-08 12:34:54.700719] [info] Saving to file...
+[2016-10-08 12:34:54.700871] [info] Total page videos: 624
+[2016-10-08 12:34:54.801815] [info] Saving finished.
+[2016-10-08 12:35:12.470104] [info] Saving to file...
+[2016-10-08 12:35:12.470278] [info] Total page videos: 624
+[2016-10-08 12:35:12.588037] [info] Saving finished.
+[2016-10-08 12:35:29.214890] [info] Saving to file...
+[2016-10-08 12:35:29.215076] [info] Total page videos: 624
+[2016-10-08 12:35:29.462754] [info] Saving finished.
+[2016-10-08 12:35:45.508699] [info] Saving to file...
+[2016-10-08 12:35:45.508855] [info] Total page videos: 624
+[2016-10-08 12:35:45.613791] [info] Saving finished.
+[2016-10-08 12:36:01.012146] [info] Saving to file...
+[2016-10-08 12:36:01.012310] [info] Total page videos: 624
+[2016-10-08 12:36:01.125951] [info] Saving finished.
+[2016-10-08 12:36:16.233889] [info] Saving to file...
+[2016-10-08 12:36:16.234040] [info] Total page videos: 624
+[2016-10-08 12:36:16.314290] [info] Saving finished.
+[2016-10-08 12:36:32.078547] [info] Saving to file...
+[2016-10-08 12:36:32.078672] [info] Total page videos: 624
+[2016-10-08 12:36:32.174685] [info] Saving finished.
+[2016-10-08 12:36:46.524108] [info] Saving to file...
+[2016-10-08 12:36:46.524235] [info] Total page videos: 624
+[2016-10-08 12:36:46.632282] [info] Saving finished.
+[2016-10-08 12:36:54.616192] [info] Saving to file...
+[2016-10-08 12:36:54.616331] [info] Total page videos: 624
+[2016-10-08 12:36:54.733185] [info] Saving finished.
+[2016-10-08 12:36:54.733589] [info] Total videos: 8172
+[2016-10-08 12:36:54.734190] [info] Analyzing page: chriscrockerofficial
+[2016-10-08 12:40:28.320677] [info] Saving to file...
+[2016-10-08 12:40:28.320871] [info] Total page videos: 104
+[2016-10-08 12:40:28.333833] [info] Saving finished.
+[2016-10-08 12:48:02.690324] [info] Saving to file...
+[2016-10-08 12:48:02.690540] [info] Total page videos: 354
+[2016-10-08 12:48:02.768009] [info] Saving finished.
+[2016-10-08 12:50:13.949070] [info] Saving to file...
+[2016-10-08 12:50:13.949239] [info] Total page videos: 424
+[2016-10-08 12:50:14.028872] [info] Saving finished.
+[2016-10-08 12:50:24.658603] [info] Saving to file...
+[2016-10-08 12:50:24.658782] [info] Total page videos: 424
+[2016-10-08 12:50:25.023614] [info] Saving finished.
+[2016-10-08 12:50:36.921933] [info] Saving to file...
+[2016-10-08 12:50:36.922102] [info] Total page videos: 424
+[2016-10-08 12:50:36.983757] [info] Saving finished.
+[2016-10-08 12:50:49.616976] [info] Saving to file...
+[2016-10-08 12:50:49.617115] [info] Total page videos: 424
+[2016-10-08 12:50:49.695791] [info] Saving finished.
+[2016-10-08 12:51:01.299026] [info] Saving to file...
+[2016-10-08 12:51:01.299185] [info] Total page videos: 424
+[2016-10-08 12:51:01.391894] [info] Saving finished.
+[2016-10-08 12:51:12.605452] [info] Saving to file...
+[2016-10-08 12:51:12.605616] [info] Total page videos: 424
+[2016-10-08 12:51:12.704127] [info] Saving finished.
+[2016-10-08 12:51:22.968290] [info] Saving to file...
+[2016-10-08 12:51:22.968465] [info] Total page videos: 424
+[2016-10-08 12:51:23.049909] [info] Saving finished.
+[2016-10-08 12:51:33.856026] [info] Saving to file...
+[2016-10-08 12:51:33.856168] [info] Total page videos: 424
+[2016-10-08 12:51:33.937344] [info] Saving finished.
+[2016-10-08 12:51:44.314596] [info] Saving to file...
+[2016-10-08 12:51:44.314726] [info] Total page videos: 424
+[2016-10-08 12:51:44.413706] [info] Saving finished.
+[2016-10-08 12:51:54.610816] [info] Saving to file...
+[2016-10-08 12:51:54.610945] [info] Total page videos: 424
+[2016-10-08 12:51:55.259030] [info] Saving finished.
+[2016-10-08 12:52:04.665458] [info] Saving to file...
+[2016-10-08 12:52:04.665587] [info] Total page videos: 424
+[2016-10-08 12:52:04.746423] [info] Saving finished.
+[2016-10-08 12:52:15.256516] [info] Saving to file...
+[2016-10-08 12:52:15.256647] [info] Total page videos: 424
+[2016-10-08 12:52:15.353981] [info] Saving finished.
+[2016-10-08 12:52:25.314598] [info] Saving to file...
+[2016-10-08 12:52:25.314749] [info] Total page videos: 424
+[2016-10-08 12:52:25.390352] [info] Saving finished.
+[2016-10-08 12:52:35.499892] [info] Saving to file...
+[2016-10-08 12:52:35.500025] [info] Total page videos: 424
+[2016-10-08 12:52:35.586535] [info] Saving finished.
+[2016-10-08 12:52:47.086611] [info] Saving to file...
+[2016-10-08 12:52:47.086733] [info] Total page videos: 424
+[2016-10-08 12:52:47.156810] [info] Saving finished.
+[2016-10-08 12:52:48.146332] [info] Saving to file...
+[2016-10-08 12:52:48.146430] [info] Total page videos: 424
+[2016-10-08 12:52:48.182622] [info] Saving finished.
+[2016-10-08 12:52:48.182718] [info] Total videos: 8596
+[2016-10-08 12:52:48.183443] [info] Analyzing page: codesmeufs
+[2016-10-08 12:53:19.432074] [info] Saving to file...
+[2016-10-08 12:53:19.432214] [info] Total page videos: 12
+[2016-10-08 12:53:19.433784] [info] Saving finished.
+[2016-10-08 12:53:34.685425] [info] Saving to file...
+[2016-10-08 12:53:34.685596] [info] Total page videos: 12
+[2016-10-08 12:53:34.687222] [info] Saving finished.
+[2016-10-08 12:53:53.218579] [info] Saving to file...
+[2016-10-08 12:53:53.218740] [info] Total page videos: 12
+[2016-10-08 12:53:53.220397] [info] Saving finished.
+[2016-10-08 12:54:07.389525] [info] Saving to file...
+[2016-10-08 12:54:07.389693] [info] Total page videos: 12
+[2016-10-08 12:54:07.393554] [info] Saving finished.
+[2016-10-08 12:54:25.128108] [info] Saving to file...
+[2016-10-08 12:54:25.128288] [info] Total page videos: 12
+[2016-10-08 12:54:25.129939] [info] Saving finished.
+[2016-10-08 12:54:42.832340] [info] Saving to file...
+[2016-10-08 12:54:42.832509] [info] Total page videos: 12
+[2016-10-08 12:54:42.834208] [info] Saving finished.
+[2016-10-08 12:55:01.773026] [info] Saving to file...
+[2016-10-08 12:55:01.773185] [info] Total page videos: 12
+[2016-10-08 12:55:01.774868] [info] Saving finished.
+[2016-10-08 12:55:20.388035] [info] Saving to file...
+[2016-10-08 12:55:20.388210] [info] Total page videos: 12
+[2016-10-08 12:55:20.389961] [info] Saving finished.
+[2016-10-08 12:55:35.394530] [info] Saving to file...
+[2016-10-08 12:55:35.394700] [info] Total page videos: 12
+[2016-10-08 12:55:35.396403] [info] Saving finished.
+[2016-10-08 12:55:49.823539] [info] Saving to file...
+[2016-10-08 12:55:49.823676] [info] Total page videos: 12
+[2016-10-08 12:55:49.824990] [info] Saving finished.
+[2016-10-08 12:56:00.869546] [info] Saving to file...
+[2016-10-08 12:56:00.869716] [info] Total page videos: 12
+[2016-10-08 12:56:00.873516] [info] Saving finished.
+[2016-10-08 12:56:13.086922] [info] Saving to file...
+[2016-10-08 12:56:13.087081] [info] Total page videos: 12
+[2016-10-08 12:56:13.088699] [info] Saving finished.
+[2016-10-08 12:56:24.909595] [info] Saving to file...
+[2016-10-08 12:56:24.909770] [info] Total page videos: 12
+[2016-10-08 12:56:24.911406] [info] Saving finished.
+[2016-10-08 12:56:37.592632] [info] Saving to file...
+[2016-10-08 12:56:37.592772] [info] Total page videos: 12
+[2016-10-08 12:56:37.594119] [info] Saving finished.
+[2016-10-08 12:56:49.738919] [info] Saving to file...
+[2016-10-08 12:56:49.739059] [info] Total page videos: 12
+[2016-10-08 12:56:49.740468] [info] Saving finished.
+[2016-10-08 12:57:00.293049] [info] Saving to file...
+[2016-10-08 12:57:00.293190] [info] Total page videos: 12
+[2016-10-08 12:57:00.294922] [info] Saving finished.
+[2016-10-08 12:57:00.295023] [info] Total videos: 8608
+[2016-10-08 12:57:00.295449] [info] Analyzing page: corridosvip1
+[2016-10-08 12:57:00.656373] [info] Saving to file...
+[2016-10-08 12:57:00.656482] [info] Total page videos: 0
+[2016-10-08 12:57:00.656656] [info] Saving finished.
+[2016-10-08 12:57:00.656744] [info] Total videos: 8608
+[2016-10-08 12:57:00.657421] [info] Analyzing page: cosmopolitan
+[2016-10-08 13:00:20.770035] [info] Saving to file...
+[2016-10-08 13:00:20.770237] [info] Total page videos: 130
+[2016-10-08 13:00:20.787728] [info] Saving finished.
+[2016-10-08 13:03:08.807555] [info] Saving to file...
+[2016-10-08 13:03:08.807693] [info] Total page videos: 238
+[2016-10-08 13:03:08.871067] [info] Saving finished.
+[2016-10-08 13:03:25.129434] [info] Saving to file...
+[2016-10-08 13:03:25.129568] [info] Total page videos: 238
+[2016-10-08 13:03:25.183454] [info] Saving finished.
+[2016-10-08 13:03:39.199156] [info] Saving to file...
+[2016-10-08 13:03:39.199290] [info] Total page videos: 238
+[2016-10-08 13:03:39.255906] [info] Saving finished.
+[2016-10-08 13:03:55.173532] [info] Saving to file...
+[2016-10-08 13:03:55.173667] [info] Total page videos: 238
+[2016-10-08 13:03:55.241491] [info] Saving finished.
+[2016-10-08 13:04:10.282816] [info] Saving to file...
+[2016-10-08 13:04:10.282972] [info] Total page videos: 238
+[2016-10-08 13:04:10.350727] [info] Saving finished.
+[2016-10-08 13:04:20.715807] [info] Saving to file...
+[2016-10-08 13:04:20.715970] [info] Total page videos: 238
+[2016-10-08 13:04:20.750358] [info] Saving finished.
+[2016-10-08 13:04:20.750511] [info] Total videos: 8846
+[2016-10-08 13:04:20.751143] [info] Analyzing page: 182921855106602
+[2016-10-08 13:04:20.782092] [error] Request for page id 182921855106602 failed: Unsupported get request. Object with ID '182921855106602' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 13:04:20.782192] [info] Analyzing page: cupcakeaddiction
+[2016-10-08 13:09:01.538248] [info] Saving to file...
+[2016-10-08 13:09:01.538378] [info] Total page videos: 123
+[2016-10-08 13:09:01.552252] [info] Saving finished.
+[2016-10-08 13:09:04.885714] [info] Saving to file...
+[2016-10-08 13:09:04.885837] [info] Total page videos: 123
+[2016-10-08 13:09:04.946743] [info] Saving finished.
+[2016-10-08 13:09:04.946861] [info] Total videos: 8969
+[2016-10-08 13:09:04.947418] [info] Analyzing page: curtislepore
+[2016-10-08 13:09:25.255980] [info] Saving to file...
+[2016-10-08 13:09:25.256140] [info] Total page videos: 11
+[2016-10-08 13:09:25.257934] [info] Saving finished.
+[2016-10-08 13:09:25.258024] [info] Total videos: 8980
+[2016-10-08 13:09:25.258716] [info] Analyzing page: 8701278868
+[2016-10-08 13:09:25.293900] [error] Request for page id 8701278868 failed: Unsupported get request. Object with ID '8701278868' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 13:09:25.294013] [info] Analyzing page: officiieldahkman
+[2016-10-08 13:10:53.656337] [info] Saving to file...
+[2016-10-08 13:10:53.656465] [info] Total page videos: 62
+[2016-10-08 13:10:53.662076] [info] Saving finished.
+[2016-10-08 13:11:04.778558] [info] Saving to file...
+[2016-10-08 13:11:04.778716] [info] Total page videos: 62
+[2016-10-08 13:11:04.786228] [info] Saving finished.
+[2016-10-08 13:11:17.506244] [info] Saving to file...
+[2016-10-08 13:11:17.506402] [info] Total page videos: 62
+[2016-10-08 13:11:17.550936] [info] Saving finished.
+[2016-10-08 13:11:27.949323] [info] Saving to file...
+[2016-10-08 13:11:27.949466] [info] Total page videos: 62
+[2016-10-08 13:11:27.997273] [info] Saving finished.
+[2016-10-08 13:11:37.529009] [info] Saving to file...
+[2016-10-08 13:11:37.529160] [info] Total page videos: 62
+[2016-10-08 13:11:37.572046] [info] Saving finished.
+[2016-10-08 13:11:47.060939] [info] Saving to file...
+[2016-10-08 13:11:47.061090] [info] Total page videos: 62
+[2016-10-08 13:11:48.086785] [info] Saving finished.
+[2016-10-08 13:12:00.517155] [info] Saving to file...
+[2016-10-08 13:12:00.517313] [info] Total page videos: 62
+[2016-10-08 13:12:00.571805] [info] Saving finished.
+[2016-10-08 13:12:11.422311] [info] Saving to file...
+[2016-10-08 13:12:11.422478] [info] Total page videos: 62
+[2016-10-08 13:12:11.470096] [info] Saving finished.
+[2016-10-08 13:12:22.266136] [info] Saving to file...
+[2016-10-08 13:12:22.266288] [info] Total page videos: 62
+[2016-10-08 13:12:22.314274] [info] Saving finished.
+[2016-10-08 13:12:32.124635] [info] Saving to file...
+[2016-10-08 13:12:32.124758] [info] Total page videos: 62
+[2016-10-08 13:12:32.173865] [info] Saving finished.
+[2016-10-08 13:12:41.489383] [info] Saving to file...
+[2016-10-08 13:12:41.489504] [info] Total page videos: 62
+[2016-10-08 13:12:41.562764] [info] Saving finished.
+[2016-10-08 13:12:52.285931] [info] Saving to file...
+[2016-10-08 13:12:52.286065] [info] Total page videos: 62
+[2016-10-08 13:12:52.329958] [info] Saving finished.
+[2016-10-08 13:13:01.348923] [info] Saving to file...
+[2016-10-08 13:13:01.349050] [info] Total page videos: 62
+[2016-10-08 13:13:01.392771] [info] Saving finished.
+[2016-10-08 13:13:10.283732] [info] Saving to file...
+[2016-10-08 13:13:10.283874] [info] Total page videos: 62
+[2016-10-08 13:13:10.335335] [info] Saving finished.
+[2016-10-08 13:13:10.335474] [info] Total videos: 9042
+[2016-10-08 13:13:10.335741] [info] Analyzing page: teamdelorean
+[2016-10-08 13:14:12.423924] [error] Pattern not found when looking for views count.
+[2016-10-08 13:14:29.399758] [error] Pattern not found when looking for views count.
+[2016-10-08 13:17:46.279933] [info] Saving to file...
+[2016-10-08 13:17:46.280128] [info] Total page videos: 195
+[2016-10-08 13:17:46.301882] [info] Saving finished.
+[2016-10-08 13:18:30.497546] [error] Pattern not found when looking for views count.
+[2016-10-08 13:18:42.055599] [error] Pattern not found when looking for views count.
+[2016-10-08 13:18:46.198785] [error] Pattern not found when looking for views count.
+[2016-10-08 13:19:28.515511] [info] Saving to file...
+[2016-10-08 13:19:28.515657] [info] Total page videos: 265
+[2016-10-08 13:19:28.568927] [info] Saving finished.
+[2016-10-08 13:19:38.135519] [info] Saving to file...
+[2016-10-08 13:19:38.135644] [info] Total page videos: 265
+[2016-10-08 13:19:38.501046] [info] Saving finished.
+[2016-10-08 13:19:50.970038] [info] Saving to file...
+[2016-10-08 13:19:50.970197] [info] Total page videos: 265
+[2016-10-08 13:19:52.098136] [info] Saving finished.
+[2016-10-08 13:20:04.354914] [info] Saving to file...
+[2016-10-08 13:20:04.355073] [info] Total page videos: 265
+[2016-10-08 13:20:04.409360] [info] Saving finished.
+[2016-10-08 13:20:14.778669] [info] Saving to file...
+[2016-10-08 13:20:14.778796] [info] Total page videos: 265
+[2016-10-08 13:20:14.835391] [info] Saving finished.
+[2016-10-08 13:20:24.392595] [info] Saving to file...
+[2016-10-08 13:20:24.392764] [info] Total page videos: 265
+[2016-10-08 13:20:24.460398] [info] Saving finished.
+[2016-10-08 13:20:33.680857] [info] Saving to file...
+[2016-10-08 13:20:33.680969] [info] Total page videos: 265
+[2016-10-08 13:20:33.744491] [info] Saving finished.
+[2016-10-08 13:20:42.680242] [info] Saving to file...
+[2016-10-08 13:20:42.680406] [info] Total page videos: 265
+[2016-10-08 13:20:42.738013] [info] Saving finished.
+[2016-10-08 13:20:48.311873] [info] Saving to file...
+[2016-10-08 13:20:48.312033] [info] Total page videos: 265
+[2016-10-08 13:20:48.336354] [info] Saving finished.
+[2016-10-08 13:20:48.336457] [info] Total videos: 9307
+[2016-10-08 13:20:48.337179] [info] Analyzing page: jerseydemic
+[2016-10-08 13:20:57.081553] [info] Saving to file...
+[2016-10-08 13:20:57.081681] [info] Total page videos: 0
+[2016-10-08 13:20:57.081867] [info] Saving finished.
+[2016-10-08 13:21:32.158658] [info] Saving to file...
+[2016-10-08 13:21:32.158811] [info] Total page videos: 14
+[2016-10-08 13:21:32.160985] [info] Saving finished.
+[2016-10-08 13:21:32.647140] [info] Saving to file...
+[2016-10-08 13:21:32.647254] [info] Total page videos: 14
+[2016-10-08 13:21:32.649265] [info] Saving finished.
+[2016-10-08 13:21:32.649365] [info] Total videos: 9321
+[2016-10-08 13:21:32.649838] [info] Analyzing page: disturbreality
+[2016-10-08 13:21:32.697757] [error] Request for page id disturbreality failed: (#803) Some of the aliases you requested do not exist: disturbreality
+[2016-10-08 13:21:32.697874] [info] Analyzing page: 338694556150992
+[2016-10-08 13:21:44.511590] [info] Saving to file...
+[2016-10-08 13:21:44.511712] [info] Total page videos: 0
+[2016-10-08 13:21:44.511900] [info] Saving finished.
+[2016-10-08 13:24:11.813234] [info] Saving to file...
+[2016-10-08 13:24:11.813406] [info] Total page videos: 71
+[2016-10-08 13:24:11.862914] [info] Saving finished.
+[2016-10-08 13:30:21.703110] [info] Saving to file...
+[2016-10-08 13:30:21.703263] [info] Total page videos: 258
+[2016-10-08 13:30:21.771579] [info] Saving finished.
+[2016-10-08 13:30:35.136612] [info] Saving to file...
+[2016-10-08 13:30:35.136744] [info] Total page videos: 258
+[2016-10-08 13:30:35.189481] [info] Saving finished.
+[2016-10-08 13:30:47.924268] [info] Saving to file...
+[2016-10-08 13:30:47.924406] [info] Total page videos: 258
+[2016-10-08 13:30:47.991583] [info] Saving finished.
+[2016-10-08 13:31:01.296817] [info] Saving to file...
+[2016-10-08 13:31:01.296941] [info] Total page videos: 258
+[2016-10-08 13:31:01.355370] [info] Saving finished.
+[2016-10-08 13:31:13.658211] [info] Saving to file...
+[2016-10-08 13:31:13.658314] [info] Total page videos: 258
+[2016-10-08 13:31:13.726516] [info] Saving finished.
+[2016-10-08 13:31:27.346395] [info] Saving to file...
+[2016-10-08 13:31:27.346549] [info] Total page videos: 258
+[2016-10-08 13:31:27.412039] [info] Saving finished.
+[2016-10-08 13:31:40.637425] [info] Saving to file...
+[2016-10-08 13:31:40.637553] [info] Total page videos: 258
+[2016-10-08 13:31:40.706748] [info] Saving finished.
+[2016-10-08 13:31:54.756221] [info] Saving to file...
+[2016-10-08 13:31:54.756340] [info] Total page videos: 258
+[2016-10-08 13:31:54.823215] [info] Saving finished.
+[2016-10-08 13:32:07.796171] [info] Saving to file...
+[2016-10-08 13:32:07.796334] [info] Total page videos: 258
+[2016-10-08 13:32:07.867084] [info] Saving finished.
+[2016-10-08 13:32:20.573672] [info] Saving to file...
+[2016-10-08 13:32:20.573807] [info] Total page videos: 258
+[2016-10-08 13:32:20.640258] [info] Saving finished.
+[2016-10-08 13:32:35.603455] [info] Saving to file...
+[2016-10-08 13:32:35.603617] [info] Total page videos: 258
+[2016-10-08 13:32:35.673039] [info] Saving finished.
+[2016-10-08 13:32:50.733139] [info] Saving to file...
+[2016-10-08 13:32:50.733294] [info] Total page videos: 258
+[2016-10-08 13:32:50.811260] [info] Saving finished.
+[2016-10-08 13:33:06.802337] [info] Saving to file...
+[2016-10-08 13:33:06.802511] [info] Total page videos: 258
+[2016-10-08 13:33:06.841598] [info] Saving finished.
+[2016-10-08 13:33:21.900538] [info] Saving to file...
+[2016-10-08 13:33:21.900706] [info] Total page videos: 258
+[2016-10-08 13:33:22.089972] [info] Saving finished.
+[2016-10-08 13:33:35.819442] [info] Saving to file...
+[2016-10-08 13:33:35.819613] [info] Total page videos: 258
+[2016-10-08 13:33:35.875829] [info] Saving finished.
+[2016-10-08 13:33:49.186067] [info] Saving to file...
+[2016-10-08 13:33:49.186202] [info] Total page videos: 258
+[2016-10-08 13:33:49.250375] [info] Saving finished.
+[2016-10-08 13:34:00.853085] [info] Saving to file...
+[2016-10-08 13:34:00.853243] [info] Total page videos: 258
+[2016-10-08 13:34:01.472054] [info] Saving finished.
+[2016-10-08 13:34:01.472223] [info] Total videos: 9579
+[2016-10-08 13:34:01.473253] [info] Analyzing page: 139137562806325
+[2016-10-08 13:34:01.511761] [error] Request for page id 139137562806325 failed: Unsupported get request. Object with ID '139137562806325' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 13:34:01.511869] [info] Analyzing page: itsdougthepug
+[2016-10-08 13:34:32.631266] [info] Saving to file...
+[2016-10-08 13:34:32.631398] [info] Total page videos: 20
+[2016-10-08 13:34:32.632925] [info] Saving finished.
+[2016-10-08 13:34:32.633013] [info] Total videos: 9599
+[2016-10-08 13:34:32.633181] [info] Analyzing page: 26012002239
+[2016-10-08 13:36:57.213069] [info] Saving to file...
+[2016-10-08 13:36:57.213206] [info] Total page videos: 82
+[2016-10-08 13:36:57.223819] [info] Saving finished.
+[2016-10-08 13:37:04.299165] [info] Saving to file...
+[2016-10-08 13:37:04.299309] [info] Total page videos: 82
+[2016-10-08 13:37:04.310221] [info] Saving finished.
+[2016-10-08 13:37:10.101388] [info] Saving to file...
+[2016-10-08 13:37:10.101511] [info] Total page videos: 82
+[2016-10-08 13:37:10.142050] [info] Saving finished.
+[2016-10-08 13:37:17.060066] [info] Saving to file...
+[2016-10-08 13:37:17.060224] [info] Total page videos: 82
+[2016-10-08 13:37:17.102531] [info] Saving finished.
+[2016-10-08 13:37:24.831784] [info] Saving to file...
+[2016-10-08 13:37:24.831940] [info] Total page videos: 82
+[2016-10-08 13:37:24.851953] [info] Saving finished.
+[2016-10-08 13:37:27.610261] [info] Saving to file...
+[2016-10-08 13:37:27.610409] [info] Total page videos: 82
+[2016-10-08 13:37:27.649054] [info] Saving finished.
+[2016-10-08 13:37:27.649168] [info] Total videos: 9681
+[2016-10-08 13:37:27.649739] [info] Analyzing page: fcbarcelona
+[2016-10-08 13:37:57.732773] [error] Pattern not found when looking for views count.
+[2016-10-08 13:37:57.942502] [error] Pattern not found when looking for views count.
+[2016-10-08 13:42:23.297885] [error] Pattern not found when looking for views count.
+[2016-10-08 13:42:29.230073] [info] Saving to file...
+[2016-10-08 13:42:29.230246] [info] Total page videos: 173
+[2016-10-08 13:42:29.253005] [info] Saving finished.
+[2016-10-08 13:42:35.376585] [error] Pattern not found when looking for views count.
+[2016-10-08 13:42:56.231787] [error] Pattern not found when looking for views count.
+[2016-10-08 13:43:10.205914] [error] Pattern not found when looking for views count.
+[2016-10-08 13:43:16.332607] [error] Pattern not found when looking for views count.
+[2016-10-08 13:43:16.550667] [error] Pattern not found when looking for views count.
+[2016-10-08 13:43:52.186964] [info] Saving to file...
+[2016-10-08 13:43:52.187088] [info] Total page videos: 218
+[2016-10-08 13:43:52.248533] [info] Saving finished.
+[2016-10-08 13:44:04.432584] [info] Saving to file...
+[2016-10-08 13:44:04.432710] [info] Total page videos: 218
+[2016-10-08 13:44:05.462790] [info] Saving finished.
+[2016-10-08 13:44:19.353822] [info] Saving to file...
+[2016-10-08 13:44:19.353980] [info] Total page videos: 218
+[2016-10-08 13:44:19.417006] [info] Saving finished.
+[2016-10-08 13:44:31.410741] [info] Saving to file...
+[2016-10-08 13:44:31.410902] [info] Total page videos: 218
+[2016-10-08 13:44:31.448071] [info] Saving finished.
+[2016-10-08 13:44:35.590621] [info] Saving to file...
+[2016-10-08 13:44:35.590748] [info] Total page videos: 218
+[2016-10-08 13:44:35.619616] [info] Saving finished.
+[2016-10-08 13:44:35.619712] [info] Total videos: 9899
+[2016-10-08 13:44:35.619995] [info] Analyzing page: facebook
+[2016-10-08 13:44:50.448019] [info] Saving to file...
+[2016-10-08 13:44:50.448160] [info] Total page videos: 2
+[2016-10-08 13:44:50.448482] [info] Saving finished.
+[2016-10-08 13:44:50.448569] [info] Total videos: 9901
+[2016-10-08 13:44:50.449273] [info] Analyzing page: 112905748806596
+[2016-10-08 13:48:17.831986] [info] Saving to file...
+[2016-10-08 13:48:17.832175] [info] Total page videos: 123
+[2016-10-08 13:48:17.848128] [info] Saving finished.
+[2016-10-08 13:53:02.935230] [info] Saving to file...
+[2016-10-08 13:53:02.935378] [info] Total page videos: 298
+[2016-10-08 13:53:03.027043] [info] Saving finished.
+[2016-10-08 13:53:10.696475] [info] Saving to file...
+[2016-10-08 13:53:10.696609] [info] Total page videos: 298
+[2016-10-08 13:53:10.756890] [info] Saving finished.
+[2016-10-08 13:53:18.215229] [info] Saving to file...
+[2016-10-08 13:53:18.215359] [info] Total page videos: 298
+[2016-10-08 13:53:18.286550] [info] Saving finished.
+[2016-10-08 13:53:25.785265] [info] Saving to file...
+[2016-10-08 13:53:25.785391] [info] Total page videos: 298
+[2016-10-08 13:53:25.866211] [info] Saving finished.
+[2016-10-08 13:53:33.484905] [info] Saving to file...
+[2016-10-08 13:53:33.485050] [info] Total page videos: 298
+[2016-10-08 13:53:33.546077] [info] Saving finished.
+[2016-10-08 13:53:41.065874] [info] Saving to file...
+[2016-10-08 13:53:41.065995] [info] Total page videos: 298
+[2016-10-08 13:53:41.474023] [info] Saving finished.
+[2016-10-08 13:53:49.793993] [info] Saving to file...
+[2016-10-08 13:53:49.794112] [info] Total page videos: 298
+[2016-10-08 13:53:50.087017] [info] Saving finished.
+[2016-10-08 13:53:57.673571] [info] Saving to file...
+[2016-10-08 13:53:57.673677] [info] Total page videos: 298
+[2016-10-08 13:53:57.735223] [info] Saving finished.
+[2016-10-08 13:54:03.994115] [info] Saving to file...
+[2016-10-08 13:54:03.994252] [info] Total page videos: 298
+[2016-10-08 13:54:04.061108] [info] Saving finished.
+[2016-10-08 13:54:04.061244] [info] Total videos: 10199
+[2016-10-08 13:54:04.061405] [info] Analyzing page: foodbeast
+[2016-10-08 13:57:46.901026] [info] Saving to file...
+[2016-10-08 13:57:46.901173] [info] Total page videos: 137
+[2016-10-08 13:57:46.917375] [info] Saving finished.
+[2016-10-08 13:57:53.723592] [info] Saving to file...
+[2016-10-08 13:57:53.723728] [info] Total page videos: 137
+[2016-10-08 13:57:53.791719] [info] Saving finished.
+[2016-10-08 13:58:00.496995] [info] Saving to file...
+[2016-10-08 13:58:00.497137] [info] Total page videos: 137
+[2016-10-08 13:58:00.549384] [info] Saving finished.
+[2016-10-08 13:58:06.293344] [info] Saving to file...
+[2016-10-08 13:58:06.293490] [info] Total page videos: 137
+[2016-10-08 13:58:06.354406] [info] Saving finished.
+[2016-10-08 13:58:12.197700] [info] Saving to file...
+[2016-10-08 13:58:12.197865] [info] Total page videos: 137
+[2016-10-08 13:58:12.239686] [info] Saving finished.
+[2016-10-08 13:58:12.653750] [info] Saving to file...
+[2016-10-08 13:58:12.653868] [info] Total page videos: 137
+[2016-10-08 13:58:12.669840] [info] Saving finished.
+[2016-10-08 13:58:12.669946] [info] Total videos: 10336
+[2016-10-08 13:58:12.670195] [info] Analyzing page: 513404865420527
+[2016-10-08 13:58:17.534089] [info] Saving to file...
+[2016-10-08 13:58:17.534204] [info] Total page videos: 0
+[2016-10-08 13:58:17.534370] [info] Saving finished.
+[2016-10-08 13:58:22.254602] [info] Saving to file...
+[2016-10-08 13:58:22.254728] [info] Total page videos: 0
+[2016-10-08 13:58:22.254960] [info] Saving finished.
+[2016-10-08 14:01:48.960505] [info] Saving to file...
+[2016-10-08 14:01:48.960700] [info] Total page videos: 147
+[2016-10-08 14:01:48.979733] [info] Saving finished.
+[2016-10-08 14:05:08.059644] [info] Saving to file...
+[2016-10-08 14:05:08.059778] [info] Total page videos: 285
+[2016-10-08 14:05:08.089349] [info] Saving finished.
+[2016-10-08 14:05:09.146608] [info] Saving to file...
+[2016-10-08 14:05:09.146733] [info] Total page videos: 285
+[2016-10-08 14:05:09.180509] [info] Saving finished.
+[2016-10-08 14:05:09.180598] [info] Total videos: 10621
+[2016-10-08 14:05:09.181262] [info] Analyzing page: 15704546335
+[2016-10-08 14:05:29.626059] [info] Saving to file...
+[2016-10-08 14:05:29.626185] [info] Total page videos: 0
+[2016-10-08 14:05:29.626372] [info] Saving finished.
+[2016-10-08 14:09:27.949664] [info] Saving to file...
+[2016-10-08 14:09:27.949856] [info] Total page videos: 99
+[2016-10-08 14:09:27.963895] [info] Saving finished.
+[2016-10-08 14:19:30.393197] [info] Saving to file...
+[2016-10-08 14:19:30.393399] [info] Total page videos: 349
+[2016-10-08 14:19:30.437606] [info] Saving finished.
+[2016-10-08 14:30:45.780510] [info] Saving to file...
+[2016-10-08 14:30:45.780723] [info] Total page videos: 599
+[2016-10-08 14:30:45.848381] [info] Saving finished.
+[2016-10-08 14:41:27.336349] [error] Pattern not found when looking for views count.
+[2016-10-08 14:41:55.652231] [info] Saving to file...
+[2016-10-08 14:41:55.652446] [info] Total page videos: 848
+[2016-10-08 14:41:55.747142] [info] Saving finished.
+[2016-10-08 14:52:45.656079] [info] Saving to file...
+[2016-10-08 14:52:45.656267] [info] Total page videos: 1098
+[2016-10-08 14:52:45.767507] [info] Saving finished.
+[2016-10-08 14:54:42.497000] [info] Saving to file...
+[2016-10-08 14:54:42.497183] [info] Total page videos: 1135
+[2016-10-08 14:54:42.606794] [info] Saving finished.
+[2016-10-08 14:55:05.199371] [info] Saving to file...
+[2016-10-08 14:55:05.199517] [info] Total page videos: 1135
+[2016-10-08 14:55:05.308163] [info] Saving finished.
+[2016-10-08 14:55:26.961966] [info] Saving to file...
+[2016-10-08 14:55:26.962084] [info] Total page videos: 1135
+[2016-10-08 14:55:27.063282] [info] Saving finished.
+[2016-10-08 14:55:49.545775] [info] Saving to file...
+[2016-10-08 14:55:49.545901] [info] Total page videos: 1135
+[2016-10-08 14:55:49.643286] [info] Saving finished.
+[2016-10-08 14:56:01.077434] [info] Saving to file...
+[2016-10-08 14:56:01.077565] [info] Total page videos: 1135
+[2016-10-08 14:56:01.193732] [info] Saving finished.
+[2016-10-08 14:56:01.193842] [info] Total videos: 11756
+[2016-10-08 14:56:01.194287] [info] Analyzing page: 271247409666545
+[2016-10-08 14:56:10.579827] [error] Pattern not found when looking for views count.
+[2016-10-08 14:57:26.492878] [info] Saving to file...
+[2016-10-08 14:57:26.493037] [info] Total page videos: 36
+[2016-10-08 14:57:26.498418] [info] Saving finished.
+[2016-10-08 14:57:26.498977] [info] Saving to file...
+[2016-10-08 14:57:26.499063] [info] Total page videos: 36
+[2016-10-08 14:57:26.503418] [info] Saving finished.
+[2016-10-08 14:57:26.503514] [info] Total videos: 11792
+[2016-10-08 14:57:26.504029] [info] Analyzing page: officialfunniestcrazyvideo
+[2016-10-08 14:57:26.773749] [error] Request for page id officialfunniestcrazyvideo failed: (#803) Some of the aliases you requested do not exist: officialfunniestcrazyvideo
+[2016-10-08 14:57:26.773866] [info] Analyzing page: 384139694934173
+[2016-10-08 14:57:27.163039] [info] Saving to file...
+[2016-10-08 14:57:27.163153] [info] Total page videos: 0
+[2016-10-08 14:57:27.163322] [info] Saving finished.
+[2016-10-08 14:57:27.163409] [info] Total videos: 11792
+[2016-10-08 14:57:27.163476] [info] Analyzing page: lacasadelcurioso
+[2016-10-08 14:57:44.779813] [info] Saving to file...
+[2016-10-08 14:57:44.779973] [info] Total page videos: 5
+[2016-10-08 14:57:44.780781] [info] Saving finished.
+[2016-10-08 14:57:45.278378] [info] Saving to file...
+[2016-10-08 14:57:45.278502] [info] Total page videos: 5
+[2016-10-08 14:57:45.279323] [info] Saving finished.
+[2016-10-08 14:57:45.279408] [info] Total videos: 11797
+[2016-10-08 14:57:45.279891] [info] Analyzing page: haberinbizdencom
+[2016-10-08 14:58:47.138235] [info] Saving to file...
+[2016-10-08 14:58:47.138422] [info] Total page videos: 32
+[2016-10-08 14:58:47.143392] [info] Saving finished.
+[2016-10-08 14:58:47.143491] [info] Total videos: 11829
+[2016-10-08 14:58:47.143629] [info] Analyzing page: 693504594115135
+[2016-10-08 15:00:53.711792] [info] Saving to file...
+[2016-10-08 15:00:53.711918] [info] Total page videos: 62
+[2016-10-08 15:00:53.719043] [info] Saving finished.
+[2016-10-08 15:00:55.587928] [info] Saving to file...
+[2016-10-08 15:00:55.588041] [info] Total page videos: 62
+[2016-10-08 15:00:55.595818] [info] Saving finished.
+[2016-10-08 15:00:55.595913] [info] Total videos: 11891
+[2016-10-08 15:00:55.596801] [info] Analyzing page: howtobasic
+[2016-10-08 15:01:16.986314] [info] Saving to file...
+[2016-10-08 15:01:16.986462] [info] Total page videos: 8
+[2016-10-08 15:01:16.987864] [info] Saving finished.
+[2016-10-08 15:01:16.987953] [info] Total videos: 11899
+[2016-10-08 15:01:16.988266] [info] Analyzing page: 63096571313
+[2016-10-08 15:04:56.248434] [info] Saving to file...
+[2016-10-08 15:04:56.248622] [info] Total page videos: 111
+[2016-10-08 15:04:56.261842] [info] Saving finished.
+[2016-10-08 15:13:43.903711] [info] Saving to file...
+[2016-10-08 15:13:43.903894] [info] Total page videos: 361
+[2016-10-08 15:13:43.933075] [info] Saving finished.
+[2016-10-08 15:14:38.744210] [info] Saving to file...
+[2016-10-08 15:14:38.744344] [info] Total page videos: 396
+[2016-10-08 15:14:38.773257] [info] Saving finished.
+[2016-10-08 15:14:44.005904] [info] Saving to file...
+[2016-10-08 15:14:44.006045] [info] Total page videos: 396
+[2016-10-08 15:14:44.037565] [info] Saving finished.
+[2016-10-08 15:14:49.644687] [info] Saving to file...
+[2016-10-08 15:14:49.644813] [info] Total page videos: 396
+[2016-10-08 15:14:49.670634] [info] Saving finished.
+[2016-10-08 15:14:52.075323] [info] Saving to file...
+[2016-10-08 15:14:52.075443] [info] Total page videos: 396
+[2016-10-08 15:14:52.105043] [info] Saving finished.
+[2016-10-08 15:14:52.105135] [info] Total videos: 12295
+[2016-10-08 15:14:52.105766] [info] Analyzing page: huffingtonpost
+[2016-10-08 15:20:27.982374] [info] Saving to file...
+[2016-10-08 15:20:27.982599] [info] Total page videos: 138
+[2016-10-08 15:20:27.998905] [info] Saving finished.
+[2016-10-08 15:29:28.483767] [error] Pattern not found when looking for views count.
+[2016-10-08 15:31:15.266309] [info] Saving to file...
+[2016-10-08 15:31:15.266525] [info] Total page videos: 387
+[2016-10-08 15:31:15.301784] [info] Saving finished.
+[2016-10-08 15:40:51.740639] [info] Saving to file...
+[2016-10-08 15:40:51.740787] [info] Total page videos: 595
+[2016-10-08 15:40:51.791305] [info] Saving finished.
+[2016-10-08 15:41:04.049546] [info] Saving to file...
+[2016-10-08 15:41:04.049684] [info] Total page videos: 595
+[2016-10-08 15:41:04.092850] [info] Saving finished.
+[2016-10-08 15:41:16.362605] [info] Saving to file...
+[2016-10-08 15:41:16.362735] [info] Total page videos: 595
+[2016-10-08 15:41:16.413661] [info] Saving finished.
+[2016-10-08 15:41:29.285332] [info] Saving to file...
+[2016-10-08 15:41:29.285491] [info] Total page videos: 595
+[2016-10-08 15:41:29.334551] [info] Saving finished.
+[2016-10-08 15:41:42.604850] [info] Saving to file...
+[2016-10-08 15:41:42.605000] [info] Total page videos: 595
+[2016-10-08 15:41:42.653902] [info] Saving finished.
+[2016-10-08 15:41:54.599366] [info] Saving to file...
+[2016-10-08 15:41:54.599500] [info] Total page videos: 595
+[2016-10-08 15:41:54.647990] [info] Saving finished.
+[2016-10-08 15:42:07.108998] [info] Saving to file...
+[2016-10-08 15:42:07.109163] [info] Total page videos: 595
+[2016-10-08 15:42:07.159260] [info] Saving finished.
+[2016-10-08 15:42:20.148154] [info] Saving to file...
+[2016-10-08 15:42:20.148314] [info] Total page videos: 595
+[2016-10-08 15:42:20.197709] [info] Saving finished.
+[2016-10-08 15:42:33.499969] [info] Saving to file...
+[2016-10-08 15:42:33.500169] [info] Total page videos: 595
+[2016-10-08 15:42:33.554821] [info] Saving finished.
+[2016-10-08 15:42:41.531625] [info] Saving to file...
+[2016-10-08 15:42:41.531802] [info] Total page videos: 595
+[2016-10-08 15:42:41.580468] [info] Saving finished.
+[2016-10-08 15:42:41.580576] [info] Total videos: 12890
+[2016-10-08 15:42:41.580828] [info] Analyzing page: huucong.skda
+[2016-10-08 15:42:42.013396] [info] Saving to file...
+[2016-10-08 15:42:42.013506] [info] Total page videos: 0
+[2016-10-08 15:42:42.013686] [info] Saving finished.
+[2016-10-08 15:42:42.013771] [info] Total videos: 12890
+[2016-10-08 15:42:42.013835] [info] Analyzing page: ign
+[2016-10-08 15:43:02.870888] [info] Saving to file...
+[2016-10-08 15:43:02.871052] [info] Total page videos: 0
+[2016-10-08 15:43:02.871262] [info] Saving finished.
+[2016-10-08 15:44:32.938182] [error] Pattern not found when looking for views count.
+[2016-10-08 15:44:56.688515] [info] Saving to file...
+[2016-10-08 15:44:56.688682] [info] Total page videos: 35
+[2016-10-08 15:44:56.693804] [info] Saving finished.
+[2016-10-08 15:45:10.501235] [error] Pattern not found when looking for views count.
+[2016-10-08 15:45:42.763252] [error] Pattern not found when looking for views count.
+[2016-10-08 15:46:02.715576] [error] Pattern not found when looking for views count.
+[2016-10-08 15:47:01.229635] [error] Pattern not found when looking for views count.
+[2016-10-08 15:47:31.587234] [error] Pattern not found when looking for views count.
+[2016-10-08 15:48:06.464198] [error] Pattern not found when looking for views count.
+[2016-10-08 15:48:09.348820] [error] Pattern not found when looking for views count.
+[2016-10-08 15:49:22.936126] [error] Pattern not found when looking for views count.
+[2016-10-08 15:53:23.426250] [error] Pattern not found when looking for views count.
+[2016-10-08 15:53:41.016441] [error] Pattern not found when looking for views count.
+[2016-10-08 15:55:04.742810] [info] Saving to file...
+[2016-10-08 15:55:04.743015] [info] Total page videos: 275
+[2016-10-08 15:55:04.777333] [info] Saving finished.
+[2016-10-08 15:57:40.994419] [error] Pattern not found when looking for views count.
+[2016-10-08 15:57:41.377208] [error] Pattern not found when looking for views count.
+[2016-10-08 15:59:58.979557] [info] Saving to file...
+[2016-10-08 15:59:58.979764] [info] Total page videos: 397
+[2016-10-08 15:59:59.030391] [info] Saving finished.
+[2016-10-08 15:59:59.030527] [info] Total videos: 13287
+[2016-10-08 15:59:59.030762] [info] Analyzing page: 1413475698959824
+[2016-10-08 16:06:46.031553] [info] Saving to file...
+[2016-10-08 16:06:46.031780] [info] Total page videos: 215
+[2016-10-08 16:06:46.062598] [info] Saving finished.
+[2016-10-08 16:07:30.144478] [info] Saving to file...
+[2016-10-08 16:07:30.144627] [info] Total page videos: 230
+[2016-10-08 16:07:30.172760] [info] Saving finished.
+[2016-10-08 16:07:43.184920] [info] Saving to file...
+[2016-10-08 16:07:43.185051] [info] Total page videos: 230
+[2016-10-08 16:07:43.212578] [info] Saving finished.
+[2016-10-08 16:07:55.534997] [info] Saving to file...
+[2016-10-08 16:07:55.535154] [info] Total page videos: 230
+[2016-10-08 16:07:55.564723] [info] Saving finished.
+[2016-10-08 16:08:07.443675] [info] Saving to file...
+[2016-10-08 16:08:07.443833] [info] Total page videos: 230
+[2016-10-08 16:08:07.476073] [info] Saving finished.
+[2016-10-08 16:08:17.317706] [info] Saving to file...
+[2016-10-08 16:08:17.317837] [info] Total page videos: 230
+[2016-10-08 16:08:17.346702] [info] Saving finished.
+[2016-10-08 16:08:31.885052] [info] Saving to file...
+[2016-10-08 16:08:31.885221] [info] Total page videos: 230
+[2016-10-08 16:08:31.914494] [info] Saving finished.
+[2016-10-08 16:08:46.698033] [info] Saving to file...
+[2016-10-08 16:08:46.698210] [info] Total page videos: 230
+[2016-10-08 16:08:46.726902] [info] Saving finished.
+[2016-10-08 16:09:00.481779] [info] Saving to file...
+[2016-10-08 16:09:00.481915] [info] Total page videos: 230
+[2016-10-08 16:09:00.510919] [info] Saving finished.
+[2016-10-08 16:09:02.596442] [info] Saving to file...
+[2016-10-08 16:09:02.596581] [info] Total page videos: 230
+[2016-10-08 16:09:02.625091] [info] Saving finished.
+[2016-10-08 16:09:02.625190] [info] Total videos: 13517
+[2016-10-08 16:09:02.625511] [info] Analyzing page: jaanaryaa
+[2016-10-08 16:09:02.693290] [error] Request for page id jaanaryaa failed: (#803) Some of the aliases you requested do not exist: jaanaryaa
+[2016-10-08 16:09:02.693386] [info] Analyzing page: imjakepaul
+[2016-10-08 16:09:02.753844] [error] Request for page id imjakepaul failed: (#803) Some of the aliases you requested do not exist: imjakepaul
+[2016-10-08 16:09:02.753952] [info] Analyzing page: 1407167032831912
+[2016-10-08 16:09:37.915206] [info] Saving to file...
+[2016-10-08 16:09:37.915354] [info] Total page videos: 18
+[2016-10-08 16:09:37.918005] [info] Saving finished.
+[2016-10-08 16:09:37.918123] [info] Total videos: 13535
+[2016-10-08 16:09:37.918519] [info] Analyzing page: 43292177068
+[2016-10-08 16:09:50.792092] [info] Saving to file...
+[2016-10-08 16:09:50.792259] [info] Total page videos: 11
+[2016-10-08 16:09:50.794193] [info] Saving finished.
+[2016-10-08 16:09:50.794281] [info] Total videos: 13546
+[2016-10-08 16:09:50.794675] [info] Analyzing page: 146351492058492
+[2016-10-08 16:10:07.574312] [info] Saving to file...
+[2016-10-08 16:10:07.574503] [info] Total page videos: 0
+[2016-10-08 16:10:07.576710] [info] Saving finished.
+[2016-10-08 16:13:17.609546] [info] Saving to file...
+[2016-10-08 16:13:17.609719] [info] Total page videos: 130
+[2016-10-08 16:13:17.623492] [info] Saving finished.
+[2016-10-08 16:19:44.698836] [info] Saving to file...
+[2016-10-08 16:19:44.699029] [info] Total page videos: 380
+[2016-10-08 16:19:44.741127] [info] Saving finished.
+[2016-10-08 16:26:33.200651] [info] Saving to file...
+[2016-10-08 16:26:33.200859] [info] Total page videos: 630
+[2016-10-08 16:26:33.268281] [info] Saving finished.
+[2016-10-08 16:32:02.747883] [info] Saving to file...
+[2016-10-08 16:32:02.748092] [info] Total page videos: 861
+[2016-10-08 16:32:02.839493] [info] Saving finished.
+[2016-10-08 16:32:21.422298] [info] Saving to file...
+[2016-10-08 16:32:21.422487] [info] Total page videos: 861
+[2016-10-08 16:32:21.504008] [info] Saving finished.
+[2016-10-08 16:32:37.987179] [info] Saving to file...
+[2016-10-08 16:32:37.987349] [info] Total page videos: 861
+[2016-10-08 16:32:38.074099] [info] Saving finished.
+[2016-10-08 16:32:55.818325] [info] Saving to file...
+[2016-10-08 16:32:55.818480] [info] Total page videos: 861
+[2016-10-08 16:32:55.904939] [info] Saving finished.
+[2016-10-08 16:33:11.633238] [info] Saving to file...
+[2016-10-08 16:33:11.633413] [info] Total page videos: 861
+[2016-10-08 16:33:11.716506] [info] Saving finished.
+[2016-10-08 16:33:27.230854] [info] Saving to file...
+[2016-10-08 16:33:27.230982] [info] Total page videos: 861
+[2016-10-08 16:33:27.314987] [info] Saving finished.
+[2016-10-08 16:33:42.729513] [info] Saving to file...
+[2016-10-08 16:33:42.729660] [info] Total page videos: 861
+[2016-10-08 16:33:42.805455] [info] Saving finished.
+[2016-10-08 16:33:57.538392] [info] Saving to file...
+[2016-10-08 16:33:57.538539] [info] Total page videos: 861
+[2016-10-08 16:33:57.617495] [info] Saving finished.
+[2016-10-08 16:34:13.810813] [info] Saving to file...
+[2016-10-08 16:34:13.810976] [info] Total page videos: 861
+[2016-10-08 16:34:13.892304] [info] Saving finished.
+[2016-10-08 16:34:32.709134] [info] Saving to file...
+[2016-10-08 16:34:32.709271] [info] Total page videos: 861
+[2016-10-08 16:34:32.790044] [info] Saving finished.
+[2016-10-08 16:34:52.543751] [info] Saving to file...
+[2016-10-08 16:34:52.543914] [info] Total page videos: 861
+[2016-10-08 16:34:52.628925] [info] Saving finished.
+[2016-10-08 16:35:12.662266] [info] Saving to file...
+[2016-10-08 16:35:12.662455] [info] Total page videos: 861
+[2016-10-08 16:35:12.747747] [info] Saving finished.
+[2016-10-08 16:35:31.420931] [info] Saving to file...
+[2016-10-08 16:35:31.421089] [info] Total page videos: 861
+[2016-10-08 16:35:31.508693] [info] Saving finished.
+[2016-10-08 16:35:50.400902] [info] Saving to file...
+[2016-10-08 16:35:50.401076] [info] Total page videos: 861
+[2016-10-08 16:35:50.483370] [info] Saving finished.
+[2016-10-08 16:36:10.387697] [info] Saving to file...
+[2016-10-08 16:36:10.387866] [info] Total page videos: 861
+[2016-10-08 16:36:10.475174] [info] Saving finished.
+[2016-10-08 16:36:28.939594] [info] Saving to file...
+[2016-10-08 16:36:28.939768] [info] Total page videos: 861
+[2016-10-08 16:36:29.023853] [info] Saving finished.
+[2016-10-08 16:36:45.343435] [info] Saving to file...
+[2016-10-08 16:36:45.343592] [info] Total page videos: 861
+[2016-10-08 16:36:45.428564] [info] Saving finished.
+[2016-10-08 16:37:04.910389] [info] Saving to file...
+[2016-10-08 16:37:04.910566] [info] Total page videos: 861
+[2016-10-08 16:37:04.997406] [info] Saving finished.
+[2016-10-08 16:37:20.035356] [info] Saving to file...
+[2016-10-08 16:37:20.035501] [info] Total page videos: 861
+[2016-10-08 16:37:20.123899] [info] Saving finished.
+[2016-10-08 16:37:20.124720] [info] Saving to file...
+[2016-10-08 16:37:20.124778] [info] Total page videos: 861
+[2016-10-08 16:37:20.191163] [info] Saving finished.
+[2016-10-08 16:37:20.191241] [info] Total videos: 14407
+[2016-10-08 16:37:20.191915] [info] Analyzing page: 606246146140197
+[2016-10-08 16:39:01.533047] [info] Saving to file...
+[2016-10-08 16:39:01.533188] [info] Total page videos: 49
+[2016-10-08 16:39:01.538707] [info] Saving finished.
+[2016-10-08 16:39:04.657670] [info] Saving to file...
+[2016-10-08 16:39:04.657799] [info] Total page videos: 49
+[2016-10-08 16:39:04.664592] [info] Saving finished.
+[2016-10-08 16:39:04.664699] [info] Total videos: 14456
+[2016-10-08 16:39:04.665222] [info] Analyzing page: 448615305250431
+[2016-10-08 16:42:43.583051] [info] Saving to file...
+[2016-10-08 16:42:43.583203] [info] Total page videos: 110
+[2016-10-08 16:42:43.598329] [info] Saving finished.
+[2016-10-08 16:42:53.209017] [info] Saving to file...
+[2016-10-08 16:42:53.209146] [info] Total page videos: 110
+[2016-10-08 16:42:53.224421] [info] Saving finished.
+[2016-10-08 16:43:00.049606] [info] Saving to file...
+[2016-10-08 16:43:00.049746] [info] Total page videos: 110
+[2016-10-08 16:43:00.066534] [info] Saving finished.
+[2016-10-08 16:43:00.066642] [info] Total videos: 14566
+[2016-10-08 16:43:00.066795] [info] Analyzing page: xkristenreneex
+[2016-10-08 16:43:42.546602] [info] Saving to file...
+[2016-10-08 16:43:42.546751] [info] Total page videos: 24
+[2016-10-08 16:43:42.550251] [info] Saving finished.
+[2016-10-08 16:43:42.550971] [info] Saving to file...
+[2016-10-08 16:43:42.551048] [info] Total page videos: 24
+[2016-10-08 16:43:42.553982] [info] Saving finished.
+[2016-10-08 16:43:42.554073] [info] Total videos: 14590
+[2016-10-08 16:43:42.554728] [info] Analyzing page: 131718897880
+[2016-10-08 16:43:51.869769] [info] Saving to file...
+[2016-10-08 16:43:51.869883] [info] Total page videos: 0
+[2016-10-08 16:43:51.870054] [info] Saving finished.
+[2016-10-08 16:46:26.826988] [error] Pattern not found when looking for views count.
+[2016-10-08 16:50:04.455919] [info] Saving to file...
+[2016-10-08 16:50:04.456123] [info] Total page videos: 175
+[2016-10-08 16:50:04.473804] [info] Saving finished.
+[2016-10-08 16:58:31.793215] [error] Pattern not found when looking for views count.
+[2016-10-08 17:00:09.973750] [info] Saving to file...
+[2016-10-08 17:00:09.973951] [info] Total page videos: 424
+[2016-10-08 17:00:10.009623] [info] Saving finished.
+[2016-10-08 17:05:48.766855] [info] Saving to file...
+[2016-10-08 17:05:48.767010] [info] Total page videos: 597
+[2016-10-08 17:05:48.812613] [info] Saving finished.
+[2016-10-08 17:05:58.333679] [info] Saving to file...
+[2016-10-08 17:05:58.333827] [info] Total page videos: 597
+[2016-10-08 17:05:58.382999] [info] Saving finished.
+[2016-10-08 17:06:08.162653] [info] Saving to file...
+[2016-10-08 17:06:08.162813] [info] Total page videos: 597
+[2016-10-08 17:06:08.211822] [info] Saving finished.
+[2016-10-08 17:06:17.809698] [info] Saving to file...
+[2016-10-08 17:06:17.809855] [info] Total page videos: 597
+[2016-10-08 17:06:17.857583] [info] Saving finished.
+[2016-10-08 17:06:27.428997] [info] Saving to file...
+[2016-10-08 17:06:27.429164] [info] Total page videos: 597
+[2016-10-08 17:06:27.475495] [info] Saving finished.
+[2016-10-08 17:06:37.797142] [info] Saving to file...
+[2016-10-08 17:06:37.797307] [info] Total page videos: 597
+[2016-10-08 17:06:37.842994] [info] Saving finished.
+[2016-10-08 17:06:48.640181] [info] Saving to file...
+[2016-10-08 17:06:48.640351] [info] Total page videos: 597
+[2016-10-08 17:06:48.687774] [info] Saving finished.
+[2016-10-08 17:06:58.496160] [info] Saving to file...
+[2016-10-08 17:06:58.496320] [info] Total page videos: 597
+[2016-10-08 17:06:58.543914] [info] Saving finished.
+[2016-10-08 17:07:09.755578] [info] Saving to file...
+[2016-10-08 17:07:09.755738] [info] Total page videos: 597
+[2016-10-08 17:07:09.801284] [info] Saving finished.
+[2016-10-08 17:07:20.109647] [info] Saving to file...
+[2016-10-08 17:07:20.109812] [info] Total page videos: 597
+[2016-10-08 17:07:20.155276] [info] Saving finished.
+[2016-10-08 17:07:25.882657] [info] Saving to file...
+[2016-10-08 17:07:25.882791] [info] Total page videos: 597
+[2016-10-08 17:07:25.931632] [info] Saving finished.
+[2016-10-08 17:07:25.931746] [info] Total videos: 15187
+[2016-10-08 17:07:25.932410] [info] Analyzing page: 199098633470668
+[2016-10-08 17:07:41.769846] [info] Saving to file...
+[2016-10-08 17:07:41.769983] [info] Total page videos: 0
+[2016-10-08 17:07:41.770179] [info] Saving finished.
+[2016-10-08 17:07:57.512037] [info] Saving to file...
+[2016-10-08 17:07:57.512171] [info] Total page videos: 0
+[2016-10-08 17:07:57.512411] [info] Saving finished.
+[2016-10-08 17:14:31.479698] [info] Saving to file...
+[2016-10-08 17:14:31.479897] [info] Total page videos: 231
+[2016-10-08 17:14:31.509294] [info] Saving finished.
+[2016-10-08 17:21:45.037148] [info] Saving to file...
+[2016-10-08 17:21:45.037353] [info] Total page videos: 481
+[2016-10-08 17:21:45.094244] [info] Saving finished.
+[2016-10-08 17:28:21.136368] [error] Pattern not found when looking for views count.
+[2016-10-08 17:29:29.598337] [info] Saving to file...
+[2016-10-08 17:29:29.598546] [info] Total page videos: 730
+[2016-10-08 17:29:29.678926] [info] Saving finished.
+[2016-10-08 17:36:19.833678] [info] Saving to file...
+[2016-10-08 17:36:19.833832] [info] Total page videos: 945
+[2016-10-08 17:36:19.933854] [info] Saving finished.
+[2016-10-08 17:36:38.288769] [info] Saving to file...
+[2016-10-08 17:36:38.288917] [info] Total page videos: 945
+[2016-10-08 17:36:38.385154] [info] Saving finished.
+[2016-10-08 17:36:56.598628] [info] Saving to file...
+[2016-10-08 17:36:56.598767] [info] Total page videos: 945
+[2016-10-08 17:36:56.693661] [info] Saving finished.
+[2016-10-08 17:37:15.043344] [info] Saving to file...
+[2016-10-08 17:37:15.043474] [info] Total page videos: 945
+[2016-10-08 17:37:15.139369] [info] Saving finished.
+[2016-10-08 17:37:33.902628] [info] Saving to file...
+[2016-10-08 17:37:33.902776] [info] Total page videos: 945
+[2016-10-08 17:37:33.998172] [info] Saving finished.
+[2016-10-08 17:37:57.198992] [info] Saving to file...
+[2016-10-08 17:37:57.199120] [info] Total page videos: 945
+[2016-10-08 17:37:57.295206] [info] Saving finished.
+[2016-10-08 17:38:24.763355] [info] Saving to file...
+[2016-10-08 17:38:24.763525] [info] Total page videos: 945
+[2016-10-08 17:38:24.861498] [info] Saving finished.
+[2016-10-08 17:38:50.300609] [info] Saving to file...
+[2016-10-08 17:38:50.300793] [info] Total page videos: 945
+[2016-10-08 17:38:50.397878] [info] Saving finished.
+[2016-10-08 17:39:09.381716] [info] Saving to file...
+[2016-10-08 17:39:09.381881] [info] Total page videos: 945
+[2016-10-08 17:39:09.478605] [info] Saving finished.
+[2016-10-08 17:39:27.186908] [info] Saving to file...
+[2016-10-08 17:39:27.187084] [info] Total page videos: 945
+[2016-10-08 17:39:27.285398] [info] Saving finished.
+[2016-10-08 17:39:31.498850] [info] Saving to file...
+[2016-10-08 17:39:31.498990] [info] Total page videos: 945
+[2016-10-08 17:39:31.597815] [info] Saving finished.
+[2016-10-08 17:39:31.597943] [info] Total videos: 16132
+[2016-10-08 17:39:31.598987] [info] Analyzing page: 134672973222186
+[2016-10-08 17:41:04.905858] [info] Saving to file...
+[2016-10-08 17:41:04.905986] [info] Total page videos: 46
+[2016-10-08 17:41:04.911932] [info] Saving finished.
+[2016-10-08 17:41:17.425879] [info] Saving to file...
+[2016-10-08 17:41:17.425993] [info] Total page videos: 46
+[2016-10-08 17:41:17.431996] [info] Saving finished.
+[2016-10-08 17:41:29.641748] [info] Saving to file...
+[2016-10-08 17:41:29.641865] [info] Total page videos: 46
+[2016-10-08 17:41:29.647562] [info] Saving finished.
+[2016-10-08 17:41:42.957252] [info] Saving to file...
+[2016-10-08 17:41:42.957417] [info] Total page videos: 46
+[2016-10-08 17:41:42.964263] [info] Saving finished.
+[2016-10-08 17:41:57.374522] [info] Saving to file...
+[2016-10-08 17:41:57.374690] [info] Total page videos: 46
+[2016-10-08 17:41:57.381620] [info] Saving finished.
+[2016-10-08 17:42:09.925195] [info] Saving to file...
+[2016-10-08 17:42:09.925358] [info] Total page videos: 46
+[2016-10-08 17:42:09.932240] [info] Saving finished.
+[2016-10-08 17:42:23.397924] [info] Saving to file...
+[2016-10-08 17:42:23.398097] [info] Total page videos: 46
+[2016-10-08 17:42:23.404975] [info] Saving finished.
+[2016-10-08 17:42:31.581068] [info] Saving to file...
+[2016-10-08 17:42:31.581211] [info] Total page videos: 46
+[2016-10-08 17:42:31.587824] [info] Saving finished.
+[2016-10-08 17:42:31.587924] [info] Total videos: 16178
+[2016-10-08 17:42:31.588449] [info] Analyzing page: 148364602028392
+[2016-10-08 17:43:32.678836] [info] Saving to file...
+[2016-10-08 17:43:32.678982] [info] Total page videos: 33
+[2016-10-08 17:43:32.684423] [info] Saving finished.
+[2016-10-08 17:43:32.684523] [info] Total videos: 16211
+[2016-10-08 17:43:32.684864] [info] Analyzing page: 212035542261852
+[2016-10-08 17:43:32.715328] [error] Request for page id 212035542261852 failed: Unsupported get request. Object with ID '212035542261852' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 17:43:32.715447] [info] Analyzing page: 731743396857610
+[2016-10-08 17:43:53.549048] [error] Pattern not found when looking for views count.
+[2016-10-08 17:44:29.769613] [error] Pattern not found when looking for views count.
+[2016-10-08 17:44:37.805594] [error] Pattern not found when looking for views count.
+[2016-10-08 17:44:47.775016] [error] Pattern not found when looking for views count.
+[2016-10-08 17:44:56.194067] [info] Saving to file...
+[2016-10-08 17:44:56.194247] [info] Total page videos: 135
+[2016-10-08 17:44:56.212376] [info] Saving finished.
+[2016-10-08 17:44:58.169004] [error] Pattern not found when looking for views count.
+[2016-10-08 17:45:07.423696] [error] Pattern not found when looking for views count.
+[2016-10-08 17:45:09.262399] [error] Pattern not found when looking for views count.
+[2016-10-08 17:45:33.910608] [error] Pattern not found when looking for views count.
+[2016-10-08 17:45:40.079560] [error] Pattern not found when looking for views count.
+[2016-10-08 17:45:48.084754] [error] Pattern not found when looking for views count.
+[2016-10-08 17:45:49.899435] [error] Pattern not found when looking for views count.
+[2016-10-08 17:46:11.908691] [error] Pattern not found when looking for views count.
+[2016-10-08 17:46:17.298372] [info] Saving to file...
+[2016-10-08 17:46:17.298527] [info] Total page videos: 254
+[2016-10-08 17:46:17.330176] [info] Saving finished.
+[2016-10-08 17:46:23.893670] [info] Saving to file...
+[2016-10-08 17:46:23.893794] [info] Total page videos: 254
+[2016-10-08 17:46:23.922210] [info] Saving finished.
+[2016-10-08 17:46:32.076678] [info] Saving to file...
+[2016-10-08 17:46:32.076838] [info] Total page videos: 254
+[2016-10-08 17:46:32.108249] [info] Saving finished.
+[2016-10-08 17:46:42.578615] [info] Saving to file...
+[2016-10-08 17:46:42.578790] [info] Total page videos: 254
+[2016-10-08 17:46:42.611987] [info] Saving finished.
+[2016-10-08 17:46:51.925237] [info] Saving to file...
+[2016-10-08 17:46:51.925409] [info] Total page videos: 254
+[2016-10-08 17:46:51.958462] [info] Saving finished.
+[2016-10-08 17:47:00.756113] [info] Saving to file...
+[2016-10-08 17:47:00.756268] [info] Total page videos: 254
+[2016-10-08 17:47:00.788705] [info] Saving finished.
+[2016-10-08 17:47:02.795413] [info] Saving to file...
+[2016-10-08 17:47:02.795593] [info] Total page videos: 254
+[2016-10-08 17:47:02.825937] [info] Saving finished.
+[2016-10-08 17:47:02.826059] [info] Total videos: 16465
+[2016-10-08 17:47:02.826910] [info] Analyzing page: 105250479465
+[2016-10-08 17:47:03.073791] [error] Request for page id 105250479465 failed: Unsupported get request. Object with ID '105250479465' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 17:47:03.073911] [info] Analyzing page: 8245623462
+[2016-10-08 17:50:21.050234] [info] Saving to file...
+[2016-10-08 17:50:21.050434] [info] Total page videos: 76
+[2016-10-08 17:50:21.061186] [info] Saving finished.
+[2016-10-08 17:50:50.069945] [error] Pattern not found when looking for views count.
+[2016-10-08 17:50:58.597368] [error] Pattern not found when looking for views count.
+[2016-10-08 17:51:27.191139] [error] Pattern not found when looking for views count.
+[2016-10-08 17:51:30.145597] [error] Pattern not found when looking for views count.
+[2016-10-08 17:51:42.469927] [error] Pattern not found when looking for views count.
+[2016-10-08 17:52:11.136368] [error] Pattern not found when looking for views count.
+[2016-10-08 17:52:23.207077] [error] Pattern not found when looking for views count.
+[2016-10-08 17:52:50.532337] [error] Pattern not found when looking for views count.
+[2016-10-08 17:53:17.686669] [error] Pattern not found when looking for views count.
+[2016-10-08 18:00:25.560885] [info] Saving to file...
+[2016-10-08 18:00:25.561064] [info] Total page videos: 317
+[2016-10-08 18:00:25.595627] [info] Saving finished.
+[2016-10-08 18:11:27.485467] [info] Saving to file...
+[2016-10-08 18:11:27.485685] [info] Total page videos: 567
+[2016-10-08 18:11:27.555622] [info] Saving finished.
+[2016-10-08 18:15:16.599086] [info] Saving to file...
+[2016-10-08 18:15:16.599229] [info] Total page videos: 650
+[2016-10-08 18:15:16.667807] [info] Saving finished.
+[2016-10-08 18:15:33.101574] [info] Saving to file...
+[2016-10-08 18:15:33.101702] [info] Total page videos: 650
+[2016-10-08 18:15:33.169950] [info] Saving finished.
+[2016-10-08 18:15:49.147995] [info] Saving to file...
+[2016-10-08 18:15:49.148134] [info] Total page videos: 650
+[2016-10-08 18:15:49.217750] [info] Saving finished.
+[2016-10-08 18:16:05.320264] [info] Saving to file...
+[2016-10-08 18:16:05.320394] [info] Total page videos: 650
+[2016-10-08 18:16:05.390945] [info] Saving finished.
+[2016-10-08 18:16:21.598520] [info] Saving to file...
+[2016-10-08 18:16:21.598634] [info] Total page videos: 650
+[2016-10-08 18:16:21.661978] [info] Saving finished.
+[2016-10-08 18:16:37.678246] [info] Saving to file...
+[2016-10-08 18:16:37.678385] [info] Total page videos: 650
+[2016-10-08 18:16:37.740793] [info] Saving finished.
+[2016-10-08 18:16:54.220218] [info] Saving to file...
+[2016-10-08 18:16:54.220355] [info] Total page videos: 650
+[2016-10-08 18:16:54.289794] [info] Saving finished.
+[2016-10-08 18:17:12.513525] [info] Saving to file...
+[2016-10-08 18:17:12.513667] [info] Total page videos: 650
+[2016-10-08 18:17:12.584548] [info] Saving finished.
+[2016-10-08 18:17:29.352400] [info] Saving to file...
+[2016-10-08 18:17:29.352508] [info] Total page videos: 650
+[2016-10-08 18:17:29.413357] [info] Saving finished.
+[2016-10-08 18:17:46.553417] [info] Saving to file...
+[2016-10-08 18:17:46.553565] [info] Total page videos: 650
+[2016-10-08 18:17:46.621735] [info] Saving finished.
+[2016-10-08 18:18:02.899736] [info] Saving to file...
+[2016-10-08 18:18:02.899873] [info] Total page videos: 650
+[2016-10-08 18:18:02.970344] [info] Saving finished.
+[2016-10-08 18:18:20.542036] [info] Saving to file...
+[2016-10-08 18:18:20.542196] [info] Total page videos: 650
+[2016-10-08 18:18:20.612207] [info] Saving finished.
+[2016-10-08 18:18:37.377453] [info] Saving to file...
+[2016-10-08 18:18:37.377614] [info] Total page videos: 650
+[2016-10-08 18:18:37.451139] [info] Saving finished.
+[2016-10-08 18:18:55.408891] [info] Saving to file...
+[2016-10-08 18:18:55.409056] [info] Total page videos: 650
+[2016-10-08 18:18:55.479873] [info] Saving finished.
+[2016-10-08 18:19:11.224330] [info] Saving to file...
+[2016-10-08 18:19:11.224502] [info] Total page videos: 650
+[2016-10-08 18:19:11.296093] [info] Saving finished.
+[2016-10-08 18:19:27.215112] [info] Saving to file...
+[2016-10-08 18:19:27.215279] [info] Total page videos: 650
+[2016-10-08 18:19:27.293577] [info] Saving finished.
+[2016-10-08 18:19:43.401876] [info] Saving to file...
+[2016-10-08 18:19:43.402019] [info] Total page videos: 650
+[2016-10-08 18:19:43.472702] [info] Saving finished.
+[2016-10-08 18:19:59.072662] [info] Saving to file...
+[2016-10-08 18:19:59.072791] [info] Total page videos: 650
+[2016-10-08 18:19:59.145221] [info] Saving finished.
+[2016-10-08 18:20:14.054743] [info] Saving to file...
+[2016-10-08 18:20:14.054872] [info] Total page videos: 650
+[2016-10-08 18:20:14.131185] [info] Saving finished.
+[2016-10-08 18:20:28.638020] [info] Saving to file...
+[2016-10-08 18:20:28.638145] [info] Total page videos: 650
+[2016-10-08 18:20:28.703897] [info] Saving finished.
+[2016-10-08 18:20:43.577864] [info] Saving to file...
+[2016-10-08 18:20:43.578041] [info] Total page videos: 650
+[2016-10-08 18:20:43.648487] [info] Saving finished.
+[2016-10-08 18:20:59.365394] [info] Saving to file...
+[2016-10-08 18:20:59.365561] [info] Total page videos: 650
+[2016-10-08 18:20:59.430464] [info] Saving finished.
+[2016-10-08 18:21:00.899169] [info] Saving to file...
+[2016-10-08 18:21:00.899302] [info] Total page videos: 650
+[2016-10-08 18:21:00.972327] [info] Saving finished.
+[2016-10-08 18:21:00.972449] [info] Total videos: 17115
+[2016-10-08 18:21:00.972770] [info] Analyzing page: nbcnews
+[2016-10-08 18:21:16.384851] [info] Saving to file...
+[2016-10-08 18:21:16.384982] [info] Total page videos: 0
+[2016-10-08 18:21:16.385178] [info] Saving finished.
+[2016-10-08 18:29:11.013801] [info] Saving to file...
+[2016-10-08 18:29:11.013997] [info] Total page videos: 240
+[2016-10-08 18:29:11.043802] [info] Saving finished.
+[2016-10-08 18:30:58.857644] [error] Pattern not found when looking for views count.
+[2016-10-08 18:32:39.447367] [error] Pattern not found when looking for views count.
+[2016-10-08 18:32:42.091192] [error] Pattern not found when looking for views count.
+[2016-10-08 18:32:48.887742] [error] Pattern not found when looking for views count.
+[2016-10-08 18:32:50.297477] [error] Pattern not found when looking for views count.
+[2016-10-08 18:32:51.696625] [error] Pattern not found when looking for views count.
+[2016-10-08 18:34:56.249592] [info] Saving to file...
+[2016-10-08 18:34:56.249782] [info] Total page videos: 428
+[2016-10-08 18:34:56.300585] [info] Saving finished.
+[2016-10-08 18:34:56.300693] [info] Total videos: 17543
+[2016-10-08 18:34:56.300916] [info] Analyzing page: nbcnightlynews
+[2016-10-08 18:35:10.993665] [error] Pattern not found when looking for views count.
+[2016-10-08 18:35:27.320888] [error] Pattern not found when looking for views count.
+[2016-10-08 18:35:39.833359] [error] Pattern not found when looking for views count.
+[2016-10-08 18:36:02.922427] [error] Pattern not found when looking for views count.
+[2016-10-08 18:36:16.234682] [error] Pattern not found when looking for views count.
+[2016-10-08 18:36:22.406702] [error] Pattern not found when looking for views count.
+[2016-10-08 18:36:54.220829] [error] Pattern not found when looking for views count.
+[2016-10-08 18:36:54.855933] [error] Pattern not found when looking for views count.
+[2016-10-08 18:36:55.471573] [error] Pattern not found when looking for views count.
+[2016-10-08 18:36:58.010606] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:16.617930] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:19.428139] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:22.695105] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:25.709572] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:32.843992] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:33.873893] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:35.067464] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:49.510972] [error] Pattern not found when looking for views count.
+[2016-10-08 18:37:50.379028] [error] Pattern not found when looking for views count.
+[2016-10-08 18:38:06.263016] [error] Pattern not found when looking for views count.
+[2016-10-08 18:38:07.061894] [error] Pattern not found when looking for views count.
+[2016-10-08 18:38:12.556608] [error] Pattern not found when looking for views count.
+[2016-10-08 18:38:45.054608] [error] Pattern not found when looking for views count.
+[2016-10-08 18:38:45.417668] [error] Pattern not found when looking for views count.
+[2016-10-08 18:38:54.599458] [error] Pattern not found when looking for views count.
+[2016-10-08 18:38:58.764511] [info] Saving to file...
+[2016-10-08 18:38:58.764635] [info] Total page videos: 126
+[2016-10-08 18:38:58.778660] [info] Saving finished.
+[2016-10-08 18:39:09.353240] [info] Saving to file...
+[2016-10-08 18:39:09.353370] [info] Total page videos: 126
+[2016-10-08 18:39:09.370605] [info] Saving finished.
+[2016-10-08 18:39:18.063863] [info] Saving to file...
+[2016-10-08 18:39:18.063991] [info] Total page videos: 126
+[2016-10-08 18:39:18.081614] [info] Saving finished.
+[2016-10-08 18:39:28.901691] [info] Saving to file...
+[2016-10-08 18:39:28.901858] [info] Total page videos: 126
+[2016-10-08 18:39:28.919241] [info] Saving finished.
+[2016-10-08 18:39:45.399765] [info] Saving to file...
+[2016-10-08 18:39:45.399936] [info] Total page videos: 126
+[2016-10-08 18:39:45.419975] [info] Saving finished.
+[2016-10-08 18:39:54.593161] [info] Saving to file...
+[2016-10-08 18:39:54.593270] [info] Total page videos: 126
+[2016-10-08 18:39:54.608798] [info] Saving finished.
+[2016-10-08 18:40:00.379595] [info] Saving to file...
+[2016-10-08 18:40:00.379728] [info] Total page videos: 126
+[2016-10-08 18:40:00.397841] [info] Saving finished.
+[2016-10-08 18:40:00.397950] [info] Total videos: 17669
+[2016-10-08 18:40:00.398221] [info] Analyzing page: 68680511262
+[2016-10-08 18:40:17.685843] [info] Saving to file...
+[2016-10-08 18:40:17.685980] [info] Total page videos: 0
+[2016-10-08 18:40:17.686180] [info] Saving finished.
+[2016-10-08 18:40:17.686274] [info] Total videos: 17669
+[2016-10-08 18:40:17.686556] [info] Analyzing page: nickyjampr
+[2016-10-08 18:47:51.316220] [info] Saving to file...
+[2016-10-08 18:47:51.316416] [info] Total page videos: 183
+[2016-10-08 18:47:51.340285] [info] Saving finished.
+[2016-10-08 18:47:59.832437] [info] Saving to file...
+[2016-10-08 18:47:59.832617] [info] Total page videos: 183
+[2016-10-08 18:47:59.854572] [info] Saving finished.
+[2016-10-08 18:48:07.892338] [info] Saving to file...
+[2016-10-08 18:48:07.892502] [info] Total page videos: 183
+[2016-10-08 18:48:07.915241] [info] Saving finished.
+[2016-10-08 18:48:16.606667] [info] Saving to file...
+[2016-10-08 18:48:16.606834] [info] Total page videos: 183
+[2016-10-08 18:48:16.629276] [info] Saving finished.
+[2016-10-08 18:48:24.988322] [info] Saving to file...
+[2016-10-08 18:48:24.988487] [info] Total page videos: 183
+[2016-10-08 18:48:25.011564] [info] Saving finished.
+[2016-10-08 18:48:33.233378] [info] Saving to file...
+[2016-10-08 18:48:33.233550] [info] Total page videos: 183
+[2016-10-08 18:48:33.256300] [info] Saving finished.
+[2016-10-08 18:48:41.153780] [info] Saving to file...
+[2016-10-08 18:48:41.153940] [info] Total page videos: 183
+[2016-10-08 18:48:41.175769] [info] Saving finished.
+[2016-10-08 18:48:48.931400] [info] Saving to file...
+[2016-10-08 18:48:48.931529] [info] Total page videos: 183
+[2016-10-08 18:48:48.953319] [info] Saving finished.
+[2016-10-08 18:48:57.111032] [info] Saving to file...
+[2016-10-08 18:48:57.111156] [info] Total page videos: 183
+[2016-10-08 18:48:57.133501] [info] Saving finished.
+[2016-10-08 18:49:04.665988] [info] Saving to file...
+[2016-10-08 18:49:04.666119] [info] Total page videos: 183
+[2016-10-08 18:49:04.688657] [info] Saving finished.
+[2016-10-08 18:49:12.212634] [info] Saving to file...
+[2016-10-08 18:49:12.212776] [info] Total page videos: 183
+[2016-10-08 18:49:12.234358] [info] Saving finished.
+[2016-10-08 18:49:14.434806] [info] Saving to file...
+[2016-10-08 18:49:14.434940] [info] Total page videos: 183
+[2016-10-08 18:49:14.457366] [info] Saving finished.
+[2016-10-08 18:49:14.457474] [info] Total videos: 17852
+[2016-10-08 18:49:14.457920] [info] Analyzing page: 341163402640457
+[2016-10-08 18:49:30.457067] [info] Saving to file...
+[2016-10-08 18:49:30.457201] [info] Total page videos: 0
+[2016-10-08 18:49:30.457392] [info] Saving finished.
+[2016-10-08 18:49:48.416079] [info] Saving to file...
+[2016-10-08 18:49:48.416229] [info] Total page videos: 0
+[2016-10-08 18:49:48.416477] [info] Saving finished.
+[2016-10-08 18:57:50.599459] [info] Saving to file...
+[2016-10-08 18:57:50.599667] [info] Total page videos: 230
+[2016-10-08 18:57:50.628223] [info] Saving finished.
+[2016-10-08 19:06:25.103043] [info] Saving to file...
+[2016-10-08 19:06:25.103245] [info] Total page videos: 480
+[2016-10-08 19:06:25.160571] [info] Saving finished.
+[2016-10-08 19:06:30.021032] [error] Pattern not found when looking for views count.
+[2016-10-08 19:10:37.545311] [error] Pattern not found when looking for views count.
+[2016-10-08 19:10:57.366164] [error] Pattern not found when looking for views count.
+[2016-10-08 19:11:53.123677] [error] Pattern not found when looking for views count.
+[2016-10-08 19:13:25.070009] [error] Pattern not found when looking for views count.
+[2016-10-08 19:13:41.246401] [error] Pattern not found when looking for views count.
+[2016-10-08 19:13:41.636523] [error] Pattern not found when looking for views count.
+[2016-10-08 19:14:16.950577] [info] Saving to file...
+[2016-10-08 19:14:16.950782] [info] Total page videos: 723
+[2016-10-08 19:14:17.033242] [info] Saving finished.
+[2016-10-08 19:15:08.624151] [error] Pattern not found when looking for views count.
+[2016-10-08 19:20:49.621788] [error] Pattern not found when looking for views count.
+[2016-10-08 19:21:33.527718] [info] Saving to file...
+[2016-10-08 19:21:33.527895] [info] Total page videos: 971
+[2016-10-08 19:21:33.623246] [info] Saving finished.
+[2016-10-08 19:27:30.255040] [info] Saving to file...
+[2016-10-08 19:27:30.255179] [info] Total page videos: 1176
+[2016-10-08 19:27:30.370197] [info] Saving finished.
+[2016-10-08 19:27:47.441644] [info] Saving to file...
+[2016-10-08 19:27:47.441776] [info] Total page videos: 1176
+[2016-10-08 19:27:47.557089] [info] Saving finished.
+[2016-10-08 19:28:04.307848] [info] Saving to file...
+[2016-10-08 19:28:04.307988] [info] Total page videos: 1176
+[2016-10-08 19:28:04.422012] [info] Saving finished.
+[2016-10-08 19:28:21.503261] [info] Saving to file...
+[2016-10-08 19:28:21.503341] [info] Total page videos: 1176
+[2016-10-08 19:28:21.567854] [info] Saving finished.
+[2016-10-08 19:28:38.726325] [info] Saving to file...
+[2016-10-08 19:28:38.726465] [info] Total page videos: 1176
+[2016-10-08 19:28:38.840276] [info] Saving finished.
+[2016-10-08 19:28:56.563034] [info] Saving to file...
+[2016-10-08 19:28:56.563179] [info] Total page videos: 1176
+[2016-10-08 19:28:56.679306] [info] Saving finished.
+[2016-10-08 19:29:16.097337] [info] Saving to file...
+[2016-10-08 19:29:16.097475] [info] Total page videos: 1176
+[2016-10-08 19:29:16.210973] [info] Saving finished.
+[2016-10-08 19:29:18.125881] [info] Saving to file...
+[2016-10-08 19:29:18.126007] [info] Total page videos: 1176
+[2016-10-08 19:29:18.234483] [info] Saving finished.
+[2016-10-08 19:29:18.234606] [info] Total videos: 19028
+[2016-10-08 19:29:18.235196] [info] Analyzing page: pagefanclub
+[2016-10-08 19:32:53.919092] [info] Saving to file...
+[2016-10-08 19:32:53.919239] [info] Total page videos: 87
+[2016-10-08 19:32:53.927556] [info] Saving finished.
+[2016-10-08 19:32:57.759937] [info] Saving to file...
+[2016-10-08 19:32:57.760075] [info] Total page videos: 87
+[2016-10-08 19:32:57.768066] [info] Saving finished.
+[2016-10-08 19:32:57.768165] [info] Total videos: 19115
+[2016-10-08 19:32:57.768543] [info] Analyzing page: 146310252233186
+[2016-10-08 19:36:34.749224] [info] Saving to file...
+[2016-10-08 19:36:34.749423] [info] Total page videos: 98
+[2016-10-08 19:36:34.764058] [info] Saving finished.
+[2016-10-08 19:45:22.465673] [info] Saving to file...
+[2016-10-08 19:45:22.465889] [info] Total page videos: 348
+[2016-10-08 19:45:22.508168] [info] Saving finished.
+[2016-10-08 19:51:16.358635] [info] Saving to file...
+[2016-10-08 19:51:16.358757] [info] Total page videos: 493
+[2016-10-08 19:51:16.409210] [info] Saving finished.
+[2016-10-08 19:51:26.685069] [info] Saving to file...
+[2016-10-08 19:51:26.685200] [info] Total page videos: 493
+[2016-10-08 19:51:26.740798] [info] Saving finished.
+[2016-10-08 19:51:36.922662] [info] Saving to file...
+[2016-10-08 19:51:36.922807] [info] Total page videos: 493
+[2016-10-08 19:51:36.973736] [info] Saving finished.
+[2016-10-08 19:51:47.035945] [info] Saving to file...
+[2016-10-08 19:51:47.036071] [info] Total page videos: 493
+[2016-10-08 19:51:47.092385] [info] Saving finished.
+[2016-10-08 19:51:56.884234] [info] Saving to file...
+[2016-10-08 19:51:56.884367] [info] Total page videos: 493
+[2016-10-08 19:51:56.940273] [info] Saving finished.
+[2016-10-08 19:51:56.940370] [info] Total videos: 19608
+[2016-10-08 19:51:56.941194] [info] Analyzing page: jonpaulpiques
+[2016-10-08 19:52:34.445157] [info] Saving to file...
+[2016-10-08 19:52:34.445327] [info] Total page videos: 18
+[2016-10-08 19:52:34.450239] [info] Saving finished.
+[2016-10-08 19:52:34.450382] [info] Total videos: 19626
+[2016-10-08 19:52:34.450891] [info] Analyzing page: playit.buzz
+[2016-10-08 19:52:34.545943] [info] Saving to file...
+[2016-10-08 19:52:34.546061] [info] Total page videos: 0
+[2016-10-08 19:52:34.546233] [info] Saving finished.
+[2016-10-08 19:52:34.546320] [info] Total videos: 19626
+[2016-10-08 19:52:34.546391] [info] Analyzing page: prinzmarcus
+[2016-10-08 19:53:48.648447] [info] Saving to file...
+[2016-10-08 19:53:48.648638] [info] Total page videos: 31
+[2016-10-08 19:53:48.653717] [info] Saving finished.
+[2016-10-08 19:53:48.653822] [info] Total videos: 19657
+[2016-10-08 19:53:48.653942] [info] Analyzing page: radioecuamerica
+[2016-10-08 19:53:50.175930] [info] Saving to file...
+[2016-10-08 19:53:50.176055] [info] Total page videos: 0
+[2016-10-08 19:53:50.176239] [info] Saving finished.
+[2016-10-08 19:53:50.176332] [info] Total videos: 19657
+[2016-10-08 19:53:50.176539] [info] Analyzing page: 14226545351
+[2016-10-08 19:54:30.640794] [info] Saving to file...
+[2016-10-08 19:54:30.640943] [info] Total page videos: 0
+[2016-10-08 19:54:30.641151] [info] Saving finished.
+[2016-10-08 19:54:30.641238] [info] Total videos: 19657
+[2016-10-08 19:54:30.641354] [info] Analyzing page: 501816303292397
+[2016-10-08 19:54:44.252619] [info] Saving to file...
+[2016-10-08 19:54:44.252741] [info] Total page videos: 0
+[2016-10-08 19:54:44.252929] [info] Saving finished.
+[2016-10-08 19:54:58.049999] [info] Saving to file...
+[2016-10-08 19:54:58.050146] [info] Total page videos: 0
+[2016-10-08 19:54:58.052316] [info] Saving finished.
+[2016-10-08 19:55:11.769222] [info] Saving to file...
+[2016-10-08 19:55:11.769351] [info] Total page videos: 0
+[2016-10-08 19:55:11.769599] [info] Saving finished.
+[2016-10-08 19:55:25.666162] [info] Saving to file...
+[2016-10-08 19:55:25.666269] [info] Total page videos: 0
+[2016-10-08 19:55:25.666496] [info] Saving finished.
+[2016-10-08 19:55:40.700325] [info] Saving to file...
+[2016-10-08 19:55:40.700449] [info] Total page videos: 0
+[2016-10-08 19:55:40.700702] [info] Saving finished.
+[2016-10-08 19:55:54.478952] [info] Saving to file...
+[2016-10-08 19:55:54.479084] [info] Total page videos: 0
+[2016-10-08 19:55:54.479350] [info] Saving finished.
+[2016-10-08 19:56:09.888739] [info] Saving to file...
+[2016-10-08 19:56:09.888894] [info] Total page videos: 0
+[2016-10-08 19:56:09.889148] [info] Saving finished.
+[2016-10-08 19:59:45.917224] [error] Pattern not found when looking for views count.
+[2016-10-08 20:00:28.573071] [info] Saving to file...
+[2016-10-08 20:00:28.573276] [info] Total page videos: 194
+[2016-10-08 20:00:28.597712] [info] Saving finished.
+[2016-10-08 20:06:27.816926] [info] Saving to file...
+[2016-10-08 20:06:27.817075] [info] Total page videos: 444
+[2016-10-08 20:06:27.855581] [info] Saving finished.
+[2016-10-08 20:09:20.862728] [error] Pattern not found when looking for views count.
+[2016-10-08 20:12:02.602022] [error] Pattern not found when looking for views count.
+[2016-10-08 20:13:07.804743] [info] Saving to file...
+[2016-10-08 20:13:07.804949] [info] Total page videos: 692
+[2016-10-08 20:13:07.880017] [info] Saving finished.
+[2016-10-08 20:21:21.086848] [info] Saving to file...
+[2016-10-08 20:21:21.087039] [info] Total page videos: 942
+[2016-10-08 20:21:21.178750] [info] Saving finished.
+[2016-10-08 20:29:09.052403] [info] Saving to file...
+[2016-10-08 20:29:09.052611] [info] Total page videos: 1192
+[2016-10-08 20:29:09.159754] [info] Saving finished.
+[2016-10-08 20:38:26.781533] [info] Saving to file...
+[2016-10-08 20:38:26.781740] [info] Total page videos: 1442
+[2016-10-08 20:38:26.913075] [info] Saving finished.
+[2016-10-08 20:45:29.471668] [info] Saving to file...
+[2016-10-08 20:45:29.471874] [info] Total page videos: 1692
+[2016-10-08 20:45:29.621360] [info] Saving finished.
+[2016-10-08 20:48:35.287975] [error] Pattern not found when looking for views count.
+[2016-10-08 20:52:20.466371] [error] Pattern not found when looking for views count.
+[2016-10-08 20:52:23.082475] [info] Saving to file...
+[2016-10-08 20:52:23.082633] [info] Total page videos: 1940
+[2016-10-08 20:52:23.264106] [info] Saving finished.
+[2016-10-08 20:59:28.222528] [info] Saving to file...
+[2016-10-08 20:59:28.222729] [info] Total page videos: 2190
+[2016-10-08 20:59:28.400990] [info] Saving finished.
+[2016-10-08 21:08:02.284116] [info] Saving to file...
+[2016-10-08 21:08:02.284312] [info] Total page videos: 2440
+[2016-10-08 21:08:02.495604] [info] Saving finished.
+[2016-10-08 21:17:22.673381] [info] Saving to file...
+[2016-10-08 21:17:22.673583] [info] Total page videos: 2690
+[2016-10-08 21:17:22.894586] [info] Saving finished.
+[2016-10-08 21:19:44.301412] [error] Pattern not found when looking for views count.
+[2016-10-08 21:25:25.662899] [error] Pattern not found when looking for views count.
+[2016-10-08 21:26:53.225677] [error] Pattern not found when looking for views count.
+[2016-10-08 21:27:15.576908] [info] Saving to file...
+[2016-10-08 21:27:15.577102] [info] Total page videos: 2937
+[2016-10-08 21:27:15.822901] [info] Saving finished.
+[2016-10-08 21:32:33.216871] [error] Pattern not found when looking for views count.
+[2016-10-08 21:33:49.534753] [error] Pattern not found when looking for views count.
+[2016-10-08 21:37:29.135837] [info] Saving to file...
+[2016-10-08 21:37:29.136037] [info] Total page videos: 3185
+[2016-10-08 21:37:29.397617] [info] Saving finished.
+[2016-10-08 21:44:23.022900] [info] Saving to file...
+[2016-10-08 21:44:23.023072] [info] Total page videos: 3332
+[2016-10-08 21:44:23.284092] [info] Saving finished.
+[2016-10-08 21:44:40.754328] [info] Saving to file...
+[2016-10-08 21:44:40.754487] [info] Total page videos: 3332
+[2016-10-08 21:44:41.018666] [info] Saving finished.
+[2016-10-08 21:44:58.860981] [info] Saving to file...
+[2016-10-08 21:44:58.861140] [info] Total page videos: 3332
+[2016-10-08 21:44:59.130933] [info] Saving finished.
+[2016-10-08 21:45:17.081630] [info] Saving to file...
+[2016-10-08 21:45:17.081787] [info] Total page videos: 3332
+[2016-10-08 21:45:17.335093] [info] Saving finished.
+[2016-10-08 21:45:34.539172] [info] Saving to file...
+[2016-10-08 21:45:34.539352] [info] Total page videos: 3332
+[2016-10-08 21:45:34.792778] [info] Saving finished.
+[2016-10-08 21:45:52.142054] [info] Saving to file...
+[2016-10-08 21:45:52.142205] [info] Total page videos: 3332
+[2016-10-08 21:45:52.379199] [info] Saving finished.
+[2016-10-08 21:46:10.622970] [info] Saving to file...
+[2016-10-08 21:46:10.623096] [info] Total page videos: 3332
+[2016-10-08 21:46:10.854962] [info] Saving finished.
+[2016-10-08 21:46:27.844425] [info] Saving to file...
+[2016-10-08 21:46:27.844571] [info] Total page videos: 3332
+[2016-10-08 21:46:28.100457] [info] Saving finished.
+[2016-10-08 21:46:45.052103] [info] Saving to file...
+[2016-10-08 21:46:45.052243] [info] Total page videos: 3332
+[2016-10-08 21:46:45.290882] [info] Saving finished.
+[2016-10-08 21:47:02.566658] [info] Saving to file...
+[2016-10-08 21:47:02.566823] [info] Total page videos: 3332
+[2016-10-08 21:47:02.828501] [info] Saving finished.
+[2016-10-08 21:47:20.099889] [info] Saving to file...
+[2016-10-08 21:47:20.100032] [info] Total page videos: 3332
+[2016-10-08 21:47:20.359602] [info] Saving finished.
+[2016-10-08 21:47:37.359344] [info] Saving to file...
+[2016-10-08 21:47:37.359455] [info] Total page videos: 3332
+[2016-10-08 21:47:37.600126] [info] Saving finished.
+[2016-10-08 21:47:54.577466] [info] Saving to file...
+[2016-10-08 21:47:54.577589] [info] Total page videos: 3332
+[2016-10-08 21:47:54.806267] [info] Saving finished.
+[2016-10-08 21:48:12.325130] [info] Saving to file...
+[2016-10-08 21:48:12.325259] [info] Total page videos: 3332
+[2016-10-08 21:48:12.585103] [info] Saving finished.
+[2016-10-08 21:48:30.027970] [info] Saving to file...
+[2016-10-08 21:48:30.028110] [info] Total page videos: 3332
+[2016-10-08 21:48:30.226100] [info] Saving finished.
+[2016-10-08 21:48:49.617723] [info] Saving to file...
+[2016-10-08 21:48:49.617858] [info] Total page videos: 3332
+[2016-10-08 21:48:49.853476] [info] Saving finished.
+[2016-10-08 21:49:10.266112] [info] Saving to file...
+[2016-10-08 21:49:10.266275] [info] Total page videos: 3332
+[2016-10-08 21:49:10.526000] [info] Saving finished.
+[2016-10-08 21:49:25.393846] [info] Saving to file...
+[2016-10-08 21:49:25.394013] [info] Total page videos: 3332
+[2016-10-08 21:49:25.639487] [info] Saving finished.
+[2016-10-08 21:49:25.640388] [info] Total videos: 22989
+[2016-10-08 21:49:25.641755] [info] Analyzing page: renaudmargry
+[2016-10-08 21:49:33.266700] [info] Saving to file...
+[2016-10-08 21:49:33.266877] [info] Total page videos: 3
+[2016-10-08 21:49:33.267766] [info] Saving finished.
+[2016-10-08 21:49:33.267865] [info] Total videos: 22992
+[2016-10-08 21:49:33.268135] [info] Analyzing page: ridichetipassaaaaaa
+[2016-10-08 21:49:33.414339] [error] Request for page id ridichetipassaaaaaa failed: (#803) Some of the aliases you requested do not exist: ridichetipassaaaaaa
+[2016-10-08 21:49:33.414484] [info] Analyzing page: rugbyworldcup
+[2016-10-08 21:51:00.293087] [info] Saving to file...
+[2016-10-08 21:51:00.293239] [info] Total page videos: 37
+[2016-10-08 21:51:00.298943] [info] Saving finished.
+[2016-10-08 21:51:08.881077] [info] Saving to file...
+[2016-10-08 21:51:08.881248] [info] Total page videos: 37
+[2016-10-08 21:51:08.886957] [info] Saving finished.
+[2016-10-08 21:51:18.185317] [info] Saving to file...
+[2016-10-08 21:51:18.185467] [info] Total page videos: 37
+[2016-10-08 21:51:18.191284] [info] Saving finished.
+[2016-10-08 21:51:20.156932] [info] Saving to file...
+[2016-10-08 21:51:20.157067] [info] Total page videos: 37
+[2016-10-08 21:51:20.162636] [info] Saving finished.
+[2016-10-08 21:51:20.162741] [info] Total videos: 23029
+[2016-10-08 21:51:20.163017] [info] Analyzing page: ryot
+[2016-10-08 21:52:59.979916] [info] Saving to file...
+[2016-10-08 21:52:59.980035] [info] Total page videos: 40
+[2016-10-08 21:52:59.984818] [info] Saving finished.
+[2016-10-08 21:53:10.618273] [info] Saving to file...
+[2016-10-08 21:53:10.618403] [info] Total page videos: 40
+[2016-10-08 21:53:10.624222] [info] Saving finished.
+[2016-10-08 21:53:24.714684] [info] Saving to file...
+[2016-10-08 21:53:24.714826] [info] Total page videos: 40
+[2016-10-08 21:53:24.720577] [info] Saving finished.
+[2016-10-08 21:53:38.617414] [info] Saving to file...
+[2016-10-08 21:53:38.617585] [info] Total page videos: 40
+[2016-10-08 21:53:38.623720] [info] Saving finished.
+[2016-10-08 21:53:49.583422] [info] Saving to file...
+[2016-10-08 21:53:49.583559] [info] Total page videos: 40
+[2016-10-08 21:53:49.588710] [info] Saving finished.
+[2016-10-08 21:53:59.555337] [info] Saving to file...
+[2016-10-08 21:53:59.555480] [info] Total page videos: 40
+[2016-10-08 21:53:59.562506] [info] Saving finished.
+[2016-10-08 21:53:59.562685] [info] Saving to file...
+[2016-10-08 21:53:59.562771] [info] Total page videos: 40
+[2016-10-08 21:53:59.568558] [info] Saving finished.
+[2016-10-08 21:53:59.568660] [info] Total videos: 23069
+[2016-10-08 21:53:59.568804] [info] Analyzing page: 116132035111903
+[2016-10-08 21:53:59.715106] [error] Request for page id 116132035111903 failed: Unsupported get request. Object with ID '116132035111903' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 21:53:59.715225] [info] Analyzing page: 533522410011943
+[2016-10-08 21:53:59.862962] [error] Request for page id 533522410011943 failed: Unsupported get request. Object with ID '533522410011943' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 21:53:59.863079] [info] Analyzing page: 164665060214766
+[2016-10-08 21:54:17.969280] [info] Saving to file...
+[2016-10-08 21:54:17.969417] [info] Total page videos: 0
+[2016-10-08 21:54:17.969610] [info] Saving finished.
+[2016-10-08 22:00:33.328289] [info] Saving to file...
+[2016-10-08 22:00:33.328496] [info] Total page videos: 160
+[2016-10-08 22:00:33.352262] [info] Saving finished.
+[2016-10-08 22:08:23.245589] [error] Pattern not found when looking for views count.
+[2016-10-08 22:09:53.820705] [info] Saving to file...
+[2016-10-08 22:09:53.820909] [info] Total page videos: 409
+[2016-10-08 22:09:53.873755] [info] Saving finished.
+[2016-10-08 22:11:34.778969] [error] Pattern not found when looking for views count.
+[2016-10-08 22:16:51.388427] [error] Pattern not found when looking for views count.
+[2016-10-08 22:19:13.099688] [info] Saving to file...
+[2016-10-08 22:19:13.099881] [info] Total page videos: 657
+[2016-10-08 22:19:13.172702] [info] Saving finished.
+[2016-10-08 22:28:42.482590] [info] Saving to file...
+[2016-10-08 22:28:42.482795] [info] Total page videos: 900
+[2016-10-08 22:28:42.583523] [info] Saving finished.
+[2016-10-08 22:29:02.490861] [info] Saving to file...
+[2016-10-08 22:29:02.490998] [info] Total page videos: 900
+[2016-10-08 22:29:02.588341] [info] Saving finished.
+[2016-10-08 22:29:22.981297] [info] Saving to file...
+[2016-10-08 22:29:22.981419] [info] Total page videos: 900
+[2016-10-08 22:29:23.067867] [info] Saving finished.
+[2016-10-08 22:29:45.166261] [info] Saving to file...
+[2016-10-08 22:29:45.166403] [info] Total page videos: 900
+[2016-10-08 22:29:45.261077] [info] Saving finished.
+[2016-10-08 22:30:08.340694] [info] Saving to file...
+[2016-10-08 22:30:08.340826] [info] Total page videos: 900
+[2016-10-08 22:30:08.436019] [info] Saving finished.
+[2016-10-08 22:30:21.585957] [info] Saving to file...
+[2016-10-08 22:30:21.586078] [info] Total page videos: 900
+[2016-10-08 22:30:21.678683] [info] Saving finished.
+[2016-10-08 22:30:21.678814] [info] Total videos: 23969
+[2016-10-08 22:30:21.679697] [info] Analyzing page: 678548808853043
+[2016-10-08 22:31:44.564013] [info] Saving to file...
+[2016-10-08 22:31:44.564172] [info] Total page videos: 26
+[2016-10-08 22:31:44.569458] [info] Saving finished.
+[2016-10-08 22:31:48.138837] [info] Saving to file...
+[2016-10-08 22:31:48.138983] [info] Total page videos: 26
+[2016-10-08 22:31:48.144375] [info] Saving finished.
+[2016-10-08 22:31:48.144480] [info] Total videos: 23995
+[2016-10-08 22:31:48.144881] [info] Analyzing page: 414982355185739
+[2016-10-08 22:35:03.090305] [info] Saving to file...
+[2016-10-08 22:35:03.090440] [info] Total page videos: 70
+[2016-10-08 22:35:03.100332] [info] Saving finished.
+[2016-10-08 22:35:15.258316] [info] Saving to file...
+[2016-10-08 22:35:15.258469] [info] Total page videos: 70
+[2016-10-08 22:35:15.268856] [info] Saving finished.
+[2016-10-08 22:35:25.278788] [info] Saving to file...
+[2016-10-08 22:35:25.278912] [info] Total page videos: 70
+[2016-10-08 22:35:25.289530] [info] Saving finished.
+[2016-10-08 22:35:26.344786] [info] Saving to file...
+[2016-10-08 22:35:26.344907] [info] Total page videos: 70
+[2016-10-08 22:35:26.357984] [info] Saving finished.
+[2016-10-08 22:35:26.358107] [info] Total videos: 24065
+[2016-10-08 22:35:26.358922] [info] Analyzing page: steveo
+[2016-10-08 22:35:53.609844] [error] Pattern not found when looking for views count.
+[2016-10-08 22:36:01.860161] [info] Saving to file...
+[2016-10-08 22:36:01.860300] [info] Total page videos: 10
+[2016-10-08 22:36:01.862341] [info] Saving finished.
+[2016-10-08 22:36:01.862597] [info] Saving to file...
+[2016-10-08 22:36:01.862684] [info] Total page videos: 10
+[2016-10-08 22:36:01.864377] [info] Saving finished.
+[2016-10-08 22:36:01.864479] [info] Total videos: 24075
+[2016-10-08 22:36:01.864701] [info] Analyzing page: 175128962516590
+[2016-10-08 22:36:02.152784] [error] Request for page id 175128962516590 failed: Unsupported get request. Object with ID '175128962516590' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 22:36:02.152899] [info] Analyzing page: 571035253040893
+[2016-10-08 22:40:05.660079] [info] Saving to file...
+[2016-10-08 22:40:05.660207] [info] Total page videos: 98
+[2016-10-08 22:40:05.669882] [info] Saving finished.
+[2016-10-08 22:40:14.998473] [info] Saving to file...
+[2016-10-08 22:40:14.998644] [info] Total page videos: 98
+[2016-10-08 22:40:15.010735] [info] Saving finished.
+[2016-10-08 22:40:24.341070] [info] Saving to file...
+[2016-10-08 22:40:24.341237] [info] Total page videos: 98
+[2016-10-08 22:40:24.352952] [info] Saving finished.
+[2016-10-08 22:40:29.759332] [info] Saving to file...
+[2016-10-08 22:40:29.759485] [info] Total page videos: 98
+[2016-10-08 22:40:29.770803] [info] Saving finished.
+[2016-10-08 22:40:29.770900] [info] Total videos: 24173
+[2016-10-08 22:40:29.771433] [info] Analyzing page: streetfx
+[2016-10-08 22:46:48.577424] [info] Saving to file...
+[2016-10-08 22:46:48.577625] [info] Total page videos: 125
+[2016-10-08 22:46:48.594980] [info] Saving finished.
+[2016-10-08 22:48:02.567122] [info] Saving to file...
+[2016-10-08 22:48:02.567269] [info] Total page videos: 144
+[2016-10-08 22:48:02.585967] [info] Saving finished.
+[2016-10-08 22:48:23.700515] [info] Saving to file...
+[2016-10-08 22:48:23.700655] [info] Total page videos: 144
+[2016-10-08 22:48:23.719269] [info] Saving finished.
+[2016-10-08 22:48:46.967405] [info] Saving to file...
+[2016-10-08 22:48:46.967557] [info] Total page videos: 144
+[2016-10-08 22:48:46.987128] [info] Saving finished.
+[2016-10-08 22:49:17.209022] [info] Saving to file...
+[2016-10-08 22:49:17.209148] [info] Total page videos: 144
+[2016-10-08 22:49:17.227864] [info] Saving finished.
+[2016-10-08 22:50:40.383624] [error] Can not get next videos from page streetfxAn unknown error occurred
+[2016-10-08 22:50:40.383789] [info] Saving to file...
+[2016-10-08 22:50:40.383866] [info] Total page videos: 144
+[2016-10-08 22:50:40.405179] [info] Saving finished.
+[2016-10-08 22:50:40.405297] [info] Total videos: 24317
+[2016-10-08 22:50:40.405929] [info] Analyzing page: 268804973206677
+[2016-10-08 22:52:02.883081] [error] Pattern not found when looking for views count.
+[2016-10-08 22:53:14.001580] [error] Pattern not found when looking for views count.
+[2016-10-08 22:54:16.650906] [error] Pattern not found when looking for views count.
+[2016-10-08 22:55:18.006057] [info] Saving to file...
+[2016-10-08 22:55:18.006238] [info] Total page videos: 93
+[2016-10-08 22:55:18.018127] [info] Saving finished.
+[2016-10-08 22:55:30.831235] [error] Pattern not found when looking for views count.
+[2016-10-08 22:55:34.101605] [error] Pattern not found when looking for views count.
+[2016-10-08 22:56:36.630812] [error] Pattern not found when looking for views count.
+[2016-10-08 22:58:38.767923] [error] Pattern not found when looking for views count.
+[2016-10-08 23:05:59.113497] [info] Saving to file...
+[2016-10-08 23:05:59.113706] [info] Total page videos: 318
+[2016-10-08 23:05:59.155149] [info] Saving finished.
+[2016-10-08 23:06:19.367562] [info] Saving to file...
+[2016-10-08 23:06:19.367682] [info] Total page videos: 318
+[2016-10-08 23:06:19.402288] [info] Saving finished.
+[2016-10-08 23:06:39.517420] [info] Saving to file...
+[2016-10-08 23:06:39.517545] [info] Total page videos: 318
+[2016-10-08 23:06:39.556638] [info] Saving finished.
+[2016-10-08 23:06:59.296133] [info] Saving to file...
+[2016-10-08 23:06:59.296258] [info] Total page videos: 318
+[2016-10-08 23:06:59.332489] [info] Saving finished.
+[2016-10-08 23:07:21.543838] [info] Saving to file...
+[2016-10-08 23:07:21.544017] [info] Total page videos: 318
+[2016-10-08 23:07:21.573924] [info] Saving finished.
+[2016-10-08 23:07:41.838630] [info] Saving to file...
+[2016-10-08 23:07:41.838790] [info] Total page videos: 318
+[2016-10-08 23:07:41.878760] [info] Saving finished.
+[2016-10-08 23:08:06.932893] [info] Saving to file...
+[2016-10-08 23:08:06.933077] [info] Total page videos: 318
+[2016-10-08 23:08:06.972449] [info] Saving finished.
+[2016-10-08 23:08:28.539460] [info] Saving to file...
+[2016-10-08 23:08:28.539602] [info] Total page videos: 318
+[2016-10-08 23:08:28.573513] [info] Saving finished.
+[2016-10-08 23:08:50.319530] [info] Saving to file...
+[2016-10-08 23:08:50.319675] [info] Total page videos: 318
+[2016-10-08 23:08:50.364022] [info] Saving finished.
+[2016-10-08 23:09:11.339827] [info] Saving to file...
+[2016-10-08 23:09:11.340009] [info] Total page videos: 318
+[2016-10-08 23:09:11.379762] [info] Saving finished.
+[2016-10-08 23:09:32.790666] [info] Saving to file...
+[2016-10-08 23:09:32.790807] [info] Total page videos: 318
+[2016-10-08 23:09:32.827836] [info] Saving finished.
+[2016-10-08 23:09:53.500327] [info] Saving to file...
+[2016-10-08 23:09:53.500484] [info] Total page videos: 318
+[2016-10-08 23:09:53.536118] [info] Saving finished.
+[2016-10-08 23:10:13.913134] [info] Saving to file...
+[2016-10-08 23:10:13.913280] [info] Total page videos: 318
+[2016-10-08 23:10:13.948764] [info] Saving finished.
+[2016-10-08 23:10:33.128496] [info] Saving to file...
+[2016-10-08 23:10:33.128648] [info] Total page videos: 318
+[2016-10-08 23:10:33.168448] [info] Saving finished.
+[2016-10-08 23:10:52.061378] [info] Saving to file...
+[2016-10-08 23:10:52.061542] [info] Total page videos: 318
+[2016-10-08 23:10:52.101525] [info] Saving finished.
+[2016-10-08 23:11:07.723125] [info] Saving to file...
+[2016-10-08 23:11:07.723268] [info] Total page videos: 318
+[2016-10-08 23:11:07.763811] [info] Saving finished.
+[2016-10-08 23:11:07.763923] [info] Total videos: 24635
+[2016-10-08 23:11:07.764744] [info] Analyzing page: 768053913287830
+[2016-10-08 23:16:41.198623] [info] Saving to file...
+[2016-10-08 23:16:41.198823] [info] Total page videos: 155
+[2016-10-08 23:16:41.220269] [info] Saving finished.
+[2016-10-08 23:21:45.695403] [info] Saving to file...
+[2016-10-08 23:21:45.695557] [info] Total page videos: 272
+[2016-10-08 23:21:45.729595] [info] Saving finished.
+[2016-10-08 23:22:00.569256] [info] Saving to file...
+[2016-10-08 23:22:00.569406] [info] Total page videos: 273
+[2016-10-08 23:22:00.602983] [info] Saving finished.
+[2016-10-08 23:22:13.372965] [info] Saving to file...
+[2016-10-08 23:22:13.373097] [info] Total page videos: 273
+[2016-10-08 23:22:13.407763] [info] Saving finished.
+[2016-10-08 23:22:25.214324] [info] Saving to file...
+[2016-10-08 23:22:25.214472] [info] Total page videos: 273
+[2016-10-08 23:22:25.249255] [info] Saving finished.
+[2016-10-08 23:22:37.730652] [info] Saving to file...
+[2016-10-08 23:22:37.730824] [info] Total page videos: 273
+[2016-10-08 23:22:37.765811] [info] Saving finished.
+[2016-10-08 23:22:51.457551] [info] Saving to file...
+[2016-10-08 23:22:51.457693] [info] Total page videos: 273
+[2016-10-08 23:22:51.491355] [info] Saving finished.
+[2016-10-08 23:23:04.245595] [info] Saving to file...
+[2016-10-08 23:23:04.245790] [info] Total page videos: 273
+[2016-10-08 23:23:04.280664] [info] Saving finished.
+[2016-10-08 23:23:16.888938] [info] Saving to file...
+[2016-10-08 23:23:16.889076] [info] Total page videos: 273
+[2016-10-08 23:23:16.922341] [info] Saving finished.
+[2016-10-08 23:23:30.121788] [info] Saving to file...
+[2016-10-08 23:23:30.121923] [info] Total page videos: 273
+[2016-10-08 23:23:30.156778] [info] Saving finished.
+[2016-10-08 23:23:41.151988] [info] Saving to file...
+[2016-10-08 23:23:41.152143] [info] Total page videos: 273
+[2016-10-08 23:23:41.187834] [info] Saving finished.
+[2016-10-08 23:23:41.187942] [info] Total videos: 24908
+[2016-10-08 23:23:41.188657] [info] Analyzing page: 1614251518827491
+[2016-10-08 23:30:30.696881] [info] Saving to file...
+[2016-10-08 23:30:30.697067] [info] Total page videos: 167
+[2016-10-08 23:30:30.713761] [info] Saving finished.
+[2016-10-08 23:30:39.975518] [info] Saving to file...
+[2016-10-08 23:30:39.975646] [info] Total page videos: 167
+[2016-10-08 23:30:39.994497] [info] Saving finished.
+[2016-10-08 23:30:49.160104] [info] Saving to file...
+[2016-10-08 23:30:49.160247] [info] Total page videos: 167
+[2016-10-08 23:30:49.176875] [info] Saving finished.
+[2016-10-08 23:30:51.657335] [info] Saving to file...
+[2016-10-08 23:30:51.657475] [info] Total page videos: 167
+[2016-10-08 23:30:51.675395] [info] Saving finished.
+[2016-10-08 23:30:51.675493] [info] Total videos: 25075
+[2016-10-08 23:30:51.676111] [info] Analyzing page: 352751268256569
+[2016-10-08 23:31:01.579891] [info] Saving to file...
+[2016-10-08 23:31:01.580018] [info] Total page videos: 0
+[2016-10-08 23:31:01.580195] [info] Saving finished.
+[2016-10-08 23:37:05.322834] [info] Saving to file...
+[2016-10-08 23:37:05.323076] [info] Total page videos: 171
+[2016-10-08 23:37:05.347493] [info] Saving finished.
+[2016-10-08 23:44:46.082617] [info] Saving to file...
+[2016-10-08 23:44:46.082798] [info] Total page videos: 401
+[2016-10-08 23:44:46.126744] [info] Saving finished.
+[2016-10-08 23:45:01.331481] [info] Saving to file...
+[2016-10-08 23:45:01.331609] [info] Total page videos: 403
+[2016-10-08 23:45:01.378726] [info] Saving finished.
+[2016-10-08 23:45:13.632195] [info] Saving to file...
+[2016-10-08 23:45:13.632328] [info] Total page videos: 403
+[2016-10-08 23:45:13.676984] [info] Saving finished.
+[2016-10-08 23:45:23.800477] [info] Saving to file...
+[2016-10-08 23:45:23.800606] [info] Total page videos: 403
+[2016-10-08 23:45:23.848531] [info] Saving finished.
+[2016-10-08 23:45:33.907522] [info] Saving to file...
+[2016-10-08 23:45:33.907684] [info] Total page videos: 403
+[2016-10-08 23:45:33.955214] [info] Saving finished.
+[2016-10-08 23:45:39.032630] [info] Saving to file...
+[2016-10-08 23:45:39.032754] [info] Total page videos: 403
+[2016-10-08 23:45:39.083929] [info] Saving finished.
+[2016-10-08 23:45:39.084047] [info] Total videos: 25478
+[2016-10-08 23:45:39.084311] [info] Analyzing page: 4thajoker
+[2016-10-08 23:45:39.376854] [error] Request for page id 4thajoker failed: (#803) Some of the aliases you requested do not exist: 4thajoker
+[2016-10-08 23:45:39.376976] [info] Analyzing page: 252714998213038
+[2016-10-08 23:45:39.668719] [error] Request for page id 252714998213038 failed: Unsupported get request. Object with ID '252714998213038' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 23:45:39.668831] [info] Analyzing page: 498505146890911
+[2016-10-08 23:46:48.370337] [info] Saving to file...
+[2016-10-08 23:46:48.370524] [info] Total page videos: 27
+[2016-10-08 23:46:48.374397] [info] Saving finished.
+[2016-10-08 23:46:52.253160] [info] Saving to file...
+[2016-10-08 23:46:52.253298] [info] Total page videos: 27
+[2016-10-08 23:46:52.257514] [info] Saving finished.
+[2016-10-08 23:46:52.257625] [info] Total videos: 25505
+[2016-10-08 23:46:52.258100] [info] Analyzing page: ellentv
+[2016-10-08 23:50:03.684844] [info] Saving to file...
+[2016-10-08 23:50:03.684988] [info] Total page videos: 82
+[2016-10-08 23:50:03.696300] [info] Saving finished.
+[2016-10-08 23:50:13.380064] [info] Saving to file...
+[2016-10-08 23:50:13.380208] [info] Total page videos: 82
+[2016-10-08 23:50:13.391830] [info] Saving finished.
+[2016-10-08 23:50:23.732969] [info] Saving to file...
+[2016-10-08 23:50:23.733093] [info] Total page videos: 82
+[2016-10-08 23:50:23.744065] [info] Saving finished.
+[2016-10-08 23:50:34.280478] [info] Saving to file...
+[2016-10-08 23:50:34.280647] [info] Total page videos: 82
+[2016-10-08 23:50:34.292104] [info] Saving finished.
+[2016-10-08 23:50:46.151609] [info] Saving to file...
+[2016-10-08 23:50:46.151738] [info] Total page videos: 82
+[2016-10-08 23:50:46.159835] [info] Saving finished.
+[2016-10-08 23:50:50.357214] [info] Saving to file...
+[2016-10-08 23:50:50.357342] [info] Total page videos: 82
+[2016-10-08 23:50:50.368748] [info] Saving finished.
+[2016-10-08 23:50:50.368851] [info] Total videos: 25587
+[2016-10-08 23:50:50.369349] [info] Analyzing page: theshaderoom
+[2016-10-08 23:50:50.666975] [error] Request for page id theshaderoom failed: Unsupported get request. Object with ID 'theshaderoom' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-08 23:50:50.667088] [info] Analyzing page: 31732483895
+[2016-10-08 23:53:14.968230] [info] Saving to file...
+[2016-10-08 23:53:14.968384] [info] Total page videos: 48
+[2016-10-08 23:53:14.975569] [info] Saving finished.
+[2016-10-08 23:53:17.329797] [info] Saving to file...
+[2016-10-08 23:53:17.329927] [info] Total page videos: 48
+[2016-10-08 23:53:17.335999] [info] Saving finished.
+[2016-10-08 23:53:17.336086] [info] Total videos: 25635
+[2016-10-08 23:53:17.336664] [info] Analyzing page: theweatherchannel
+[2016-10-08 23:53:37.498914] [info] Saving to file...
+[2016-10-08 23:53:37.499046] [info] Total page videos: 0
+[2016-10-08 23:53:37.499236] [info] Saving finished.
+[2016-10-09 0:01:16.462140] [info] Saving to file...
+[2016-10-09 0:01:16.462347] [info] Total page videos: 154
+[2016-10-09 0:01:16.483656] [info] Saving finished.
+[2016-10-09 0:11:07.002684] [info] Saving to file...
+[2016-10-09 0:11:07.002895] [info] Total page videos: 404
+[2016-10-09 0:11:07.052352] [info] Saving finished.
+[2016-10-09 0:21:59.424247] [info] Saving to file...
+[2016-10-09 0:21:59.424455] [info] Total page videos: 654
+[2016-10-09 0:21:59.497976] [info] Saving finished.
+[2016-10-09 0:24:53.202102] [info] Saving to file...
+[2016-10-09 0:24:53.202251] [info] Total page videos: 710
+[2016-10-09 0:24:53.278115] [info] Saving finished.
+[2016-10-09 0:25:13.897864] [info] Saving to file...
+[2016-10-09 0:25:13.897999] [info] Total page videos: 710
+[2016-10-09 0:25:13.974036] [info] Saving finished.
+[2016-10-09 0:25:33.672496] [info] Saving to file...
+[2016-10-09 0:25:33.672657] [info] Total page videos: 710
+[2016-10-09 0:25:33.747498] [info] Saving finished.
+[2016-10-09 0:25:51.241195] [info] Saving to file...
+[2016-10-09 0:25:51.241323] [info] Total page videos: 710
+[2016-10-09 0:25:51.319601] [info] Saving finished.
+[2016-10-09 0:26:06.609028] [info] Saving to file...
+[2016-10-09 0:26:06.609163] [info] Total page videos: 710
+[2016-10-09 0:26:06.688512] [info] Saving finished.
+[2016-10-09 0:26:22.740986] [info] Saving to file...
+[2016-10-09 0:26:22.741136] [info] Total page videos: 710
+[2016-10-09 0:26:22.820549] [info] Saving finished.
+[2016-10-09 0:26:38.870007] [info] Saving to file...
+[2016-10-09 0:26:38.870095] [info] Total page videos: 710
+[2016-10-09 0:26:38.921355] [info] Saving finished.
+[2016-10-09 0:26:38.921463] [info] Total videos: 26345
+[2016-10-09 0:26:38.921709] [info] Analyzing page: thisisinsider
+[2016-10-09 0:34:07.113852] [info] Saving to file...
+[2016-10-09 0:34:07.114078] [info] Total page videos: 215
+[2016-10-09 0:34:07.142790] [info] Saving finished.
+[2016-10-09 0:34:51.301824] [info] Saving to file...
+[2016-10-09 0:34:51.301969] [info] Total page videos: 230
+[2016-10-09 0:34:51.331367] [info] Saving finished.
+[2016-10-09 0:35:04.479850] [info] Saving to file...
+[2016-10-09 0:35:04.479996] [info] Total page videos: 230
+[2016-10-09 0:35:04.508105] [info] Saving finished.
+[2016-10-09 0:35:16.611335] [info] Saving to file...
+[2016-10-09 0:35:16.611495] [info] Total page videos: 230
+[2016-10-09 0:35:16.641875] [info] Saving finished.
+[2016-10-09 0:35:29.209670] [info] Saving to file...
+[2016-10-09 0:35:29.209819] [info] Total page videos: 230
+[2016-10-09 0:35:29.236731] [info] Saving finished.
+[2016-10-09 0:35:40.799707] [info] Saving to file...
+[2016-10-09 0:35:40.799841] [info] Total page videos: 230
+[2016-10-09 0:35:40.829672] [info] Saving finished.
+[2016-10-09 0:35:57.884403] [info] Saving to file...
+[2016-10-09 0:35:57.884572] [info] Total page videos: 230
+[2016-10-09 0:35:57.913244] [info] Saving finished.
+[2016-10-09 0:36:14.836489] [info] Saving to file...
+[2016-10-09 0:36:14.836663] [info] Total page videos: 230
+[2016-10-09 0:36:14.866164] [info] Saving finished.
+[2016-10-09 0:36:32.699532] [info] Saving to file...
+[2016-10-09 0:36:32.699682] [info] Total page videos: 230
+[2016-10-09 0:36:32.728663] [info] Saving finished.
+[2016-10-09 0:36:34.881166] [info] Saving to file...
+[2016-10-09 0:36:34.881298] [info] Total page videos: 230
+[2016-10-09 0:36:34.912237] [info] Saving finished.
+[2016-10-09 0:36:34.912334] [info] Total videos: 26575
+[2016-10-09 0:36:34.912647] [info] Analyzing page: 491452930867938
+[2016-10-09 0:38:52.453119] [info] Saving to file...
+[2016-10-09 0:38:52.453268] [info] Total page videos: 67
+[2016-10-09 0:38:52.462049] [info] Saving finished.
+[2016-10-09 0:38:58.715945] [info] Saving to file...
+[2016-10-09 0:38:58.716085] [info] Total page videos: 67
+[2016-10-09 0:38:58.725420] [info] Saving finished.
+[2016-10-09 0:38:58.725725] [info] Saving to file...
+[2016-10-09 0:38:58.725805] [info] Total page videos: 67
+[2016-10-09 0:38:58.732999] [info] Saving finished.
+[2016-10-09 0:38:58.733097] [info] Total videos: 26642
+[2016-10-09 0:38:58.733366] [info] Analyzing page: 171112259610923
+[2016-10-09 0:38:59.062256] [info] Saving to file...
+[2016-10-09 0:38:59.062335] [info] Total page videos: 0
+[2016-10-09 0:38:59.062486] [info] Saving finished.
+[2016-10-09 0:38:59.062546] [info] Total videos: 26642
+[2016-10-09 0:38:59.062592] [info] Analyzing page: 146505212039213
+[2016-10-09 0:39:13.407500] [info] Saving to file...
+[2016-10-09 0:39:13.407624] [info] Total page videos: 0
+[2016-10-09 0:39:13.409780] [info] Saving finished.
+[2016-10-09 0:39:28.338290] [info] Saving to file...
+[2016-10-09 0:39:28.338427] [info] Total page videos: 0
+[2016-10-09 0:39:28.338701] [info] Saving finished.
+[2016-10-09 0:47:50.674506] [info] Saving to file...
+[2016-10-09 0:47:50.674717] [info] Total page videos: 240
+[2016-10-09 0:47:50.706629] [info] Saving finished.
+[2016-10-09 0:54:57.817836] [error] Pattern not found when looking for views count.
+[2016-10-09 0:57:07.027205] [info] Saving to file...
+[2016-10-09 0:57:07.027422] [info] Total page videos: 489
+[2016-10-09 0:57:07.086138] [info] Saving finished.
+[2016-10-09 1:07:03.034219] [info] Saving to file...
+[2016-10-09 1:07:03.034424] [info] Total page videos: 739
+[2016-10-09 1:07:03.112849] [info] Saving finished.
+[2016-10-09 1:12:24.861761] [info] Saving to file...
+[2016-10-09 1:12:24.861907] [info] Total page videos: 893
+[2016-10-09 1:12:24.955445] [info] Saving finished.
+[2016-10-09 1:12:40.610800] [info] Saving to file...
+[2016-10-09 1:12:40.610949] [info] Total page videos: 893
+[2016-10-09 1:12:40.702414] [info] Saving finished.
+[2016-10-09 1:13:03.212873] [info] Saving to file...
+[2016-10-09 1:13:03.213011] [info] Total page videos: 893
+[2016-10-09 1:13:03.300630] [info] Saving finished.
+[2016-10-09 1:13:19.336122] [info] Saving to file...
+[2016-10-09 1:13:19.336265] [info] Total page videos: 893
+[2016-10-09 1:13:19.428612] [info] Saving finished.
+[2016-10-09 1:13:30.521301] [info] Saving to file...
+[2016-10-09 1:13:30.521446] [info] Total page videos: 893
+[2016-10-09 1:13:30.615350] [info] Saving finished.
+[2016-10-09 1:13:30.615478] [info] Total videos: 27535
+[2016-10-09 1:13:30.616461] [info] Analyzing page: 354522044588660
+[2016-10-09 1:13:42.471132] [info] Saving to file...
+[2016-10-09 1:13:42.471276] [info] Total page videos: 0
+[2016-10-09 1:13:42.471503] [info] Saving finished.
+[2016-10-09 1:13:42.471586] [info] Total videos: 27535
+[2016-10-09 1:13:42.472098] [info] Analyzing page: vicenews
+[2016-10-09 1:19:09.229955] [info] Saving to file...
+[2016-10-09 1:19:09.230117] [info] Total page videos: 130
+[2016-10-09 1:19:09.247179] [info] Saving finished.
+[2016-10-09 1:19:21.904181] [info] Saving to file...
+[2016-10-09 1:19:21.904309] [info] Total page videos: 130
+[2016-10-09 1:19:21.922127] [info] Saving finished.
+[2016-10-09 1:19:32.676244] [info] Saving to file...
+[2016-10-09 1:19:32.676431] [info] Total page videos: 130
+[2016-10-09 1:19:32.697917] [info] Saving finished.
+[2016-10-09 1:19:42.458780] [info] Saving to file...
+[2016-10-09 1:19:42.458897] [info] Total page videos: 130
+[2016-10-09 1:19:42.475675] [info] Saving finished.
+[2016-10-09 1:19:45.886466] [info] Saving to file...
+[2016-10-09 1:19:45.886599] [info] Total page videos: 130
+[2016-10-09 1:19:45.903755] [info] Saving finished.
+[2016-10-09 1:19:45.903856] [info] Total videos: 27665
+[2016-10-09 1:19:45.904198] [info] Analyzing page: 363765800431935
+[2016-10-09 1:19:54.937347] [info] Saving to file...
+[2016-10-09 1:19:54.937475] [info] Total page videos: 0
+[2016-10-09 1:19:54.937680] [info] Saving finished.
+[2016-10-09 1:20:04.608527] [info] Saving to file...
+[2016-10-09 1:20:04.608658] [info] Total page videos: 0
+[2016-10-09 1:20:04.608897] [info] Saving finished.
+[2016-10-09 1:29:14.244859] [info] Saving to file...
+[2016-10-09 1:29:14.245068] [info] Total page videos: 227
+[2016-10-09 1:29:14.275032] [info] Saving finished.
+[2016-10-09 1:37:15.470184] [info] Saving to file...
+[2016-10-09 1:37:15.470323] [info] Total page videos: 418
+[2016-10-09 1:37:15.513212] [info] Saving finished.
+[2016-10-09 1:37:24.650819] [info] Saving to file...
+[2016-10-09 1:37:24.650944] [info] Total page videos: 418
+[2016-10-09 1:37:24.695348] [info] Saving finished.
+[2016-10-09 1:37:27.859822] [info] Saving to file...
+[2016-10-09 1:37:27.859977] [info] Total page videos: 418
+[2016-10-09 1:37:27.908061] [info] Saving finished.
+[2016-10-09 1:37:27.908169] [info] Total videos: 28083
+[2016-10-09 1:37:27.908934] [info] Analyzing page: 1438404543063932
+[2016-10-09 1:39:40.199193] [error] Pattern not found when looking for views count.
+[2016-10-09 1:41:53.558163] [info] Saving to file...
+[2016-10-09 1:41:53.558336] [info] Total page videos: 77
+[2016-10-09 1:41:53.567867] [info] Saving finished.
+[2016-10-09 1:48:56.448662] [info] Saving to file...
+[2016-10-09 1:48:56.448811] [info] Total page videos: 213
+[2016-10-09 1:48:56.476016] [info] Saving finished.
+[2016-10-09 1:49:10.529506] [info] Saving to file...
+[2016-10-09 1:49:10.529679] [info] Total page videos: 213
+[2016-10-09 1:49:10.557534] [info] Saving finished.
+[2016-10-09 1:49:10.558177] [info] Saving to file...
+[2016-10-09 1:49:10.558248] [info] Total page videos: 213
+[2016-10-09 1:49:10.577939] [info] Saving finished.
+[2016-10-09 1:49:10.578022] [info] Total videos: 28296
+[2016-10-09 1:49:10.578763] [info] Analyzing page: vocativ
+[2016-10-09 1:53:37.781522] [info] Saving to file...
+[2016-10-09 1:53:37.781730] [info] Total page videos: 124
+[2016-10-09 1:53:37.799114] [info] Saving finished.
+[2016-10-09 1:55:09.694241] [error] Pattern not found when looking for views count.
+[2016-10-09 2:00:28.594773] [info] Saving to file...
+[2016-10-09 2:00:28.594924] [info] Total page videos: 323
+[2016-10-09 2:00:28.634296] [info] Saving finished.
+[2016-10-09 2:00:37.048008] [info] Saving to file...
+[2016-10-09 2:00:37.048136] [info] Total page videos: 323
+[2016-10-09 2:00:37.088825] [info] Saving finished.
+[2016-10-09 2:00:46.829706] [info] Saving to file...
+[2016-10-09 2:00:46.829833] [info] Total page videos: 323
+[2016-10-09 2:00:46.869998] [info] Saving finished.
+[2016-10-09 2:00:57.836040] [info] Saving to file...
+[2016-10-09 2:00:57.836196] [info] Total page videos: 323
+[2016-10-09 2:00:57.875117] [info] Saving finished.
+[2016-10-09 2:01:09.081939] [info] Saving to file...
+[2016-10-09 2:01:09.082109] [info] Total page videos: 323
+[2016-10-09 2:01:09.122962] [info] Saving finished.
+[2016-10-09 2:01:20.594705] [info] Saving to file...
+[2016-10-09 2:01:20.594868] [info] Total page videos: 323
+[2016-10-09 2:01:20.635521] [info] Saving finished.
+[2016-10-09 2:01:31.560019] [info] Saving to file...
+[2016-10-09 2:01:31.560188] [info] Total page videos: 323
+[2016-10-09 2:01:31.598082] [info] Saving finished.
+[2016-10-09 2:01:36.917670] [info] Saving to file...
+[2016-10-09 2:01:36.917802] [info] Total page videos: 323
+[2016-10-09 2:01:36.956840] [info] Saving finished.
+[2016-10-09 2:01:36.956947] [info] Total videos: 28619
+[2016-10-09 2:01:36.957492] [info] Analyzing page: vox
+[2016-10-09 2:07:25.361870] [info] Saving to file...
+[2016-10-09 2:07:25.362051] [info] Total page videos: 186
+[2016-10-09 2:07:25.385417] [info] Saving finished.
+[2016-10-09 2:07:43.913861] [info] Saving to file...
+[2016-10-09 2:07:43.913995] [info] Total page videos: 187
+[2016-10-09 2:07:43.929091] [info] Saving finished.
+[2016-10-09 2:07:43.929362] [info] Saving to file...
+[2016-10-09 2:07:43.929406] [info] Total page videos: 187
+[2016-10-09 2:07:43.940927] [info] Saving finished.
+[2016-10-09 2:07:43.940982] [info] Total videos: 28806
+[2016-10-09 2:07:43.941251] [info] Analyzing page: wwe
+[2016-10-09 2:08:16.309333] [info] Saving to file...
+[2016-10-09 2:08:16.309475] [info] Total page videos: 0
+[2016-10-09 2:08:16.309679] [info] Saving finished.
+[2016-10-09 2:15:53.012851] [info] Saving to file...
+[2016-10-09 2:15:53.013060] [info] Total page videos: 190
+[2016-10-09 2:15:53.035164] [info] Saving finished.
+[2016-10-09 2:26:24.649818] [info] Saving to file...
+[2016-10-09 2:26:24.650024] [info] Total page videos: 440
+[2016-10-09 2:26:24.691226] [info] Saving finished.
+[2016-10-09 2:27:41.138279] [info] Saving to file...
+[2016-10-09 2:27:41.138494] [info] Total page videos: 473
+[2016-10-09 2:27:41.183926] [info] Saving finished.
+[2016-10-09 2:27:41.184040] [info] Total videos: 29279
+[2016-10-09 2:27:41.184245] [info] Analyzing page: whistlesports
+[2016-10-09 2:27:56.221725] [info] Saving to file...
+[2016-10-09 2:27:56.221860] [info] Total page videos: 0
+[2016-10-09 2:27:56.222054] [info] Saving finished.
+[2016-10-09 2:28:11.172224] [info] Saving to file...
+[2016-10-09 2:28:11.172368] [info] Total page videos: 0
+[2016-10-09 2:28:11.172617] [info] Saving finished.
+[2016-10-09 2:30:58.479176] [info] Saving to file...
+[2016-10-09 2:30:58.479392] [info] Total page videos: 97
+[2016-10-09 2:30:58.493580] [info] Saving finished.
+[2016-10-09 2:38:54.920066] [info] Saving to file...
+[2016-10-09 2:38:54.920274] [info] Total page videos: 347
+[2016-10-09 2:38:54.964179] [info] Saving finished.
+[2016-10-09 2:46:59.310914] [info] Saving to file...
+[2016-10-09 2:46:59.311134] [info] Total page videos: 597
+[2016-10-09 2:46:59.379997] [info] Saving finished.
+[2016-10-09 2:55:47.563061] [info] Saving to file...
+[2016-10-09 2:55:47.563275] [info] Total page videos: 847
+[2016-10-09 2:55:47.658679] [info] Saving finished.
+[2016-10-09 3:04:14.621253] [info] Saving to file...
+[2016-10-09 3:04:14.621454] [info] Total page videos: 1097
+[2016-10-09 3:04:14.730846] [info] Saving finished.
+[2016-10-09 3:11:55.985851] [info] Saving to file...
+[2016-10-09 3:11:55.986056] [info] Total page videos: 1347
+[2016-10-09 3:11:56.117113] [info] Saving finished.
+[2016-10-09 3:19:16.508514] [info] Saving to file...
+[2016-10-09 3:19:16.508725] [info] Total page videos: 1588
+[2016-10-09 3:19:16.661787] [info] Saving finished.
+[2016-10-09 3:19:31.315612] [info] Saving to file...
+[2016-10-09 3:19:31.315742] [info] Total page videos: 1588
+[2016-10-09 3:19:31.462296] [info] Saving finished.
+[2016-10-09 3:19:46.913680] [info] Saving to file...
+[2016-10-09 3:19:46.913820] [info] Total page videos: 1588
+[2016-10-09 3:19:47.057327] [info] Saving finished.
+[2016-10-09 3:20:02.318367] [info] Saving to file...
+[2016-10-09 3:20:02.318519] [info] Total page videos: 1588
+[2016-10-09 3:20:02.449423] [info] Saving finished.
+[2016-10-09 3:20:19.009517] [info] Saving to file...
+[2016-10-09 3:20:19.009656] [info] Total page videos: 1588
+[2016-10-09 3:20:19.155113] [info] Saving finished.
+[2016-10-09 3:20:34.209002] [info] Saving to file...
+[2016-10-09 3:20:34.209139] [info] Total page videos: 1588
+[2016-10-09 3:20:34.352778] [info] Saving finished.
+[2016-10-09 3:20:49.363950] [info] Saving to file...
+[2016-10-09 3:20:49.364083] [info] Total page videos: 1588
+[2016-10-09 3:20:49.505209] [info] Saving finished.
+[2016-10-09 3:21:05.874044] [info] Saving to file...
+[2016-10-09 3:21:05.874200] [info] Total page videos: 1588
+[2016-10-09 3:21:06.018862] [info] Saving finished.
+[2016-10-09 3:21:24.175332] [info] Saving to file...
+[2016-10-09 3:21:24.175453] [info] Total page videos: 1588
+[2016-10-09 3:21:24.311690] [info] Saving finished.
+[2016-10-09 3:21:42.427711] [info] Saving to file...
+[2016-10-09 3:21:42.427849] [info] Total page videos: 1588
+[2016-10-09 3:21:42.572160] [info] Saving finished.
+[2016-10-09 3:22:03.195231] [info] Saving to file...
+[2016-10-09 3:22:03.195372] [info] Total page videos: 1588
+[2016-10-09 3:22:03.330024] [info] Saving finished.
+[2016-10-09 3:22:21.987972] [info] Saving to file...
+[2016-10-09 3:22:21.988107] [info] Total page videos: 1588
+[2016-10-09 3:22:22.132874] [info] Saving finished.
+[2016-10-09 3:22:44.894975] [info] Saving to file...
+[2016-10-09 3:22:44.895117] [info] Total page videos: 1588
+[2016-10-09 3:22:45.041246] [info] Saving finished.
+[2016-10-09 3:23:04.021837] [info] Saving to file...
+[2016-10-09 3:23:04.021992] [info] Total page videos: 1588
+[2016-10-09 3:23:04.165956] [info] Saving finished.
+[2016-10-09 3:23:22.872273] [info] Saving to file...
+[2016-10-09 3:23:22.872416] [info] Total page videos: 1588
+[2016-10-09 3:23:23.018409] [info] Saving finished.
+[2016-10-09 3:23:38.024607] [info] Saving to file...
+[2016-10-09 3:23:38.024743] [info] Total page videos: 1588
+[2016-10-09 3:23:38.168812] [info] Saving finished.
+[2016-10-09 3:23:54.550604] [info] Saving to file...
+[2016-10-09 3:23:54.550744] [info] Total page videos: 1588
+[2016-10-09 3:23:54.693846] [info] Saving finished.
+[2016-10-09 3:24:11.449491] [info] Saving to file...
+[2016-10-09 3:24:11.449645] [info] Total page videos: 1588
+[2016-10-09 3:24:11.592560] [info] Saving finished.
+[2016-10-09 3:24:28.175683] [info] Saving to file...
+[2016-10-09 3:24:28.175812] [info] Total page videos: 1588
+[2016-10-09 3:24:28.318291] [info] Saving finished.
+[2016-10-09 3:24:44.216012] [info] Saving to file...
+[2016-10-09 3:24:44.216150] [info] Total page videos: 1588
+[2016-10-09 3:24:44.351210] [info] Saving finished.
+[2016-10-09 3:24:59.150306] [info] Saving to file...
+[2016-10-09 3:24:59.150441] [info] Total page videos: 1588
+[2016-10-09 3:24:59.295408] [info] Saving finished.
+[2016-10-09 3:25:17.102794] [info] Saving to file...
+[2016-10-09 3:25:17.102968] [info] Total page videos: 1588
+[2016-10-09 3:25:17.248115] [info] Saving finished.
+[2016-10-09 3:25:34.714229] [info] Saving to file...
+[2016-10-09 3:25:34.714370] [info] Total page videos: 1588
+[2016-10-09 3:25:34.852515] [info] Saving finished.
+[2016-10-09 3:25:48.655791] [info] Saving to file...
+[2016-10-09 3:25:48.655915] [info] Total page videos: 1588
+[2016-10-09 3:25:48.797919] [info] Saving finished.
+[2016-10-09 3:25:48.798038] [info] Total videos: 30867
+[2016-10-09 3:25:48.798564] [info] Analyzing page: worldstarhiphop
+[2016-10-09 3:27:06.435570] [error] Pattern not found when looking for views count.
+[2016-10-09 3:28:11.253384] [info] Saving to file...
+[2016-10-09 3:28:11.253565] [info] Total page videos: 60
+[2016-10-09 3:28:11.261126] [info] Saving finished.
+[2016-10-09 3:28:18.098501] [info] Saving to file...
+[2016-10-09 3:28:18.098638] [info] Total page videos: 60
+[2016-10-09 3:28:18.107199] [info] Saving finished.
+[2016-10-09 3:28:20.610999] [info] Saving to file...
+[2016-10-09 3:28:20.611129] [info] Total page videos: 60
+[2016-10-09 3:28:20.618854] [info] Saving finished.
+[2016-10-09 3:28:20.618956] [info] Total videos: 30927
+[2016-10-09 3:28:20.619460] [info] Analyzing page: 133075890097354
+[2016-10-09 3:28:20.983784] [info] Saving to file...
+[2016-10-09 3:28:20.983897] [info] Total page videos: 0
+[2016-10-09 3:28:20.984074] [info] Saving finished.
+[2016-10-09 3:28:20.984157] [info] Total videos: 30927
+[2016-10-09 3:28:20.984225] [info] Analyzing page: ceclip
+[2016-10-09 3:28:42.075823] [info] Saving to file...
+[2016-10-09 3:28:42.075947] [info] Total page videos: 0
+[2016-10-09 3:28:42.076117] [info] Saving finished.
+[2016-10-09 3:36:35.005285] [info] Saving to file...
+[2016-10-09 3:36:35.005491] [info] Total page videos: 238
+[2016-10-09 3:36:35.040685] [info] Saving finished.
+[2016-10-09 3:43:45.795018] [info] Saving to file...
+[2016-10-09 3:43:45.795201] [info] Total page videos: 488
+[2016-10-09 3:43:45.858249] [info] Saving finished.
+[2016-10-09 3:51:15.068406] [info] Saving to file...
+[2016-10-09 3:51:15.068614] [info] Total page videos: 738
+[2016-10-09 3:51:15.157501] [info] Saving finished.
+[2016-10-09 3:59:01.602121] [info] Saving to file...
+[2016-10-09 3:59:01.602308] [info] Total page videos: 988
+[2016-10-09 3:59:01.705280] [info] Saving finished.
+[2016-10-09 4:05:52.102158] [info] Saving to file...
+[2016-10-09 4:05:52.102360] [info] Total page videos: 1238
+[2016-10-09 4:05:52.228722] [info] Saving finished.
+[2016-10-09 4:09:23.109255] [info] Saving to file...
+[2016-10-09 4:09:23.109392] [info] Total page videos: 1352
+[2016-10-09 4:09:23.232273] [info] Saving finished.
+[2016-10-09 4:09:41.887263] [info] Saving to file...
+[2016-10-09 4:09:41.887402] [info] Total page videos: 1352
+[2016-10-09 4:09:42.024885] [info] Saving finished.
+[2016-10-09 4:10:02.624221] [info] Saving to file...
+[2016-10-09 4:10:02.624366] [info] Total page videos: 1352
+[2016-10-09 4:10:02.755793] [info] Saving finished.
+[2016-10-09 4:10:21.041311] [info] Saving to file...
+[2016-10-09 4:10:21.041464] [info] Total page videos: 1352
+[2016-10-09 4:10:21.181027] [info] Saving finished.
+[2016-10-09 4:10:38.764575] [info] Saving to file...
+[2016-10-09 4:10:38.764708] [info] Total page videos: 1352
+[2016-10-09 4:10:38.899919] [info] Saving finished.
+[2016-10-09 4:10:56.663832] [info] Saving to file...
+[2016-10-09 4:10:56.663969] [info] Total page videos: 1352
+[2016-10-09 4:10:56.801670] [info] Saving finished.
+[2016-10-09 4:11:14.345406] [info] Saving to file...
+[2016-10-09 4:11:14.345555] [info] Total page videos: 1352
+[2016-10-09 4:11:14.480921] [info] Saving finished.
+[2016-10-09 4:11:32.774996] [info] Saving to file...
+[2016-10-09 4:11:32.775130] [info] Total page videos: 1352
+[2016-10-09 4:11:32.910778] [info] Saving finished.
+[2016-10-09 4:11:51.046304] [info] Saving to file...
+[2016-10-09 4:11:51.046442] [info] Total page videos: 1352
+[2016-10-09 4:11:51.183216] [info] Saving finished.
+[2016-10-09 4:12:09.088736] [info] Saving to file...
+[2016-10-09 4:12:09.088882] [info] Total page videos: 1352
+[2016-10-09 4:12:09.224009] [info] Saving finished.
+[2016-10-09 4:12:27.224492] [info] Saving to file...
+[2016-10-09 4:12:27.224631] [info] Total page videos: 1352
+[2016-10-09 4:12:27.373051] [info] Saving finished.
+[2016-10-09 4:12:45.075064] [info] Saving to file...
+[2016-10-09 4:12:45.075202] [info] Total page videos: 1352
+[2016-10-09 4:12:45.213815] [info] Saving finished.
+[2016-10-09 4:13:03.915060] [info] Saving to file...
+[2016-10-09 4:13:03.915191] [info] Total page videos: 1352
+[2016-10-09 4:13:04.045794] [info] Saving finished.
+[2016-10-09 4:13:25.393923] [info] Saving to file...
+[2016-10-09 4:13:25.394073] [info] Total page videos: 1352
+[2016-10-09 4:13:25.524471] [info] Saving finished.
+[2016-10-09 4:13:46.819225] [info] Saving to file...
+[2016-10-09 4:13:46.819374] [info] Total page videos: 1352
+[2016-10-09 4:13:46.967200] [info] Saving finished.
+[2016-10-09 4:14:08.475265] [info] Saving to file...
+[2016-10-09 4:14:08.475419] [info] Total page videos: 1352
+[2016-10-09 4:14:08.610152] [info] Saving finished.
+[2016-10-09 4:14:31.541941] [info] Saving to file...
+[2016-10-09 4:14:31.542088] [info] Total page videos: 1352
+[2016-10-09 4:14:31.690247] [info] Saving finished.
+[2016-10-09 4:14:52.410005] [info] Saving to file...
+[2016-10-09 4:14:52.410151] [info] Total page videos: 1352
+[2016-10-09 4:14:52.547497] [info] Saving finished.
+[2016-10-09 4:15:12.232680] [info] Saving to file...
+[2016-10-09 4:15:12.232820] [info] Total page videos: 1352
+[2016-10-09 4:15:12.364517] [info] Saving finished.
+[2016-10-09 4:15:29.821089] [info] Saving to file...
+[2016-10-09 4:15:29.821175] [info] Total page videos: 1352
+[2016-10-09 4:15:29.919143] [info] Saving finished.
+[2016-10-09 4:15:48.295252] [info] Saving to file...
+[2016-10-09 4:15:48.295378] [info] Total page videos: 1352
+[2016-10-09 4:15:48.433087] [info] Saving finished.
+[2016-10-09 4:16:08.140285] [info] Saving to file...
+[2016-10-09 4:16:08.140433] [info] Total page videos: 1352
+[2016-10-09 4:16:08.275175] [info] Saving finished.
+[2016-10-09 4:16:25.779856] [info] Saving to file...
+[2016-10-09 4:16:25.779988] [info] Total page videos: 1352
+[2016-10-09 4:16:25.918106] [info] Saving finished.
+[2016-10-09 4:16:44.415390] [info] Saving to file...
+[2016-10-09 4:16:44.415509] [info] Total page videos: 1352
+[2016-10-09 4:16:44.545928] [info] Saving finished.
+[2016-10-09 4:17:02.368834] [info] Saving to file...
+[2016-10-09 4:17:02.368968] [info] Total page videos: 1352
+[2016-10-09 4:17:02.505878] [info] Saving finished.
+[2016-10-09 4:17:22.831813] [info] Saving to file...
+[2016-10-09 4:17:22.831953] [info] Total page videos: 1352
+[2016-10-09 4:17:22.965864] [info] Saving finished.
+[2016-10-09 4:17:42.741146] [info] Saving to file...
+[2016-10-09 4:17:42.741271] [info] Total page videos: 1352
+[2016-10-09 4:17:42.872755] [info] Saving finished.
+[2016-10-09 4:18:00.294190] [info] Saving to file...
+[2016-10-09 4:18:00.294323] [info] Total page videos: 1352
+[2016-10-09 4:18:00.429857] [info] Saving finished.
+[2016-10-09 4:18:19.276434] [info] Saving to file...
+[2016-10-09 4:18:19.276583] [info] Total page videos: 1352
+[2016-10-09 4:18:19.410634] [info] Saving finished.
+[2016-10-09 4:18:37.257482] [info] Saving to file...
+[2016-10-09 4:18:37.257617] [info] Total page videos: 1352
+[2016-10-09 4:18:37.396008] [info] Saving finished.
+[2016-10-09 4:19:02.843172] [info] Saving to file...
+[2016-10-09 4:19:02.843318] [info] Total page videos: 1352
+[2016-10-09 4:19:02.986579] [info] Saving finished.
+[2016-10-09 4:19:02.986711] [info] Total videos: 32279
+[2016-10-09 4:19:02.987375] [info] Analyzing page: 268597136574561
+[2016-10-09 4:19:30.405432] [info] Saving to file...
+[2016-10-09 4:19:30.405570] [info] Total page videos: 18
+[2016-10-09 4:19:30.408797] [info] Saving finished.
+[2016-10-09 4:19:30.408895] [info] Total videos: 32297
+[2016-10-09 4:19:30.409037] [info] Analyzing page: CodesMeufs
+[2016-10-09 4:19:58.935738] [info] Saving to file...
+[2016-10-09 4:19:58.935883] [info] Total page videos: 12
+[2016-10-09 4:19:58.939284] [info] Saving finished.
+[2016-10-09 4:20:12.170706] [info] Saving to file...
+[2016-10-09 4:20:12.170886] [info] Total page videos: 12
+[2016-10-09 4:20:12.172230] [info] Saving finished.
+[2016-10-09 4:20:28.825015] [info] Saving to file...
+[2016-10-09 4:20:28.825174] [info] Total page videos: 12
+[2016-10-09 4:20:28.826615] [info] Saving finished.
+[2016-10-09 4:20:42.304339] [info] Saving to file...
+[2016-10-09 4:20:42.304501] [info] Total page videos: 12
+[2016-10-09 4:20:42.305917] [info] Saving finished.
+[2016-10-09 4:20:58.225864] [info] Saving to file...
+[2016-10-09 4:20:58.226022] [info] Total page videos: 12
+[2016-10-09 4:20:58.227443] [info] Saving finished.
+[2016-10-09 4:21:15.421215] [info] Saving to file...
+[2016-10-09 4:21:15.421401] [info] Total page videos: 12
+[2016-10-09 4:21:15.422945] [info] Saving finished.
+[2016-10-09 4:21:34.805141] [info] Saving to file...
+[2016-10-09 4:21:34.805305] [info] Total page videos: 12
+[2016-10-09 4:21:34.806802] [info] Saving finished.
+[2016-10-09 4:21:54.028475] [info] Saving to file...
+[2016-10-09 4:21:54.028621] [info] Total page videos: 12
+[2016-10-09 4:21:54.029961] [info] Saving finished.
+[2016-10-09 4:22:10.466298] [info] Saving to file...
+[2016-10-09 4:22:10.466496] [info] Total page videos: 12
+[2016-10-09 4:22:10.467933] [info] Saving finished.
+[2016-10-09 4:22:26.187957] [info] Saving to file...
+[2016-10-09 4:22:26.188112] [info] Total page videos: 12
+[2016-10-09 4:22:26.189486] [info] Saving finished.
+[2016-10-09 4:22:39.203423] [info] Saving to file...
+[2016-10-09 4:22:39.203582] [info] Total page videos: 12
+[2016-10-09 4:22:39.204997] [info] Saving finished.
+[2016-10-09 4:22:52.418744] [info] Saving to file...
+[2016-10-09 4:22:52.418904] [info] Total page videos: 12
+[2016-10-09 4:22:52.420329] [info] Saving finished.
+[2016-10-09 4:23:05.431605] [info] Saving to file...
+[2016-10-09 4:23:05.431773] [info] Total page videos: 12
+[2016-10-09 4:23:05.433268] [info] Saving finished.
+[2016-10-09 4:23:18.235646] [info] Saving to file...
+[2016-10-09 4:23:18.235821] [info] Total page videos: 12
+[2016-10-09 4:23:18.237312] [info] Saving finished.
+[2016-10-09 4:23:31.189182] [info] Saving to file...
+[2016-10-09 4:23:31.189351] [info] Total page videos: 12
+[2016-10-09 4:23:31.190891] [info] Saving finished.
+[2016-10-09 4:23:42.599212] [info] Saving to file...
+[2016-10-09 4:23:42.599364] [info] Total page videos: 12
+[2016-10-09 4:23:42.600980] [info] Saving finished.
+[2016-10-09 4:23:42.601085] [info] Total videos: 32309
+[2016-10-09 4:23:42.601474] [info] Analyzing page: 134466319923267
+[2016-10-09 4:23:57.391566] [info] Saving to file...
+[2016-10-09 4:23:57.391680] [info] Total page videos: 0
+[2016-10-09 4:23:57.391848] [info] Saving finished.
+[2016-10-09 4:24:17.370398] [info] Saving to file...
+[2016-10-09 4:24:17.370615] [info] Total page videos: 2
+[2016-10-09 4:24:17.371232] [info] Saving finished.
+[2016-10-09 4:32:27.688282] [info] Saving to file...
+[2016-10-09 4:32:27.688482] [info] Total page videos: 247
+[2016-10-09 4:32:27.719794] [info] Saving finished.
+[2016-10-09 4:37:00.199693] [error] Pattern not found when looking for views count.
+[2016-10-09 4:41:39.377896] [info] Saving to file...
+[2016-10-09 4:41:39.378093] [info] Total page videos: 496
+[2016-10-09 4:41:39.430366] [info] Saving finished.
+[2016-10-09 4:49:18.195291] [error] Pattern not found when looking for views count.
+[2016-10-09 4:49:32.773260] [info] Saving to file...
+[2016-10-09 4:49:32.773423] [info] Total page videos: 745
+[2016-10-09 4:49:32.849834] [info] Saving finished.
+[2016-10-09 4:54:50.417304] [info] Saving to file...
+[2016-10-09 4:54:50.417459] [info] Total page videos: 901
+[2016-10-09 4:54:50.503995] [info] Saving finished.
+[2016-10-09 4:55:02.866247] [info] Saving to file...
+[2016-10-09 4:55:02.866383] [info] Total page videos: 901
+[2016-10-09 4:55:02.947487] [info] Saving finished.
+[2016-10-09 4:55:18.280836] [info] Saving to file...
+[2016-10-09 4:55:18.280958] [info] Total page videos: 901
+[2016-10-09 4:55:18.358971] [info] Saving finished.
+[2016-10-09 4:55:31.535413] [info] Saving to file...
+[2016-10-09 4:55:31.535530] [info] Total page videos: 901
+[2016-10-09 4:55:31.613317] [info] Saving finished.
+[2016-10-09 4:55:44.289613] [info] Saving to file...
+[2016-10-09 4:55:44.289745] [info] Total page videos: 901
+[2016-10-09 4:55:44.378021] [info] Saving finished.
+[2016-10-09 4:55:57.680531] [info] Saving to file...
+[2016-10-09 4:55:57.680682] [info] Total page videos: 901
+[2016-10-09 4:55:57.762948] [info] Saving finished.
+[2016-10-09 4:56:10.355633] [info] Saving to file...
+[2016-10-09 4:56:10.355771] [info] Total page videos: 901
+[2016-10-09 4:56:10.436836] [info] Saving finished.
+[2016-10-09 4:56:23.017855] [info] Saving to file...
+[2016-10-09 4:56:23.017996] [info] Total page videos: 901
+[2016-10-09 4:56:23.101843] [info] Saving finished.
+[2016-10-09 4:56:36.238420] [info] Saving to file...
+[2016-10-09 4:56:36.238567] [info] Total page videos: 901
+[2016-10-09 4:56:36.325454] [info] Saving finished.
+[2016-10-09 4:56:51.368999] [info] Saving to file...
+[2016-10-09 4:56:51.369126] [info] Total page videos: 901
+[2016-10-09 4:56:51.451705] [info] Saving finished.
+[2016-10-09 4:57:03.815948] [info] Saving to file...
+[2016-10-09 4:57:03.816078] [info] Total page videos: 901
+[2016-10-09 4:57:03.904982] [info] Saving finished.
+[2016-10-09 4:57:16.885246] [info] Saving to file...
+[2016-10-09 4:57:16.885404] [info] Total page videos: 901
+[2016-10-09 4:57:16.970920] [info] Saving finished.
+[2016-10-09 4:57:29.368700] [info] Saving to file...
+[2016-10-09 4:57:29.368829] [info] Total page videos: 901
+[2016-10-09 4:57:29.455171] [info] Saving finished.
+[2016-10-09 4:57:41.940347] [info] Saving to file...
+[2016-10-09 4:57:41.940486] [info] Total page videos: 901
+[2016-10-09 4:57:42.027256] [info] Saving finished.
+[2016-10-09 4:57:55.601191] [info] Saving to file...
+[2016-10-09 4:57:55.601329] [info] Total page videos: 901
+[2016-10-09 4:57:55.686793] [info] Saving finished.
+[2016-10-09 4:58:08.158618] [info] Saving to file...
+[2016-10-09 4:58:08.158768] [info] Total page videos: 901
+[2016-10-09 4:58:08.244064] [info] Saving finished.
+[2016-10-09 4:58:20.767976] [info] Saving to file...
+[2016-10-09 4:58:20.768115] [info] Total page videos: 901
+[2016-10-09 4:58:20.852545] [info] Saving finished.
+[2016-10-09 4:58:33.388128] [info] Saving to file...
+[2016-10-09 4:58:33.388297] [info] Total page videos: 901
+[2016-10-09 4:58:33.478467] [info] Saving finished.
+[2016-10-09 4:58:36.794486] [info] Saving to file...
+[2016-10-09 4:58:36.794604] [info] Total page videos: 901
+[2016-10-09 4:58:36.882334] [info] Saving finished.
+[2016-10-09 4:58:36.882473] [info] Total videos: 33210
+[2016-10-09 4:58:36.883641] [info] Analyzing page: 121134201238245
+[2016-10-09 4:58:36.916724] [error] Request for page id 121134201238245 failed: Unsupported get request. Object with ID '121134201238245' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2016-10-09 4:58:36.916800] [info] Analyzing page: HaivlOfficial
+[2016-10-09 5:02:39.810647] [info] Saving to file...
+[2016-10-09 5:02:39.810826] [info] Total page videos: 120
+[2016-10-09 5:02:39.826421] [info] Saving finished.
+[2016-10-09 5:02:41.253665] [info] Saving to file...
+[2016-10-09 5:02:41.253792] [info] Total page videos: 120
+[2016-10-09 5:02:41.267587] [info] Saving finished.
+[2016-10-09 5:02:41.267678] [info] Total videos: 33330
+[2016-10-09 5:02:41.268070] [info] Analyzing page: viralmotion
+[2016-10-09 5:02:49.798368] [info] Saving to file...
+[2016-10-09 5:02:49.798523] [info] Total page videos: 0
+[2016-10-09 5:02:49.798723] [info] Saving finished.
+[2016-10-09 5:03:37.881439] [info] Saving to file...
+[2016-10-09 5:03:37.881639] [info] Total page videos: 22
+[2016-10-09 5:03:37.885698] [info] Saving finished.
+[2016-10-09 5:11:44.686392] [info] Saving to file...
+[2016-10-09 5:11:44.686619] [info] Total page videos: 272
+[2016-10-09 5:11:44.719676] [info] Saving finished.
+[2016-10-09 5:19:32.535060] [info] Saving to file...
+[2016-10-09 5:19:32.535262] [info] Total page videos: 522
+[2016-10-09 5:19:32.597665] [info] Saving finished.
+[2016-10-09 5:22:27.026346] [error] Pattern not found when looking for views count.
+[2016-10-09 5:27:04.354463] [info] Saving to file...
+[2016-10-09 5:27:04.354654] [info] Total page videos: 771
+[2016-10-09 5:27:04.432477] [info] Saving finished.
+[2016-10-09 5:28:31.566610] [info] Saving to file...
+[2016-10-09 5:28:31.566745] [info] Total page videos: 823
+[2016-10-09 5:28:31.648807] [info] Saving finished.
+[2016-10-09 5:28:38.566503] [info] Saving to file...
+[2016-10-09 5:28:38.566631] [info] Total page videos: 823
+[2016-10-09 5:28:38.649432] [info] Saving finished.
+[2016-10-09 5:28:42.788671] [info] Saving to file...
+[2016-10-09 5:28:42.788810] [info] Total page videos: 823
+[2016-10-09 5:28:42.875371] [info] Saving finished.
+[2016-10-09 5:28:42.875499] [info] Total videos: 34153
+[2016-10-09 5:28:42.876104] [info] Analyzing page: thedodosite
+[2016-10-09 5:28:59.819833] [info] Saving to file...
+[2016-10-09 5:28:59.819973] [info] Total page videos: 0
+[2016-10-09 5:28:59.820163] [info] Saving finished.
+[2016-10-09 5:36:11.235198] [info] Saving to file...
+[2016-10-09 5:36:11.235383] [info] Total page videos: 220
+[2016-10-09 5:36:11.260318] [info] Saving finished.
+[2016-10-09 5:45:49.038810] [info] Saving to file...
+[2016-10-09 5:45:49.038992] [info] Total page videos: 470
+[2016-10-09 5:45:49.084172] [info] Saving finished.
+[2016-10-09 5:54:58.567070] [info] Saving to file...
+[2016-10-09 5:54:58.567275] [info] Total page videos: 720
+[2016-10-09 5:54:58.644824] [info] Saving finished.
+[2016-10-09 5:58:00.485914] [info] Saving to file...
+[2016-10-09 5:58:00.486067] [info] Total page videos: 801
+[2016-10-09 5:58:00.562122] [info] Saving finished.
+[2016-10-09 5:58:18.127409] [info] Saving to file...
+[2016-10-09 5:58:18.127532] [info] Total page videos: 801
+[2016-10-09 5:58:18.201834] [info] Saving finished.
+[2016-10-09 5:58:36.132823] [info] Saving to file...
+[2016-10-09 5:58:36.132967] [info] Total page videos: 801
+[2016-10-09 5:58:36.212364] [info] Saving finished.
+[2016-10-09 5:58:42.239533] [info] Saving to file...
+[2016-10-09 5:58:42.239680] [info] Total page videos: 801
+[2016-10-09 5:58:42.324841] [info] Saving finished.
+[2016-10-09 5:58:42.324960] [info] Total videos: 34954
+[2016-10-09 5:58:42.325629] [info] Analyzing page: SportCentral
+[2016-10-09 5:58:42.488450] [info] Saving to file...
+[2016-10-09 5:58:42.488538] [info] Total page videos: 0
+[2016-10-09 5:58:42.488678] [info] Saving finished.
+[2016-10-09 5:58:42.488742] [info] Total videos: 34954
+[2016-10-09 5:58:42.488790] [info] Analyzing page: Radioonelebanon
+[2016-10-09 5:58:48.594894] [info] Saving to file...
+[2016-10-09 5:58:48.595021] [info] Total page videos: 0
+[2016-10-09 5:58:48.595190] [info] Saving finished.
+[2016-10-09 6:00:26.572735] [info] Saving to file...
+[2016-10-09 6:00:26.572938] [info] Total page videos: 48
+[2016-10-09 6:00:26.580988] [info] Saving finished.
+[2016-10-09 6:08:19.465493] [info] Saving to file...
+[2016-10-09 6:08:19.465686] [info] Total page videos: 298
+[2016-10-09 6:08:19.499370] [info] Saving finished.
+[2016-10-09 6:16:17.260173] [info] Saving to file...
+[2016-10-09 6:16:17.260379] [info] Total page videos: 548
+[2016-10-09 6:16:17.322890] [info] Saving finished.
+[2016-10-09 6:23:54.492610] [info] Saving to file...
+[2016-10-09 6:23:54.492811] [info] Total page videos: 798
+[2016-10-09 6:23:54.577435] [info] Saving finished.
+[2016-10-09 6:28:26.439121] [info] Saving to file...
+[2016-10-09 6:28:26.439269] [info] Total page videos: 947
+[2016-10-09 6:28:26.533808] [info] Saving finished.
+[2016-10-09 6:28:33.508100] [info] Saving to file...
+[2016-10-09 6:28:33.508227] [info] Total page videos: 947
+[2016-10-09 6:28:33.590287] [info] Saving finished.
+[2016-10-09 6:28:40.095062] [info] Saving to file...
+[2016-10-09 6:28:40.095196] [info] Total page videos: 947
+[2016-10-09 6:28:40.189821] [info] Saving finished.
+[2016-10-09 6:28:47.114559] [info] Saving to file...
+[2016-10-09 6:28:47.114681] [info] Total page videos: 947
+[2016-10-09 6:28:47.206717] [info] Saving finished.
+[2016-10-09 6:28:51.284883] [info] Saving to file...
+[2016-10-09 6:28:51.285015] [info] Total page videos: 947
+[2016-10-09 6:28:51.385238] [info] Saving finished.
+[2016-10-09 6:28:51.385368] [info] Total videos: 35901
+[2016-10-09 6:28:51.385799] [info] Analyzing page: FMAmor959
+[2016-10-09 6:29:16.093008] [info] Saving to file...
+[2016-10-09 6:29:16.093245] [info] Total page videos: 13
+[2016-10-09 6:29:16.096100] [info] Saving finished.
+[2016-10-09 6:29:16.096266] [info] Total videos: 35914
+[2016-10-09 6:29:16.096708] [info] Analyzing page: powerofpositivity
+[2016-10-09 6:30:32.738832] [info] Saving to file...
+[2016-10-09 6:30:32.738998] [info] Total page videos: 38
+[2016-10-09 6:30:32.744748] [info] Saving finished.
+[2016-10-09 6:30:32.744843] [info] Total videos: 35952
+[2016-10-09 6:30:32.745313] [info] Analyzing page: peopleareawesome
+[2016-10-09 6:34:59.024975] [info] Saving to file...
+[2016-10-09 6:34:59.025177] [info] Total page videos: 141
+[2016-10-09 6:34:59.044967] [info] Saving finished.
+[2016-10-09 6:38:52.376590] [info] Saving to file...
+[2016-10-09 6:38:52.376729] [info] Total page videos: 262
+[2016-10-09 6:38:52.406852] [info] Saving finished.
+[2016-10-09 6:38:59.632711] [info] Saving to file...
+[2016-10-09 6:38:59.632883] [info] Total page videos: 262
+[2016-10-09 6:38:59.666512] [info] Saving finished.
+[2016-10-09 6:39:01.683222] [info] Saving to file...
+[2016-10-09 6:39:01.683371] [info] Total page videos: 262
+[2016-10-09 6:39:01.713851] [info] Saving finished.
+[2016-10-09 6:39:01.713954] [info] Total videos: 36214
+[2016-10-09 6:39:01.714699] [info] Analyzing page: olympics
+[2016-10-09 6:48:17.490370] [info] Saving to file...
+[2016-10-09 6:48:17.490607] [info] Total page videos: 202
+[2016-10-09 6:48:17.514408] [info] Saving finished.
+[2016-10-09 6:51:38.490578] [error] Pattern not found when looking for views count.
+[2016-10-09 6:51:50.449656] [error] Pattern not found when looking for views count.
+[2016-10-09 6:52:58.417536] [info] Saving to file...
+[2016-10-09 6:52:58.417691] [info] Total page videos: 310
+[2016-10-09 6:52:58.491820] [info] Saving finished.
+[2016-10-09 6:53:11.655915] [info] Saving to file...
+[2016-10-09 6:53:11.656045] [info] Total page videos: 310
+[2016-10-09 6:53:11.706085] [info] Saving finished.
+[2016-10-09 6:53:12.157115] [info] Saving to file...
+[2016-10-09 6:53:12.157222] [info] Total page videos: 310
+[2016-10-09 6:53:12.247708] [info] Saving finished.
+[2016-10-09 6:53:12.247833] [info] Total videos: 36524
+[2016-10-09 6:53:12.248145] [info] Analyzing page: buzzfeednifty
+[2016-10-09 6:55:54.062361] [info] Saving to file...
+[2016-10-09 6:55:54.062541] [info] Total page videos: 83
+[2016-10-09 6:55:54.075350] [info] Saving finished.
+[2016-10-09 6:55:54.075453] [info] Total videos: 36607
+[2016-10-09 6:55:54.075640] [info] Analyzing page: 673283106147611
+[2016-10-09 6:55:57.858078] [info] Saving to file...
+[2016-10-09 6:55:57.858201] [info] Total page videos: 0
+[2016-10-09 6:55:57.860495] [info] Saving finished.
+[2016-10-09 6:58:26.199630] [info] Saving to file...
+[2016-10-09 6:58:26.199822] [info] Total page videos: 120
+[2016-10-09 6:58:26.255439] [info] Saving finished.
+[2016-10-09 7:05:49.313615] [info] Saving to file...
+[2016-10-09 7:05:49.313812] [info] Total page videos: 370
+[2016-10-09 7:05:49.393438] [info] Saving finished.
+[2016-10-09 7:09:43.184837] [info] Saving to file...
+[2016-10-09 7:09:43.184983] [info] Total page videos: 503
+[2016-10-09 7:09:43.238394] [info] Saving finished.
+[2016-10-09 7:09:43.239181] [info] Saving to file...
+[2016-10-09 7:09:43.239240] [info] Total page videos: 503
+[2016-10-09 7:09:43.281366] [info] Saving finished.
+[2016-10-09 7:09:43.281461] [info] Total videos: 37110
+[2016-10-09 7:09:43.282145] [info] Analyzing page: 164305410295882
+[2016-10-09 7:12:12.400722] [info] Saving to file...
+[2016-10-09 7:12:12.400923] [info] Total page videos: 62
+[2016-10-09 7:12:12.410346] [info] Saving finished.
+[2016-10-09 7:15:56.781342] [error] Pattern not found when looking for views count.
+[2016-10-09 7:17:18.035147] [error] Pattern not found when looking for views count.
+[2016-10-09 7:17:55.005732] [error] Pattern not found when looking for views count.
+[2016-10-09 7:20:02.123744] [info] Saving to file...
+[2016-10-09 7:20:02.123948] [info] Total page videos: 309
+[2016-10-09 7:20:02.161432] [info] Saving finished.
+[2016-10-09 7:22:20.781564] [error] Pattern not found when looking for views count.
+[2016-10-09 7:22:41.548697] [error] Pattern not found when looking for views count.
+[2016-10-09 7:23:51.345434] [error] Pattern not found when looking for views count.
+[2016-10-09 7:25:11.034718] [error] Pattern not found when looking for views count.
+[2016-10-09 7:26:38.522933] [error] Pattern not found when looking for views count.
+[2016-10-09 7:27:06.292758] [info] Saving to file...
+[2016-10-09 7:27:06.292946] [info] Total page videos: 553
+[2016-10-09 7:27:06.357278] [info] Saving finished.
+[2016-10-09 7:27:19.942313] [info] Saving to file...
+[2016-10-09 7:27:19.942466] [info] Total page videos: 554
+[2016-10-09 7:27:19.995322] [info] Saving finished.
+[2016-10-09 7:27:19.995424] [info] Total videos: 37664
+[2016-10-09 7:27:19.996020] [info] Analyzing page: 41937927436
+[2016-10-09 7:27:30.929568] [info] Saving to file...
+[2016-10-09 7:27:30.929701] [info] Total page videos: 0
+[2016-10-09 7:27:30.929908] [info] Saving finished.
+[2016-10-09 7:34:52.067724] [info] Saving to file...
+[2016-10-09 7:34:52.067922] [info] Total page videos: 250
+[2016-10-09 7:34:52.101660] [info] Saving finished.
+[2016-10-09 7:41:06.982119] [info] Saving to file...
+[2016-10-09 7:41:06.982310] [info] Total page videos: 500
+[2016-10-09 7:41:07.040826] [info] Saving finished.
+[2016-10-09 7:41:45.298888] [info] Saving to file...
+[2016-10-09 7:41:45.299036] [info] Total page videos: 519
+[2016-10-09 7:41:45.357021] [info] Saving finished.
+[2016-10-09 7:41:53.935921] [info] Saving to file...
+[2016-10-09 7:41:53.936080] [info] Total page videos: 519
+[2016-10-09 7:41:53.996269] [info] Saving finished.
+[2016-10-09 7:41:54.865058] [info] Saving to file...
+[2016-10-09 7:41:54.865195] [info] Total page videos: 519
+[2016-10-09 7:41:54.923526] [info] Saving finished.
+[2016-10-09 7:41:54.923631] [info] Total videos: 38183
+[2016-10-09 7:41:54.924436] [info] Analyzing page: 150323485125149
+[2016-10-09 7:43:28.586909] [info] Saving to file...
+[2016-10-09 7:43:28.587097] [info] Total page videos: 70
+[2016-10-09 7:43:28.597251] [info] Saving finished.
+[2016-10-09 7:50:33.653070] [info] Saving to file...
+[2016-10-09 7:50:33.653275] [info] Total page videos: 319
+[2016-10-09 7:50:33.689799] [info] Saving finished.
+[2016-10-09 7:54:45.613883] [info] Saving to file...
+[2016-10-09 7:54:45.614083] [info] Total page videos: 472
+[2016-10-09 7:54:45.661305] [info] Saving finished.
+[2016-10-09 7:54:51.285187] [info] Saving to file...
+[2016-10-09 7:54:51.285321] [info] Total page videos: 472
+[2016-10-09 7:54:51.323298] [info] Saving finished.
+[2016-10-09 7:54:51.323385] [info] Total videos: 38655
+[2016-10-09 7:54:51.323621] [info] Analyzing page: 228803477461289
+[2016-10-09 7:58:13.058917] [info] Saving to file...
+[2016-10-09 7:58:13.059047] [info] Total page videos: 109
+[2016-10-09 7:58:13.071515] [info] Saving finished.
+[2016-10-09 7:58:16.222872] [info] Saving to file...
+[2016-10-09 7:58:16.223005] [info] Total page videos: 109
+[2016-10-09 7:58:16.238409] [info] Saving finished.
+[2016-10-09 7:58:16.238534] [info] Total videos: 38764
+[2016-10-09 7:58:16.239025] [info] Analyzing page: 1494731297498009
+[2016-10-09 8:03:55.315233] [info] Saving to file...
+[2016-10-09 8:03:55.315428] [info] Total page videos: 188
+[2016-10-09 8:03:55.339385] [info] Saving finished.
+[2016-10-09 8:04:05.004112] [info] Saving to file...
+[2016-10-09 8:04:05.004256] [info] Total page videos: 190
+[2016-10-09 8:04:05.028356] [info] Saving finished.
+[2016-10-09 8:04:06.671606] [info] Saving to file...
+[2016-10-09 8:04:06.671727] [info] Total page videos: 190
+[2016-10-09 8:04:06.695445] [info] Saving finished.
+[2016-10-09 8:04:06.695549] [info] Total videos: 38954
+[2016-10-09 8:04:06.695914] [info] Analyzing page: 102308909857388
+[2016-10-09 8:07:23.804347] [info] Saving to file...
+[2016-10-09 8:07:23.804549] [info] Total page videos: 84
+[2016-10-09 8:07:23.817382] [info] Saving finished.
+[2016-10-09 8:15:23.207859] [info] Saving to file...
+[2016-10-09 8:15:23.208128] [info] Total page videos: 334
+[2016-10-09 8:15:23.248929] [info] Saving finished.
+[2016-10-09 8:17:17.136018] [info] Saving to file...
+[2016-10-09 8:17:17.136085] [info] Total page videos: 398
+[2016-10-09 8:17:17.156986] [info] Saving finished.
+[2016-10-09 8:17:26.795886] [info] Saving to file...
+[2016-10-09 8:17:26.796036] [info] Total page videos: 398
+[2016-10-09 8:17:26.843360] [info] Saving finished.
+[2016-10-09 8:17:36.608886] [info] Saving to file...
+[2016-10-09 8:17:36.609024] [info] Total page videos: 398
+[2016-10-09 8:17:36.656378] [info] Saving finished.
+[2016-10-09 8:17:46.376419] [info] Saving to file...
+[2016-10-09 8:17:46.376539] [info] Total page videos: 398
+[2016-10-09 8:17:46.422204] [info] Saving finished.
+[2016-10-09 8:17:56.338988] [info] Saving to file...
+[2016-10-09 8:17:56.339124] [info] Total page videos: 398
+[2016-10-09 8:17:56.385445] [info] Saving finished.
+[2016-10-09 8:18:05.641617] [info] Saving to file...
+[2016-10-09 8:18:05.641783] [info] Total page videos: 398
+[2016-10-09 8:18:05.686731] [info] Saving finished.
+[2016-10-09 8:18:16.286042] [info] Saving to file...
+[2016-10-09 8:18:16.286174] [info] Total page videos: 398
+[2016-10-09 8:18:16.332334] [info] Saving finished.
+[2016-10-09 8:18:25.885030] [info] Saving to file...
+[2016-10-09 8:18:25.885164] [info] Total page videos: 398
+[2016-10-09 8:18:25.932341] [info] Saving finished.
+[2016-10-09 8:18:35.275368] [info] Saving to file...
+[2016-10-09 8:18:35.275495] [info] Total page videos: 398
+[2016-10-09 8:18:35.322737] [info] Saving finished.
+[2016-10-09 8:18:44.357127] [info] Saving to file...
+[2016-10-09 8:18:44.357251] [info] Total page videos: 398
+[2016-10-09 8:18:44.403135] [info] Saving finished.
+[2016-10-09 8:18:53.362103] [info] Saving to file...
+[2016-10-09 8:18:53.362230] [info] Total page videos: 398
+[2016-10-09 8:18:53.407319] [info] Saving finished.
+[2016-10-09 8:19:02.261701] [info] Saving to file...
+[2016-10-09 8:19:02.261832] [info] Total page videos: 398
+[2016-10-09 8:19:02.308737] [info] Saving finished.
+[2016-10-09 8:19:08.417279] [info] Saving to file...
+[2016-10-09 8:19:08.417406] [info] Total page videos: 398
+[2016-10-09 8:19:08.463942] [info] Saving finished.
+[2016-10-09 8:19:08.464044] [info] Total videos: 39352
+[2016-10-09 8:19:08.464859] [info] Analyzing page: 104438892938868
+[2016-10-09 8:20:38.513374] [info] Saving to file...
+[2016-10-09 8:20:38.513564] [info] Total page videos: 59
+[2016-10-09 8:20:38.522535] [info] Saving finished.
+[2016-10-09 8:29:08.072510] [info] Saving to file...
+[2016-10-09 8:29:08.072715] [info] Total page videos: 309
+[2016-10-09 8:29:08.112087] [info] Saving finished.
+[2016-10-09 8:31:03.443891] [error] Pattern not found when looking for views count.
+[2016-10-09 8:31:25.301270] [info] Saving to file...
+[2016-10-09 8:31:25.301412] [info] Total page videos: 372
+[2016-10-09 8:31:25.340996] [info] Saving finished.
+[2016-10-09 8:31:29.689136] [info] Saving to file...
+[2016-10-09 8:31:29.689286] [info] Total page videos: 372
+[2016-10-09 8:31:29.733072] [info] Saving finished.
+[2016-10-09 8:31:29.733172] [info] Total videos: 39724
+[2016-10-09 8:31:29.733978] [info] Analyzing page: 178419522595837
+[2016-10-09 8:31:30.203855] [info] Saving to file...
+[2016-10-09 8:31:30.203974] [info] Total page videos: 0
+[2016-10-09 8:31:30.204168] [info] Saving finished.
+[2016-10-09 8:31:30.204257] [info] Total videos: 39724
+[2016-10-09 8:31:30.204504] [info] Crawling finished.

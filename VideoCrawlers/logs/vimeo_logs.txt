@@ -1,0 +1,2090 @@
+2016-10-15 11:47:22,550 Start crawling
+2016-10-15 11:47:22,550 Analyzing channel: staffpicks
+2016-10-15 11:47:54,400 Saving to file...
+2016-10-15 11:47:54,401 Total channel videos: 362
+2016-10-15 11:47:54,596 Saving finished.
+2016-10-15 11:48:27,597 Saving to file...
+2016-10-15 11:48:27,597 Total channel videos: 820
+2016-10-15 11:48:28,031 Saving finished.
+2016-10-15 11:48:52,113 Saving to file...
+2016-10-15 11:48:52,113 Total channel videos: 820
+2016-10-15 11:48:52,560 Saving finished.
+2016-10-15 11:49:15,966 Saving to file...
+2016-10-15 11:49:15,966 Total channel videos: 820
+2016-10-15 11:49:16,410 Saving finished.
+2016-10-15 11:49:46,020 Saving to file...
+2016-10-15 11:49:46,021 Total channel videos: 820
+2016-10-15 11:49:46,466 Saving finished.
+2016-10-15 11:50:15,927 Saving to file...
+2016-10-15 11:50:15,927 Total channel videos: 820
+2016-10-15 11:50:16,363 Saving finished.
+2016-10-15 11:50:42,927 Saving to file...
+2016-10-15 11:50:42,927 Total channel videos: 820
+2016-10-15 11:50:43,363 Saving finished.
+2016-10-15 11:51:12,589 Saving to file...
+2016-10-15 11:51:12,589 Total channel videos: 820
+2016-10-15 11:51:13,034 Saving finished.
+2016-10-15 11:51:41,452 Saving to file...
+2016-10-15 11:51:41,452 Total channel videos: 820
+2016-10-15 11:51:41,887 Saving finished.
+2016-10-15 11:52:07,428 Saving to file...
+2016-10-15 11:52:07,428 Total channel videos: 820
+2016-10-15 11:52:07,852 Saving finished.
+2016-10-15 11:52:35,432 Saving to file...
+2016-10-15 11:52:35,432 Total channel videos: 820
+2016-10-15 11:52:35,875 Saving finished.
+2016-10-15 11:52:58,678 Saving to file...
+2016-10-15 11:52:58,679 Total channel videos: 820
+2016-10-15 11:52:59,125 Saving finished.
+2016-10-15 11:53:23,307 Saving to file...
+2016-10-15 11:53:23,307 Total channel videos: 820
+2016-10-15 11:53:23,749 Saving finished.
+2016-10-15 11:53:48,985 Saving to file...
+2016-10-15 11:53:48,985 Total channel videos: 820
+2016-10-15 11:53:49,428 Saving finished.
+2016-10-15 11:54:19,680 Saving to file...
+2016-10-15 11:54:19,680 Total channel videos: 820
+2016-10-15 11:54:20,136 Saving finished.
+2016-10-15 11:54:43,728 Saving to file...
+2016-10-15 11:54:43,728 Total channel videos: 820
+2016-10-15 11:54:44,168 Saving finished.
+2016-10-15 11:55:15,526 Saving to file...
+2016-10-15 11:55:15,527 Total channel videos: 820
+2016-10-15 11:55:15,956 Saving finished.
+2016-10-15 11:55:43,390 Saving to file...
+2016-10-15 11:55:43,390 Total channel videos: 820
+2016-10-15 11:55:43,833 Saving finished.
+2016-10-15 11:56:17,992 Saving to file...
+2016-10-15 11:56:17,992 Total channel videos: 820
+2016-10-15 11:56:18,444 Saving finished.
+2016-10-15 11:56:46,075 Saving to file...
+2016-10-15 11:56:46,076 Total channel videos: 820
+2016-10-15 11:56:46,505 Saving finished.
+2016-10-15 11:57:18,868 Saving to file...
+2016-10-15 11:57:18,868 Total channel videos: 820
+2016-10-15 11:57:19,317 Saving finished.
+2016-10-15 11:57:46,312 Saving to file...
+2016-10-15 11:57:46,312 Total channel videos: 820
+2016-10-15 11:57:46,756 Saving finished.
+2016-10-15 11:57:46,756 Total videos: 820
+2016-10-15 11:57:46,777 Analyzing channel: documentaryfilm
+2016-10-15 11:58:13,518 Saving to file...
+2016-10-15 11:58:13,518 Total channel videos: 0
+2016-10-15 11:58:13,518 Saving finished.
+2016-10-15 11:58:21,922 Saving to file...
+2016-10-15 11:58:21,922 Total channel videos: 0
+2016-10-15 11:58:21,922 Saving finished.
+2016-10-15 11:58:21,922 Total videos: 820
+2016-10-15 11:58:21,923 Analyzing channel: everythinganimated
+2016-10-15 11:58:43,798 Saving to file...
+2016-10-15 11:58:43,798 Total channel videos: 104
+2016-10-15 11:58:43,869 Saving finished.
+2016-10-15 11:59:06,420 Saving to file...
+2016-10-15 11:59:06,420 Total channel videos: 104
+2016-10-15 11:59:06,529 Saving finished.
+2016-10-15 11:59:32,201 Saving to file...
+2016-10-15 11:59:32,201 Total channel videos: 104
+2016-10-15 11:59:32,322 Saving finished.
+2016-10-15 12:00:03,508 Saving to file...
+2016-10-15 12:00:03,508 Total channel videos: 104
+2016-10-15 12:00:03,617 Saving finished.
+2016-10-15 12:00:33,503 Saving to file...
+2016-10-15 12:00:33,504 Total channel videos: 104
+2016-10-15 12:00:33,616 Saving finished.
+2016-10-15 12:00:59,388 Saving to file...
+2016-10-15 12:00:59,388 Total channel videos: 104
+2016-10-15 12:00:59,502 Saving finished.
+2016-10-15 12:01:28,139 Saving to file...
+2016-10-15 12:01:28,139 Total channel videos: 104
+2016-10-15 12:01:28,267 Saving finished.
+2016-10-15 12:01:31,407 Saving to file...
+2016-10-15 12:01:31,407 Total channel videos: 104
+2016-10-15 12:01:31,522 Saving finished.
+2016-10-15 12:01:31,523 Total videos: 924
+2016-10-15 12:01:31,524 Analyzing channel: nicetype
+2016-10-15 12:01:57,068 Saving to file...
+2016-10-15 12:01:57,068 Total channel videos: 38
+2016-10-15 12:01:57,097 Saving finished.
+2016-10-15 12:02:17,102 Saving to file...
+2016-10-15 12:02:17,102 Total channel videos: 38
+2016-10-15 12:02:17,174 Saving finished.
+2016-10-15 12:02:17,174 Total videos: 962
+2016-10-15 12:02:17,175 Analyzing channel: 1nspirational
+2016-10-15 12:02:42,990 Saving to file...
+2016-10-15 12:02:42,990 Total channel videos: 24
+2016-10-15 12:02:43,007 Saving finished.
+2016-10-15 12:03:13,585 Saving to file...
+2016-10-15 12:03:13,585 Total channel videos: 24
+2016-10-15 12:03:13,640 Saving finished.
+2016-10-15 12:03:40,026 Saving to file...
+2016-10-15 12:03:40,027 Total channel videos: 24
+2016-10-15 12:03:40,079 Saving finished.
+2016-10-15 12:04:07,569 Saving to file...
+2016-10-15 12:04:07,569 Total channel videos: 24
+2016-10-15 12:04:07,626 Saving finished.
+2016-10-15 12:04:31,914 Saving to file...
+2016-10-15 12:04:31,914 Total channel videos: 24
+2016-10-15 12:04:31,977 Saving finished.
+2016-10-15 12:04:58,302 Saving to file...
+2016-10-15 12:04:58,302 Total channel videos: 24
+2016-10-15 12:04:58,404 Saving finished.
+2016-10-15 12:04:58,404 Saving to file...
+2016-10-15 12:04:58,404 Total channel videos: 24
+2016-10-15 12:04:58,422 Saving finished.
+2016-10-15 12:04:58,422 Total videos: 986
+2016-10-15 12:04:58,423 Analyzing channel: shortoftheweek
+2016-10-15 12:05:23,542 Saving to file...
+2016-10-15 12:05:23,542 Total channel videos: 150
+2016-10-15 12:05:23,654 Saving finished.
+2016-10-15 12:05:51,820 Saving to file...
+2016-10-15 12:05:51,820 Total channel videos: 150
+2016-10-15 12:05:51,961 Saving finished.
+2016-10-15 12:06:12,304 Saving to file...
+2016-10-15 12:06:12,304 Total channel videos: 150
+2016-10-15 12:06:12,454 Saving finished.
+2016-10-15 12:06:12,455 Total videos: 1136
+2016-10-15 12:06:12,458 Analyzing channel: 1341
+2016-10-15 12:06:45,813 Saving to file...
+2016-10-15 12:06:45,813 Total channel videos: 165
+2016-10-15 12:06:45,947 Saving finished.
+2016-10-15 12:07:11,620 Saving to file...
+2016-10-15 12:07:11,621 Total channel videos: 165
+2016-10-15 12:07:11,790 Saving finished.
+2016-10-15 12:07:39,174 Saving to file...
+2016-10-15 12:07:39,175 Total channel videos: 165
+2016-10-15 12:07:39,360 Saving finished.
+2016-10-15 12:08:13,167 Saving to file...
+2016-10-15 12:08:13,167 Total channel videos: 165
+2016-10-15 12:08:13,348 Saving finished.
+2016-10-15 12:08:42,933 Saving to file...
+2016-10-15 12:08:42,933 Total channel videos: 165
+2016-10-15 12:08:43,110 Saving finished.
+2016-10-15 12:09:09,966 Saving to file...
+2016-10-15 12:09:09,966 Total channel videos: 165
+2016-10-15 12:09:10,148 Saving finished.
+2016-10-15 12:09:38,176 Saving to file...
+2016-10-15 12:09:38,176 Total channel videos: 165
+2016-10-15 12:09:38,349 Saving finished.
+2016-10-15 12:10:07,004 Saving to file...
+2016-10-15 12:10:07,004 Total channel videos: 165
+2016-10-15 12:10:07,194 Saving finished.
+2016-10-15 12:10:39,158 Saving to file...
+2016-10-15 12:10:39,158 Total channel videos: 165
+2016-10-15 12:10:39,337 Saving finished.
+2016-10-15 12:11:13,976 Saving to file...
+2016-10-15 12:11:13,977 Total channel videos: 165
+2016-10-15 12:11:14,148 Saving finished.
+2016-10-15 12:11:42,342 Saving to file...
+2016-10-15 12:11:42,343 Total channel videos: 165
+2016-10-15 12:11:42,522 Saving finished.
+2016-10-15 12:12:13,744 Saving to file...
+2016-10-15 12:12:13,744 Total channel videos: 165
+2016-10-15 12:12:13,923 Saving finished.
+2016-10-15 12:12:27,505 Saving to file...
+2016-10-15 12:12:27,505 Total channel videos: 165
+2016-10-15 12:12:27,678 Saving finished.
+2016-10-15 12:12:27,679 Total videos: 1301
+2016-10-15 12:12:27,683 Analyzing channel: 31259
+2016-10-15 12:13:00,561 Saving to file...
+2016-10-15 12:13:00,561 Total channel videos: 39
+2016-10-15 12:13:00,601 Saving finished.
+2016-10-15 12:13:23,764 Saving to file...
+2016-10-15 12:13:23,765 Total channel videos: 39
+2016-10-15 12:13:23,847 Saving finished.
+2016-10-15 12:13:23,847 Total videos: 1340
+2016-10-15 12:13:23,849 Analyzing channel: pmg
+2016-10-15 12:13:46,647 Saving to file...
+2016-10-15 12:13:46,647 Total channel videos: 8
+2016-10-15 12:13:46,656 Saving finished.
+2016-10-15 12:13:46,656 Total videos: 1348
+2016-10-15 12:13:46,657 Analyzing channel: worldhd
+2016-10-15 12:14:17,536 Saving to file...
+2016-10-15 12:14:17,536 Total channel videos: 388
+2016-10-15 12:14:17,795 Saving finished.
+2016-10-15 12:14:50,466 Saving to file...
+2016-10-15 12:14:50,466 Total channel videos: 809
+2016-10-15 12:14:50,997 Saving finished.
+2016-10-15 12:15:26,723 Saving to file...
+2016-10-15 12:15:26,723 Total channel videos: 809
+2016-10-15 12:15:27,279 Saving finished.
+2016-10-15 12:15:54,709 Saving to file...
+2016-10-15 12:15:54,710 Total channel videos: 809
+2016-10-15 12:15:55,249 Saving finished.
+2016-10-15 12:16:28,666 Saving to file...
+2016-10-15 12:16:28,667 Total channel videos: 809
+2016-10-15 12:16:29,196 Saving finished.
+2016-10-15 12:17:00,217 Saving to file...
+2016-10-15 12:17:00,217 Total channel videos: 809
+2016-10-15 12:17:00,758 Saving finished.
+2016-10-15 12:17:30,245 Saving to file...
+2016-10-15 12:17:30,245 Total channel videos: 809
+2016-10-15 12:17:30,780 Saving finished.
+2016-10-15 12:17:57,774 Saving to file...
+2016-10-15 12:17:57,774 Total channel videos: 809
+2016-10-15 12:17:58,319 Saving finished.
+2016-10-15 12:18:28,769 Saving to file...
+2016-10-15 12:18:28,770 Total channel videos: 809
+2016-10-15 12:18:29,318 Saving finished.
+2016-10-15 12:18:56,075 Saving to file...
+2016-10-15 12:18:56,075 Total channel videos: 809
+2016-10-15 12:18:56,619 Saving finished.
+2016-10-15 12:19:30,670 Saving to file...
+2016-10-15 12:19:30,671 Total channel videos: 809
+2016-10-15 12:19:31,218 Saving finished.
+2016-10-15 12:19:59,118 Saving to file...
+2016-10-15 12:19:59,119 Total channel videos: 809
+2016-10-15 12:19:59,665 Saving finished.
+2016-10-15 12:20:40,086 Saving to file...
+2016-10-15 12:20:40,086 Total channel videos: 809
+2016-10-15 12:20:40,618 Saving finished.
+2016-10-15 12:21:17,875 Saving to file...
+2016-10-15 12:21:17,875 Total channel videos: 809
+2016-10-15 12:21:18,427 Saving finished.
+2016-10-15 12:21:47,037 Saving to file...
+2016-10-15 12:21:47,037 Total channel videos: 809
+2016-10-15 12:21:47,572 Saving finished.
+2016-10-15 12:22:17,087 Saving to file...
+2016-10-15 12:22:17,087 Total channel videos: 809
+2016-10-15 12:22:17,633 Saving finished.
+2016-10-15 12:22:49,361 Saving to file...
+2016-10-15 12:22:49,361 Total channel videos: 809
+2016-10-15 12:22:49,894 Saving finished.
+2016-10-15 12:23:18,969 Saving to file...
+2016-10-15 12:23:18,970 Total channel videos: 809
+2016-10-15 12:23:19,511 Saving finished.
+2016-10-15 12:23:45,604 Saving to file...
+2016-10-15 12:23:45,604 Total channel videos: 809
+2016-10-15 12:23:46,116 Saving finished.
+2016-10-15 12:24:13,110 Saving to file...
+2016-10-15 12:24:13,110 Total channel videos: 809
+2016-10-15 12:24:13,675 Saving finished.
+2016-10-15 12:24:49,706 Saving to file...
+2016-10-15 12:24:49,707 Total channel videos: 809
+2016-10-15 12:24:50,237 Saving finished.
+2016-10-15 12:25:17,217 Saving to file...
+2016-10-15 12:25:17,217 Total channel videos: 809
+2016-10-15 12:25:17,748 Saving finished.
+2016-10-15 12:25:46,637 Saving to file...
+2016-10-15 12:25:46,637 Total channel videos: 809
+2016-10-15 12:25:47,174 Saving finished.
+2016-10-15 12:26:15,857 Saving to file...
+2016-10-15 12:26:15,858 Total channel videos: 809
+2016-10-15 12:26:16,405 Saving finished.
+2016-10-15 12:26:43,882 Saving to file...
+2016-10-15 12:26:43,883 Total channel videos: 809
+2016-10-15 12:26:44,415 Saving finished.
+2016-10-15 12:27:13,219 Saving to file...
+2016-10-15 12:27:13,219 Total channel videos: 809
+2016-10-15 12:27:13,759 Saving finished.
+2016-10-15 12:27:47,605 Saving to file...
+2016-10-15 12:27:47,606 Total channel videos: 809
+2016-10-15 12:27:48,148 Saving finished.
+2016-10-15 12:28:17,881 Saving to file...
+2016-10-15 12:28:17,881 Total channel videos: 809
+2016-10-15 12:28:18,437 Saving finished.
+2016-10-15 12:28:49,079 Saving to file...
+2016-10-15 12:28:49,079 Total channel videos: 809
+2016-10-15 12:28:49,611 Saving finished.
+2016-10-15 12:28:57,163 Saving to file...
+2016-10-15 12:28:57,163 Total channel videos: 809
+2016-10-15 12:28:57,692 Saving finished.
+2016-10-15 12:28:57,692 Total videos: 2157
+2016-10-15 12:28:57,715 Analyzing channel: fubiz
+2016-10-15 12:29:23,633 Saving to file...
+2016-10-15 12:29:23,634 Total channel videos: 25
+2016-10-15 12:29:23,658 Saving finished.
+2016-10-15 12:29:53,196 Saving to file...
+2016-10-15 12:29:53,196 Total channel videos: 25
+2016-10-15 12:29:53,263 Saving finished.
+2016-10-15 12:30:26,881 Saving to file...
+2016-10-15 12:30:26,882 Total channel videos: 25
+2016-10-15 12:30:26,945 Saving finished.
+2016-10-15 12:30:57,427 Saving to file...
+2016-10-15 12:30:57,428 Total channel videos: 25
+2016-10-15 12:30:57,499 Saving finished.
+2016-10-15 12:31:15,418 Saving to file...
+2016-10-15 12:31:15,418 Total channel videos: 25
+2016-10-15 12:31:15,488 Saving finished.
+2016-10-15 12:31:15,488 Total videos: 2182
+2016-10-15 12:31:15,489 Analyzing channel: wineaftercoffee
+2016-10-15 12:31:48,018 Saving to file...
+2016-10-15 12:31:48,018 Total channel videos: 421
+2016-10-15 12:31:48,221 Saving finished.
+2016-10-15 12:32:21,786 Saving to file...
+2016-10-15 12:32:21,786 Total channel videos: 469
+2016-10-15 12:32:22,059 Saving finished.
+2016-10-15 12:32:47,065 Saving to file...
+2016-10-15 12:32:47,065 Total channel videos: 469
+2016-10-15 12:32:47,329 Saving finished.
+2016-10-15 12:33:15,224 Saving to file...
+2016-10-15 12:33:15,225 Total channel videos: 469
+2016-10-15 12:33:15,510 Saving finished.
+2016-10-15 12:33:40,139 Saving to file...
+2016-10-15 12:33:40,139 Total channel videos: 469
+2016-10-15 12:33:40,394 Saving finished.
+2016-10-15 12:34:07,038 Saving to file...
+2016-10-15 12:34:07,038 Total channel videos: 469
+2016-10-15 12:34:07,282 Saving finished.
+2016-10-15 12:34:31,474 Saving to file...
+2016-10-15 12:34:31,474 Total channel videos: 469
+2016-10-15 12:34:31,746 Saving finished.
+2016-10-15 12:34:54,084 Saving to file...
+2016-10-15 12:34:54,084 Total channel videos: 469
+2016-10-15 12:34:54,349 Saving finished.
+2016-10-15 12:34:54,350 Saving to file...
+2016-10-15 12:34:54,350 Total channel videos: 469
+2016-10-15 12:34:54,630 Saving finished.
+2016-10-15 12:34:54,631 Total videos: 2651
+2016-10-15 12:34:54,638 Analyzing channel: demoreels
+2016-10-15 12:35:24,569 Saving to file...
+2016-10-15 12:35:24,569 Total channel videos: 1
+2016-10-15 12:35:24,570 Saving finished.
+2016-10-15 12:35:31,463 Saving to file...
+2016-10-15 12:35:31,463 Total channel videos: 1
+2016-10-15 12:35:31,467 Saving finished.
+2016-10-15 12:35:31,467 Total videos: 2652
+2016-10-15 12:35:31,468 Analyzing channel: iphonehd
+2016-10-15 12:36:01,467 Saving to file...
+2016-10-15 12:36:01,467 Total channel videos: 21
+2016-10-15 12:36:01,490 Saving finished.
+2016-10-15 12:36:20,849 Saving to file...
+2016-10-15 12:36:20,849 Total channel videos: 21
+2016-10-15 12:36:20,909 Saving finished.
+2016-10-15 12:36:20,909 Total videos: 2673
+2016-10-15 12:36:20,910 Analyzing channel: wearedn
+2016-10-15 12:36:48,898 Saving to file...
+2016-10-15 12:36:48,898 Total channel videos: 331
+2016-10-15 12:36:49,086 Saving finished.
+2016-10-15 12:37:16,257 Saving to file...
+2016-10-15 12:37:16,257 Total channel videos: 331
+2016-10-15 12:37:16,488 Saving finished.
+2016-10-15 12:37:40,658 Saving to file...
+2016-10-15 12:37:40,658 Total channel videos: 331
+2016-10-15 12:37:40,889 Saving finished.
+2016-10-15 12:38:09,139 Saving to file...
+2016-10-15 12:38:09,139 Total channel videos: 331
+2016-10-15 12:38:09,381 Saving finished.
+2016-10-15 12:38:39,523 Saving to file...
+2016-10-15 12:38:39,523 Total channel videos: 331
+2016-10-15 12:38:39,760 Saving finished.
+2016-10-15 12:39:08,460 Saving to file...
+2016-10-15 12:39:08,461 Total channel videos: 331
+2016-10-15 12:39:08,685 Saving finished.
+2016-10-15 12:39:33,151 Saving to file...
+2016-10-15 12:39:33,151 Total channel videos: 331
+2016-10-15 12:39:33,379 Saving finished.
+2016-10-15 12:40:02,744 Saving to file...
+2016-10-15 12:40:02,744 Total channel videos: 331
+2016-10-15 12:40:02,967 Saving finished.
+2016-10-15 12:40:33,779 Saving to file...
+2016-10-15 12:40:33,780 Total channel videos: 331
+2016-10-15 12:40:34,006 Saving finished.
+2016-10-15 12:40:41,736 Saving to file...
+2016-10-15 12:40:41,737 Total channel videos: 331
+2016-10-15 12:40:41,958 Saving finished.
+2016-10-15 12:40:41,958 Total videos: 3004
+2016-10-15 12:40:41,966 Analyzing channel: vimeohq
+2016-10-15 12:41:02,057 Saving to file...
+2016-10-15 12:41:02,058 Total channel videos: 4
+2016-10-15 12:41:02,061 Saving finished.
+2016-10-15 12:41:02,061 Total videos: 3008
+2016-10-15 12:41:02,061 Analyzing channel: designcollector
+2016-10-15 12:41:26,092 Saving to file...
+2016-10-15 12:41:26,092 Total channel videos: 298
+2016-10-15 12:41:26,276 Saving finished.
+2016-10-15 12:41:57,025 Saving to file...
+2016-10-15 12:41:57,025 Total channel videos: 298
+2016-10-15 12:41:57,245 Saving finished.
+2016-10-15 12:42:21,805 Saving to file...
+2016-10-15 12:42:21,805 Total channel videos: 298
+2016-10-15 12:42:22,027 Saving finished.
+2016-10-15 12:42:50,418 Saving to file...
+2016-10-15 12:42:50,418 Total channel videos: 298
+2016-10-15 12:42:50,631 Saving finished.
+2016-10-15 12:43:17,997 Saving to file...
+2016-10-15 12:43:17,998 Total channel videos: 298
+2016-10-15 12:43:18,219 Saving finished.
+2016-10-15 12:43:45,508 Saving to file...
+2016-10-15 12:43:45,509 Total channel videos: 298
+2016-10-15 12:43:45,728 Saving finished.
+2016-10-15 12:44:07,284 Saving to file...
+2016-10-15 12:44:07,284 Total channel videos: 298
+2016-10-15 12:44:07,483 Saving finished.
+2016-10-15 12:44:37,664 Saving to file...
+2016-10-15 12:44:37,664 Total channel videos: 298
+2016-10-15 12:44:37,900 Saving finished.
+2016-10-15 12:45:08,760 Saving to file...
+2016-10-15 12:45:08,760 Total channel videos: 298
+2016-10-15 12:45:08,980 Saving finished.
+2016-10-15 12:45:40,855 Saving to file...
+2016-10-15 12:45:40,855 Total channel videos: 298
+2016-10-15 12:45:41,079 Saving finished.
+2016-10-15 12:46:12,299 Saving to file...
+2016-10-15 12:46:12,299 Total channel videos: 298
+2016-10-15 12:46:12,518 Saving finished.
+2016-10-15 12:46:44,329 Saving to file...
+2016-10-15 12:46:44,330 Total channel videos: 298
+2016-10-15 12:46:44,549 Saving finished.
+2016-10-15 12:46:44,549 Saving to file...
+2016-10-15 12:46:44,549 Total channel videos: 298
+2016-10-15 12:46:44,738 Saving finished.
+2016-10-15 12:46:44,738 Total videos: 3306
+2016-10-15 12:46:44,743 Analyzing channel: musicvideoland
+2016-10-15 12:47:06,960 Saving to file...
+2016-10-15 12:47:06,961 Total channel videos: 207
+2016-10-15 12:47:07,070 Saving finished.
+2016-10-15 12:47:39,385 Saving to file...
+2016-10-15 12:47:39,386 Total channel videos: 207
+2016-10-15 12:47:39,538 Saving finished.
+2016-10-15 12:48:10,375 Saving to file...
+2016-10-15 12:48:10,376 Total channel videos: 207
+2016-10-15 12:48:10,526 Saving finished.
+2016-10-15 12:48:39,142 Saving to file...
+2016-10-15 12:48:39,142 Total channel videos: 207
+2016-10-15 12:48:39,258 Saving finished.
+2016-10-15 12:48:47,403 Saving to file...
+2016-10-15 12:48:47,403 Total channel videos: 207
+2016-10-15 12:48:47,539 Saving finished.
+2016-10-15 12:48:47,539 Total videos: 3513
+2016-10-15 12:48:47,541 Analyzing channel: soundworkscollection
+2016-10-15 12:48:54,097 Saving to file...
+2016-10-15 12:48:54,097 Total channel videos: 7
+2016-10-15 12:48:54,102 Saving finished.
+2016-10-15 12:48:54,102 Total videos: 3520
+2016-10-15 12:48:54,102 Analyzing channel: stereoscopy
+2016-10-15 12:49:24,811 Saving to file...
+2016-10-15 12:49:24,811 Total channel videos: 22
+2016-10-15 12:49:24,829 Saving finished.
+2016-10-15 12:49:49,512 Saving to file...
+2016-10-15 12:49:49,512 Total channel videos: 22
+2016-10-15 12:49:49,548 Saving finished.
+2016-10-15 12:50:20,235 Saving to file...
+2016-10-15 12:50:20,236 Total channel videos: 22
+2016-10-15 12:50:20,293 Saving finished.
+2016-10-15 12:50:48,531 Saving to file...
+2016-10-15 12:50:48,532 Total channel videos: 22
+2016-10-15 12:50:48,594 Saving finished.
+2016-10-15 12:50:50,215 Saving to file...
+2016-10-15 12:50:50,216 Total channel videos: 22
+2016-10-15 12:50:50,288 Saving finished.
+2016-10-15 12:50:50,288 Total videos: 3542
+2016-10-15 12:50:50,289 Analyzing channel: booooooom
+2016-10-15 12:51:17,300 Saving to file...
+2016-10-15 12:51:17,300 Total channel videos: 349
+2016-10-15 12:51:17,476 Saving finished.
+2016-10-15 12:51:42,934 Saving to file...
+2016-10-15 12:51:42,935 Total channel videos: 349
+2016-10-15 12:51:43,163 Saving finished.
+2016-10-15 12:52:04,085 Saving to file...
+2016-10-15 12:52:04,085 Total channel videos: 349
+2016-10-15 12:52:04,308 Saving finished.
+2016-10-15 12:52:04,308 Total videos: 3891
+2016-10-15 12:52:04,315 Analyzing channel: thosewhomake
+2016-10-15 12:52:21,416 Saving to file...
+2016-10-15 12:52:21,416 Total channel videos: 5
+2016-10-15 12:52:21,422 Saving finished.
+2016-10-15 12:52:21,422 Total videos: 3896
+2016-10-15 12:52:21,422 Analyzing channel: motionographer
+2016-10-15 12:52:46,912 Saving to file...
+2016-10-15 12:52:46,913 Total channel videos: 462
+2016-10-15 12:52:47,133 Saving finished.
+2016-10-15 12:53:13,608 Saving to file...
+2016-10-15 12:53:13,608 Total channel videos: 476
+2016-10-15 12:53:13,880 Saving finished.
+2016-10-15 12:53:38,415 Saving to file...
+2016-10-15 12:53:38,415 Total channel videos: 476
+2016-10-15 12:53:38,693 Saving finished.
+2016-10-15 12:54:02,337 Saving to file...
+2016-10-15 12:54:02,337 Total channel videos: 476
+2016-10-15 12:54:02,575 Saving finished.
+2016-10-15 12:54:03,764 Saving to file...
+2016-10-15 12:54:03,764 Total channel videos: 476
+2016-10-15 12:54:04,030 Saving finished.
+2016-10-15 12:54:04,030 Total videos: 4372
+2016-10-15 12:54:04,038 Analyzing channel: shootingpeople
+2016-10-15 12:54:09,651 Saving to file...
+2016-10-15 12:54:09,652 Total channel videos: 0
+2016-10-15 12:54:09,652 Saving finished.
+2016-10-15 12:54:09,652 Total videos: 4372
+2016-10-15 12:54:09,653 Analyzing channel: 238295
+2016-10-15 12:54:33,391 Saving to file...
+2016-10-15 12:54:33,391 Total channel videos: 9
+2016-10-15 12:54:33,398 Saving finished.
+2016-10-15 12:54:55,219 Saving to file...
+2016-10-15 12:54:55,219 Total channel videos: 9
+2016-10-15 12:54:55,265 Saving finished.
+2016-10-15 12:55:20,729 Saving to file...
+2016-10-15 12:55:20,730 Total channel videos: 9
+2016-10-15 12:55:20,780 Saving finished.
+2016-10-15 12:55:45,360 Saving to file...
+2016-10-15 12:55:45,360 Total channel videos: 9
+2016-10-15 12:55:45,422 Saving finished.
+2016-10-15 12:56:09,253 Saving to file...
+2016-10-15 12:56:09,253 Total channel videos: 9
+2016-10-15 12:56:09,304 Saving finished.
+2016-10-15 12:56:10,361 Saving to file...
+2016-10-15 12:56:10,361 Total channel videos: 9
+2016-10-15 12:56:10,417 Saving finished.
+2016-10-15 12:56:10,417 Total videos: 4381
+2016-10-15 12:56:10,418 Analyzing channel: whitehouse
+2016-10-15 12:56:32,965 Saving to file...
+2016-10-15 12:56:32,965 Total channel videos: 15
+2016-10-15 12:56:32,979 Saving finished.
+2016-10-15 12:56:52,850 Saving to file...
+2016-10-15 12:56:52,850 Total channel videos: 15
+2016-10-15 12:56:52,917 Saving finished.
+2016-10-15 12:56:52,918 Saving to file...
+2016-10-15 12:56:52,918 Total channel videos: 15
+2016-10-15 12:56:52,947 Saving finished.
+2016-10-15 12:56:52,948 Total videos: 4396
+2016-10-15 12:56:52,948 Analyzing channel: thecuriousbrain
+2016-10-15 12:57:18,992 Saving to file...
+2016-10-15 12:57:18,992 Total channel videos: 204
+2016-10-15 12:57:19,124 Saving finished.
+2016-10-15 12:57:43,781 Saving to file...
+2016-10-15 12:57:43,781 Total channel videos: 204
+2016-10-15 12:57:43,961 Saving finished.
+2016-10-15 12:58:05,908 Saving to file...
+2016-10-15 12:58:05,908 Total channel videos: 204
+2016-10-15 12:58:06,097 Saving finished.
+2016-10-15 12:58:35,835 Saving to file...
+2016-10-15 12:58:35,835 Total channel videos: 204
+2016-10-15 12:58:36,005 Saving finished.
+2016-10-15 12:58:58,424 Saving to file...
+2016-10-15 12:58:58,424 Total channel videos: 204
+2016-10-15 12:58:58,599 Saving finished.
+2016-10-15 12:59:23,635 Saving to file...
+2016-10-15 12:59:23,635 Total channel videos: 204
+2016-10-15 12:59:23,812 Saving finished.
+2016-10-15 12:59:52,303 Saving to file...
+2016-10-15 12:59:52,303 Total channel videos: 204
+2016-10-15 12:59:52,454 Saving finished.
+2016-10-15 12:59:52,455 Saving to file...
+2016-10-15 12:59:52,455 Total channel videos: 204
+2016-10-15 12:59:52,550 Saving finished.
+2016-10-15 12:59:52,550 Total videos: 4600
+2016-10-15 12:59:52,553 Analyzing channel: nowness
+2016-10-15 13:00:20,808 Saving to file...
+2016-10-15 13:00:20,808 Total channel videos: 0
+2016-10-15 13:00:20,810 Saving finished.
+2016-10-15 13:00:46,671 Saving to file...
+2016-10-15 13:00:46,672 Total channel videos: 0
+2016-10-15 13:00:46,672 Saving finished.
+2016-10-15 13:00:47,563 Saving to file...
+2016-10-15 13:00:47,563 Total channel videos: 0
+2016-10-15 13:00:47,563 Saving finished.
+2016-10-15 13:00:47,563 Total videos: 4600
+2016-10-15 13:00:47,564 Analyzing channel: fat
+2016-10-15 13:00:55,400 Saving to file...
+2016-10-15 13:00:55,400 Total channel videos: 0
+2016-10-15 13:00:55,400 Saving finished.
+2016-10-15 13:00:55,400 Total videos: 4600
+2016-10-15 13:00:55,401 Analyzing channel: dazed
+2016-10-15 13:00:58,789 Saving to file...
+2016-10-15 13:00:58,789 Total channel videos: 6
+2016-10-15 13:00:58,794 Saving finished.
+2016-10-15 13:00:58,794 Total videos: 4606
+2016-10-15 13:00:58,795 Analyzing channel: paragliding
+2016-10-15 13:01:32,823 Saving to file...
+2016-10-15 13:01:32,823 Total channel videos: 26
+2016-10-15 13:01:32,845 Saving finished.
+2016-10-15 13:01:59,833 Saving to file...
+2016-10-15 13:01:59,834 Total channel videos: 500
+2016-10-15 13:02:00,176 Saving finished.
+2016-10-15 13:02:33,019 Saving to file...
+2016-10-15 13:02:33,020 Total channel videos: 954
+2016-10-15 13:02:33,542 Saving finished.
+2016-10-15 13:03:10,505 Saving to file...
+2016-10-15 13:03:10,506 Total channel videos: 1418
+2016-10-15 13:03:11,230 Saving finished.
+2016-10-15 13:03:44,474 Saving to file...
+2016-10-15 13:03:44,474 Total channel videos: 1878
+2016-10-15 13:03:45,402 Saving finished.
+2016-10-15 13:04:12,880 Saving to file...
+2016-10-15 13:04:12,881 Total channel videos: 2337
+2016-10-15 13:04:13,934 Saving finished.
+2016-10-15 13:04:46,025 Saving to file...
+2016-10-15 13:04:46,025 Total channel videos: 2658
+2016-10-15 13:04:47,199 Saving finished.
+2016-10-15 13:05:21,215 Saving to file...
+2016-10-15 13:05:21,215 Total channel videos: 2658
+2016-10-15 13:05:22,400 Saving finished.
+2016-10-15 13:05:52,967 Saving to file...
+2016-10-15 13:05:52,967 Total channel videos: 2658
+2016-10-15 13:05:54,146 Saving finished.
+2016-10-15 13:06:19,722 Saving to file...
+2016-10-15 13:06:19,723 Total channel videos: 2658
+2016-10-15 13:06:20,884 Saving finished.
+2016-10-15 13:06:50,163 Saving to file...
+2016-10-15 13:06:50,164 Total channel videos: 2658
+2016-10-15 13:06:51,342 Saving finished.
+2016-10-15 13:07:25,941 Saving to file...
+2016-10-15 13:07:25,941 Total channel videos: 2658
+2016-10-15 13:07:27,121 Saving finished.
+2016-10-15 13:07:58,553 Saving to file...
+2016-10-15 13:07:58,553 Total channel videos: 2658
+2016-10-15 13:07:59,733 Saving finished.
+2016-10-15 13:08:28,257 Saving to file...
+2016-10-15 13:08:28,258 Total channel videos: 2658
+2016-10-15 13:08:29,438 Saving finished.
+2016-10-15 13:08:56,104 Saving to file...
+2016-10-15 13:08:56,104 Total channel videos: 2658
+2016-10-15 13:08:57,278 Saving finished.
+2016-10-15 13:09:26,565 Saving to file...
+2016-10-15 13:09:26,565 Total channel videos: 2658
+2016-10-15 13:09:27,687 Saving finished.
+2016-10-15 13:09:54,725 Saving to file...
+2016-10-15 13:09:54,725 Total channel videos: 2658
+2016-10-15 13:09:55,951 Saving finished.
+2016-10-15 13:10:30,249 Saving to file...
+2016-10-15 13:10:30,249 Total channel videos: 2658
+2016-10-15 13:10:31,405 Saving finished.
+2016-10-15 13:11:02,268 Saving to file...
+2016-10-15 13:11:02,268 Total channel videos: 2658
+2016-10-15 13:11:03,436 Saving finished.
+2016-10-15 13:11:33,709 Saving to file...
+2016-10-15 13:11:33,710 Total channel videos: 2658
+2016-10-15 13:11:34,888 Saving finished.
+2016-10-15 13:12:07,844 Saving to file...
+2016-10-15 13:12:07,844 Total channel videos: 2658
+2016-10-15 13:12:09,051 Saving finished.
+2016-10-15 13:12:38,440 Saving to file...
+2016-10-15 13:12:38,440 Total channel videos: 2658
+2016-10-15 13:12:39,599 Saving finished.
+2016-10-15 13:13:10,238 Saving to file...
+2016-10-15 13:13:10,238 Total channel videos: 2658
+2016-10-15 13:13:11,409 Saving finished.
+2016-10-15 13:13:40,777 Saving to file...
+2016-10-15 13:13:40,778 Total channel videos: 2658
+2016-10-15 13:13:41,928 Saving finished.
+2016-10-15 13:14:13,193 Saving to file...
+2016-10-15 13:14:13,194 Total channel videos: 2658
+2016-10-15 13:14:14,382 Saving finished.
+2016-10-15 13:14:41,744 Saving to file...
+2016-10-15 13:14:41,744 Total channel videos: 2658
+2016-10-15 13:14:42,919 Saving finished.
+2016-10-15 13:15:14,035 Saving to file...
+2016-10-15 13:15:14,035 Total channel videos: 2658
+2016-10-15 13:15:15,221 Saving finished.
+2016-10-15 13:15:49,673 Saving to file...
+2016-10-15 13:15:49,673 Total channel videos: 2658
+2016-10-15 13:15:50,842 Saving finished.
+2016-10-15 13:16:20,025 Saving to file...
+2016-10-15 13:16:20,025 Total channel videos: 2658
+2016-10-15 13:16:21,201 Saving finished.
+2016-10-15 13:16:51,983 Saving to file...
+2016-10-15 13:16:51,983 Total channel videos: 2658
+2016-10-15 13:16:53,154 Saving finished.
+2016-10-15 13:17:25,064 Saving to file...
+2016-10-15 13:17:25,064 Total channel videos: 2658
+2016-10-15 13:17:26,191 Saving finished.
+2016-10-15 13:17:54,770 Saving to file...
+2016-10-15 13:17:54,771 Total channel videos: 2658
+2016-10-15 13:17:55,947 Saving finished.
+2016-10-15 13:18:27,575 Saving to file...
+2016-10-15 13:18:27,575 Total channel videos: 2658
+2016-10-15 13:18:28,768 Saving finished.
+2016-10-15 13:18:58,062 Saving to file...
+2016-10-15 13:18:58,062 Total channel videos: 2658
+2016-10-15 13:18:59,225 Saving finished.
+2016-10-15 13:19:37,215 Saving to file...
+2016-10-15 13:19:37,215 Total channel videos: 2658
+2016-10-15 13:19:38,384 Saving finished.
+2016-10-15 13:20:11,867 Saving to file...
+2016-10-15 13:20:11,868 Total channel videos: 2658
+2016-10-15 13:20:13,043 Saving finished.
+2016-10-15 13:20:43,791 Saving to file...
+2016-10-15 13:20:43,791 Total channel videos: 2658
+2016-10-15 13:20:44,956 Saving finished.
+2016-10-15 13:21:12,396 Saving to file...
+2016-10-15 13:21:12,396 Total channel videos: 2658
+2016-10-15 13:21:13,574 Saving finished.
+2016-10-15 13:21:41,453 Saving to file...
+2016-10-15 13:21:41,454 Total channel videos: 2658
+2016-10-15 13:21:42,657 Saving finished.
+2016-10-15 13:22:20,205 Saving to file...
+2016-10-15 13:22:20,206 Total channel videos: 2658
+2016-10-15 13:22:21,396 Saving finished.
+2016-10-15 13:22:50,988 Saving to file...
+2016-10-15 13:22:50,988 Total channel videos: 2658
+2016-10-15 13:22:52,176 Saving finished.
+2016-10-15 13:23:23,001 Saving to file...
+2016-10-15 13:23:23,001 Total channel videos: 2658
+2016-10-15 13:23:24,163 Saving finished.
+2016-10-15 13:23:56,958 Saving to file...
+2016-10-15 13:23:56,958 Total channel videos: 2658
+2016-10-15 13:23:58,128 Saving finished.
+2016-10-15 13:24:31,273 Saving to file...
+2016-10-15 13:24:31,273 Total channel videos: 2658
+2016-10-15 13:24:32,447 Saving finished.
+2016-10-15 13:25:01,132 Saving to file...
+2016-10-15 13:25:01,132 Total channel videos: 2658
+2016-10-15 13:25:02,289 Saving finished.
+2016-10-15 13:25:35,307 Saving to file...
+2016-10-15 13:25:35,307 Total channel videos: 2658
+2016-10-15 13:25:36,496 Saving finished.
+2016-10-15 13:26:07,093 Saving to file...
+2016-10-15 13:26:07,093 Total channel videos: 2658
+2016-10-15 13:26:08,256 Saving finished.
+2016-10-15 13:26:41,595 Saving to file...
+2016-10-15 13:26:41,596 Total channel videos: 2658
+2016-10-15 13:26:42,785 Saving finished.
+2016-10-15 13:27:15,228 Saving to file...
+2016-10-15 13:27:15,228 Total channel videos: 2658
+2016-10-15 13:27:16,412 Saving finished.
+2016-10-15 13:27:47,576 Saving to file...
+2016-10-15 13:27:47,576 Total channel videos: 2658
+2016-10-15 13:27:48,770 Saving finished.
+2016-10-15 13:28:21,073 Saving to file...
+2016-10-15 13:28:21,073 Total channel videos: 2658
+2016-10-15 13:28:22,244 Saving finished.
+2016-10-15 13:28:51,831 Saving to file...
+2016-10-15 13:28:51,831 Total channel videos: 2658
+2016-10-15 13:28:52,993 Saving finished.
+2016-10-15 13:29:23,897 Saving to file...
+2016-10-15 13:29:23,897 Total channel videos: 2658
+2016-10-15 13:29:25,096 Saving finished.
+2016-10-15 13:29:50,514 Saving to file...
+2016-10-15 13:29:50,514 Total channel videos: 2658
+2016-10-15 13:29:51,675 Saving finished.
+2016-10-15 13:30:22,930 Saving to file...
+2016-10-15 13:30:22,930 Total channel videos: 2658
+2016-10-15 13:30:24,111 Saving finished.
+2016-10-15 13:30:56,483 Saving to file...
+2016-10-15 13:30:56,483 Total channel videos: 2658
+2016-10-15 13:30:57,596 Saving finished.
+2016-10-15 13:31:25,867 Saving to file...
+2016-10-15 13:31:25,868 Total channel videos: 2658
+2016-10-15 13:31:27,053 Saving finished.
+2016-10-15 13:31:54,684 Saving to file...
+2016-10-15 13:31:54,684 Total channel videos: 2658
+2016-10-15 13:31:55,878 Saving finished.
+2016-10-15 13:32:26,626 Saving to file...
+2016-10-15 13:32:26,626 Total channel videos: 2658
+2016-10-15 13:32:27,803 Saving finished.
+2016-10-15 13:32:55,406 Saving to file...
+2016-10-15 13:32:55,406 Total channel videos: 2658
+2016-10-15 13:32:56,595 Saving finished.
+2016-10-15 13:33:30,378 Saving to file...
+2016-10-15 13:33:30,379 Total channel videos: 2658
+2016-10-15 13:33:31,556 Saving finished.
+2016-10-15 13:34:03,203 Saving to file...
+2016-10-15 13:34:03,203 Total channel videos: 2658
+2016-10-15 13:34:04,381 Saving finished.
+2016-10-15 13:34:26,453 Saving to file...
+2016-10-15 13:34:26,454 Total channel videos: 2658
+2016-10-15 13:34:27,665 Saving finished.
+2016-10-15 13:34:27,665 Saving to file...
+2016-10-15 13:34:27,666 Total channel videos: 2658
+2016-10-15 13:34:28,888 Saving finished.
+2016-10-15 13:34:28,888 Total videos: 7264
+2016-10-15 13:34:28,938 Analyzing channel: bangnmedia
+2016-10-15 13:34:58,503 Saving to file...
+2016-10-15 13:34:58,503 Total channel videos: 169
+2016-10-15 13:34:58,617 Saving finished.
+2016-10-15 13:35:20,633 Saving to file...
+2016-10-15 13:35:20,633 Total channel videos: 169
+2016-10-15 13:35:20,789 Saving finished.
+2016-10-15 13:35:46,824 Saving to file...
+2016-10-15 13:35:46,824 Total channel videos: 169
+2016-10-15 13:35:46,977 Saving finished.
+2016-10-15 13:36:09,874 Saving to file...
+2016-10-15 13:36:09,874 Total channel videos: 169
+2016-10-15 13:36:10,027 Saving finished.
+2016-10-15 13:36:40,303 Saving to file...
+2016-10-15 13:36:40,304 Total channel videos: 169
+2016-10-15 13:36:40,458 Saving finished.
+2016-10-15 13:36:55,207 Saving to file...
+2016-10-15 13:36:55,208 Total channel videos: 169
+2016-10-15 13:36:55,376 Saving finished.
+2016-10-15 13:36:55,376 Total videos: 7433
+2016-10-15 13:36:55,380 Analyzing channel: mindjuice
+2016-10-15 13:37:18,468 Saving to file...
+2016-10-15 13:37:18,469 Total channel videos: 20
+2016-10-15 13:37:18,489 Saving finished.
+2016-10-15 13:37:27,616 Saving to file...
+2016-10-15 13:37:27,616 Total channel videos: 20
+2016-10-15 13:37:27,668 Saving finished.
+2016-10-15 13:37:27,668 Total videos: 7453
+2016-10-15 13:37:27,669 Analyzing channel: ceiga
+2016-10-15 13:38:00,284 Saving to file...
+2016-10-15 13:38:00,284 Total channel videos: 29
+2016-10-15 13:38:00,311 Saving finished.
+2016-10-15 13:38:27,692 Saving to file...
+2016-10-15 13:38:27,692 Total channel videos: 29
+2016-10-15 13:38:27,759 Saving finished.
+2016-10-15 13:38:56,636 Saving to file...
+2016-10-15 13:38:56,636 Total channel videos: 29
+2016-10-15 13:38:56,702 Saving finished.
+2016-10-15 13:39:27,183 Saving to file...
+2016-10-15 13:39:27,184 Total channel videos: 29
+2016-10-15 13:39:27,249 Saving finished.
+2016-10-15 13:39:55,638 Saving to file...
+2016-10-15 13:39:55,639 Total channel videos: 29
+2016-10-15 13:39:55,682 Saving finished.
+2016-10-15 13:40:16,005 Saving to file...
+2016-10-15 13:40:16,006 Total channel videos: 29
+2016-10-15 13:40:16,075 Saving finished.
+2016-10-15 13:40:16,075 Total videos: 7482
+2016-10-15 13:40:16,076 Analyzing channel: comedy
+2016-10-15 13:40:37,619 Saving to file...
+2016-10-15 13:40:37,619 Total channel videos: 0
+2016-10-15 13:40:37,619 Saving finished.
+2016-10-15 13:40:46,394 Saving to file...
+2016-10-15 13:40:46,394 Total channel videos: 0
+2016-10-15 13:40:46,394 Saving finished.
+2016-10-15 13:40:46,395 Total videos: 7482
+2016-10-15 13:40:46,395 Analyzing channel: welikeitindietv
+2016-10-15 13:41:14,887 Saving to file...
+2016-10-15 13:41:14,887 Total channel videos: 26
+2016-10-15 13:41:14,910 Saving finished.
+2016-10-15 13:41:40,374 Saving to file...
+2016-10-15 13:41:40,374 Total channel videos: 26
+2016-10-15 13:41:40,424 Saving finished.
+2016-10-15 13:42:03,172 Saving to file...
+2016-10-15 13:42:03,172 Total channel videos: 26
+2016-10-15 13:42:03,253 Saving finished.
+2016-10-15 13:42:31,368 Saving to file...
+2016-10-15 13:42:31,368 Total channel videos: 26
+2016-10-15 13:42:31,427 Saving finished.
+2016-10-15 13:42:32,670 Saving to file...
+2016-10-15 13:42:32,670 Total channel videos: 26
+2016-10-15 13:42:32,720 Saving finished.
+2016-10-15 13:42:32,720 Total videos: 7508
+2016-10-15 13:42:32,721 Analyzing channel: pegbarandgrill
+2016-10-15 13:43:01,261 Saving to file...
+2016-10-15 13:43:01,261 Total channel videos: 239
+2016-10-15 13:43:01,383 Saving finished.
+2016-10-15 13:43:24,114 Saving to file...
+2016-10-15 13:43:24,114 Total channel videos: 239
+2016-10-15 13:43:24,276 Saving finished.
+2016-10-15 13:43:51,088 Saving to file...
+2016-10-15 13:43:51,089 Total channel videos: 239
+2016-10-15 13:43:51,254 Saving finished.
+2016-10-15 13:44:15,110 Saving to file...
+2016-10-15 13:44:15,111 Total channel videos: 239
+2016-10-15 13:44:15,276 Saving finished.
+2016-10-15 13:44:39,473 Saving to file...
+2016-10-15 13:44:39,473 Total channel videos: 239
+2016-10-15 13:44:39,629 Saving finished.
+2016-10-15 13:44:51,706 Saving to file...
+2016-10-15 13:44:51,706 Total channel videos: 239
+2016-10-15 13:44:51,867 Saving finished.
+2016-10-15 13:44:51,867 Total videos: 7747
+2016-10-15 13:44:51,870 Analyzing channel: accentfeed
+2016-10-15 13:45:19,650 Saving to file...
+2016-10-15 13:45:19,651 Total channel videos: 34
+2016-10-15 13:45:19,682 Saving finished.
+2016-10-15 13:45:52,784 Saving to file...
+2016-10-15 13:45:52,784 Total channel videos: 34
+2016-10-15 13:45:52,850 Saving finished.
+2016-10-15 13:45:56,956 Saving to file...
+2016-10-15 13:45:56,956 Total channel videos: 34
+2016-10-15 13:45:57,031 Saving finished.
+2016-10-15 13:45:57,031 Total videos: 7781
+2016-10-15 13:45:57,033 Analyzing channel: animade
+2016-10-15 13:46:23,086 Saving to file...
+2016-10-15 13:46:23,086 Total channel videos: 62
+2016-10-15 13:46:23,127 Saving finished.
+2016-10-15 13:46:35,483 Saving to file...
+2016-10-15 13:46:35,483 Total channel videos: 62
+2016-10-15 13:46:35,570 Saving finished.
+2016-10-15 13:46:35,571 Total videos: 7843
+2016-10-15 13:46:35,572 Analyzing channel: iphones
+2016-10-15 13:47:04,159 Saving to file...
+2016-10-15 13:47:04,160 Total channel videos: 8
+2016-10-15 13:47:04,168 Saving finished.
+2016-10-15 13:47:11,772 Saving to file...
+2016-10-15 13:47:11,772 Total channel videos: 8
+2016-10-15 13:47:11,830 Saving finished.
+2016-10-15 13:47:11,830 Total videos: 7851
+2016-10-15 13:47:11,831 Analyzing channel: mvod
+2016-10-15 13:47:34,825 Saving to file...
+2016-10-15 13:47:34,825 Total channel videos: 7
+2016-10-15 13:47:34,831 Saving finished.
+2016-10-15 13:47:50,992 Saving to file...
+2016-10-15 13:47:50,992 Total channel videos: 7
+2016-10-15 13:47:50,997 Saving finished.
+2016-10-15 13:47:50,998 Total videos: 7858
+2016-10-15 13:47:50,998 Analyzing channel: 142575
+2016-10-15 13:47:51,644 Saving to file...
+2016-10-15 13:47:51,645 Total channel videos: 0
+2016-10-15 13:47:51,645 Saving finished.
+2016-10-15 13:47:51,645 Total videos: 7858
+2016-10-15 13:47:51,645 Analyzing channel: divertyoureyes
+2016-10-15 13:48:08,401 Saving to file...
+2016-10-15 13:48:08,401 Total channel videos: 7
+2016-10-15 13:48:08,406 Saving finished.
+2016-10-15 13:48:08,406 Total videos: 7865
+2016-10-15 13:48:08,407 Analyzing channel: kateopolis
+2016-10-15 13:48:35,999 Saving to file...
+2016-10-15 13:48:35,999 Total channel videos: 11
+2016-10-15 13:48:36,010 Saving finished.
+2016-10-15 13:49:04,173 Saving to file...
+2016-10-15 13:49:04,173 Total channel videos: 11
+2016-10-15 13:49:04,233 Saving finished.
+2016-10-15 13:49:31,511 Saving to file...
+2016-10-15 13:49:31,512 Total channel videos: 11
+2016-10-15 13:49:31,572 Saving finished.
+2016-10-15 13:49:34,050 Saving to file...
+2016-10-15 13:49:34,050 Total channel videos: 11
+2016-10-15 13:49:34,060 Saving finished.
+2016-10-15 13:49:34,060 Total videos: 7876
+2016-10-15 13:49:34,061 Analyzing channel: ladieswithlenses
+2016-10-15 13:49:48,113 Saving to file...
+2016-10-15 13:49:48,114 Total channel videos: 86
+2016-10-15 13:49:48,169 Saving finished.
+2016-10-15 13:49:48,169 Total videos: 7962
+2016-10-15 13:49:48,171 Analyzing channel: kuriositas
+2016-10-15 13:50:19,315 Saving to file...
+2016-10-15 13:50:19,315 Total channel videos: 99
+2016-10-15 13:50:19,396 Saving finished.
+2016-10-15 13:50:45,890 Saving to file...
+2016-10-15 13:50:45,891 Total channel videos: 99
+2016-10-15 13:50:46,020 Saving finished.
+2016-10-15 13:51:16,047 Saving to file...
+2016-10-15 13:51:16,047 Total channel videos: 99
+2016-10-15 13:51:16,159 Saving finished.
+2016-10-15 13:51:16,159 Saving to file...
+2016-10-15 13:51:16,159 Total channel videos: 99
+2016-10-15 13:51:16,247 Saving finished.
+2016-10-15 13:51:16,247 Total videos: 8061
+2016-10-15 13:51:16,249 Analyzing channel: radiosoulwax
+2016-10-15 13:51:17,592 Saving to file...
+2016-10-15 13:51:17,592 Total channel videos: 0
+2016-10-15 13:51:17,592 Saving finished.
+2016-10-15 13:51:17,592 Total videos: 8061
+2016-10-15 13:51:17,593 Analyzing channel: lipdub
+2016-10-15 13:51:26,161 Saving to file...
+2016-10-15 13:51:26,161 Total channel videos: 0
+2016-10-15 13:51:26,162 Saving finished.
+2016-10-15 13:51:26,162 Total videos: 8061
+2016-10-15 13:51:26,163 Analyzing channel: elementalproject
+2016-10-15 13:51:27,113 Saving to file...
+2016-10-15 13:51:27,113 Total channel videos: 0
+2016-10-15 13:51:27,113 Saving finished.
+2016-10-15 13:51:27,113 Total videos: 8061
+2016-10-15 13:51:27,114 Analyzing channel: snakedust
+2016-10-15 13:51:53,034 Saving to file...
+2016-10-15 13:51:53,034 Total channel videos: 64
+2016-10-15 13:51:53,079 Saving finished.
+2016-10-15 13:52:17,009 Saving to file...
+2016-10-15 13:52:17,010 Total channel videos: 64
+2016-10-15 13:52:17,099 Saving finished.
+2016-10-15 13:52:17,099 Total videos: 8125
+2016-10-15 13:52:17,100 Analyzing channel: musicbed
+2016-10-15 13:52:29,590 Saving to file...
+2016-10-15 13:52:29,590 Total channel videos: 30
+2016-10-15 13:52:29,617 Saving finished.
+2016-10-15 13:52:29,617 Total videos: 8155
+2016-10-15 13:52:29,618 Analyzing channel: challengewinners
+2016-10-15 13:52:40,700 Saving to file...
+2016-10-15 13:52:40,700 Total channel videos: 17
+2016-10-15 13:52:40,713 Saving finished.
+2016-10-15 13:52:40,713 Total videos: 8172
+2016-10-15 13:52:40,714 Analyzing channel: tributes
+2016-10-15 13:52:42,046 Saving to file...
+2016-10-15 13:52:42,046 Total channel videos: 0
+2016-10-15 13:52:42,046 Saving finished.
+2016-10-15 13:52:42,046 Total videos: 8172
+2016-10-15 13:52:42,047 Analyzing channel: news
+2016-10-15 13:52:43,439 Saving to file...
+2016-10-15 13:52:43,439 Total channel videos: 0
+2016-10-15 13:52:43,439 Saving finished.
+2016-10-15 13:52:43,439 Total videos: 8172
+2016-10-15 13:52:43,440 Analyzing channel: 262204
+2016-10-15 13:53:05,737 Saving to file...
+2016-10-15 13:53:05,738 Total channel videos: 41
+2016-10-15 13:53:05,770 Saving finished.
+2016-10-15 13:53:05,770 Total videos: 8213
+2016-10-15 13:53:05,771 Analyzing channel: cameo
+2016-10-15 13:53:06,789 Saving to file...
+2016-10-15 13:53:06,789 Total channel videos: 4
+2016-10-15 13:53:06,791 Saving finished.
+2016-10-15 13:53:06,791 Total videos: 8217
+2016-10-15 13:53:06,792 Analyzing channel: 101
+2016-10-15 13:53:16,665 Saving to file...
+2016-10-15 13:53:16,666 Total channel videos: 0
+2016-10-15 13:53:16,666 Saving finished.
+2016-10-15 13:53:16,666 Total videos: 8217
+2016-10-15 13:53:16,667 Analyzing channel: theshoeboxworld
+2016-10-15 13:53:19,358 Saving to file...
+2016-10-15 13:53:19,358 Total channel videos: 0
+2016-10-15 13:53:19,359 Saving finished.
+2016-10-15 13:53:19,359 Total videos: 8217
+2016-10-15 13:53:19,359 Analyzing channel: serialboxpresents
+2016-10-15 13:53:20,708 Saving to file...
+2016-10-15 13:53:20,708 Total channel videos: 0
+2016-10-15 13:53:20,709 Saving finished.
+2016-10-15 13:53:20,709 Total videos: 8217
+2016-10-15 13:53:20,709 Analyzing channel: thepowerofwords
+2016-10-15 13:53:21,207 Saving to file...
+2016-10-15 13:53:21,207 Total channel videos: 0
+2016-10-15 13:53:21,207 Saving finished.
+2016-10-15 13:53:21,207 Total videos: 8217
+2016-10-15 13:53:21,207 Analyzing channel: buildporn
+2016-10-15 13:53:22,006 Saving to file...
+2016-10-15 13:53:22,006 Total channel videos: 1
+2016-10-15 13:53:22,007 Saving finished.
+2016-10-15 13:53:22,007 Total videos: 8218
+2016-10-15 13:53:22,008 Analyzing channel: theoutline
+2016-10-15 13:53:22,601 Saving to file...
+2016-10-15 13:53:22,601 Total channel videos: 0
+2016-10-15 13:53:22,601 Saving finished.
+2016-10-15 13:53:22,601 Total videos: 8218
+2016-10-15 13:53:22,601 Analyzing channel: originals
+2016-10-15 13:53:23,315 Saving to file...
+2016-10-15 13:53:23,315 Total channel videos: 8
+2016-10-15 13:53:23,322 Saving finished.
+2016-10-15 13:53:23,322 Total videos: 8226
+2016-10-15 13:53:23,322 Analyzing channel: vimeopodcast
+2016-10-15 13:53:24,064 Saving to file...
+2016-10-15 13:53:24,065 Total channel videos: 14
+2016-10-15 13:53:24,072 Saving finished.
+2016-10-15 13:53:24,072 Total videos: 8240
+2016-10-15 13:53:24,072 Crawling finished.
+2016-10-16 09:58:34,252 Start crawling
+2016-10-16 09:58:34,253 Analyzing channel: staffpicks
+2016-10-16 09:58:59,909 Saving to file...
+2016-10-16 09:58:59,909 Total channel videos: 361
+2016-10-16 09:59:00,142 Saving finished.
+2016-10-16 09:59:27,524 Saving to file...
+2016-10-16 09:59:27,524 Total channel videos: 822
+2016-10-16 09:59:27,976 Saving finished.
+2016-10-16 09:59:51,529 Saving to file...
+2016-10-16 09:59:51,529 Total channel videos: 1096
+2016-10-16 09:59:52,098 Saving finished.
+2016-10-16 10:00:20,263 Saving to file...
+2016-10-16 10:00:20,263 Total channel videos: 1096
+2016-10-16 10:00:20,852 Saving finished.
+2016-10-16 10:00:50,120 Saving to file...
+2016-10-16 10:00:50,120 Total channel videos: 1096
+2016-10-16 10:00:50,705 Saving finished.
+2016-10-16 10:01:19,422 Saving to file...
+2016-10-16 10:01:19,422 Total channel videos: 1096
+2016-10-16 10:01:19,999 Saving finished.
+2016-10-16 10:01:47,391 Saving to file...
+2016-10-16 10:01:47,391 Total channel videos: 1096
+2016-10-16 10:01:47,969 Saving finished.
+2016-10-16 10:02:13,861 Saving to file...
+2016-10-16 10:02:13,862 Total channel videos: 1096
+2016-10-16 10:02:14,427 Saving finished.
+2016-10-16 10:02:40,521 Saving to file...
+2016-10-16 10:02:40,522 Total channel videos: 1096
+2016-10-16 10:02:41,086 Saving finished.
+2016-10-16 10:03:14,030 Saving to file...
+2016-10-16 10:03:14,030 Total channel videos: 1096
+2016-10-16 10:03:14,597 Saving finished.
+2016-10-16 10:03:43,895 Saving to file...
+2016-10-16 10:03:43,895 Total channel videos: 1096
+2016-10-16 10:03:44,473 Saving finished.
+2016-10-16 10:04:13,268 Saving to file...
+2016-10-16 10:04:13,268 Total channel videos: 1096
+2016-10-16 10:04:13,827 Saving finished.
+2016-10-16 10:04:43,287 Saving to file...
+2016-10-16 10:04:43,288 Total channel videos: 1096
+2016-10-16 10:04:43,865 Saving finished.
+2016-10-16 10:05:12,623 Saving to file...
+2016-10-16 10:05:12,623 Total channel videos: 1096
+2016-10-16 10:05:13,196 Saving finished.
+2016-10-16 10:05:41,772 Saving to file...
+2016-10-16 10:05:41,773 Total channel videos: 1096
+2016-10-16 10:05:42,330 Saving finished.
+2016-10-16 10:06:10,148 Saving to file...
+2016-10-16 10:06:10,148 Total channel videos: 1096
+2016-10-16 10:06:10,711 Saving finished.
+2016-10-16 10:06:41,693 Saving to file...
+2016-10-16 10:06:41,693 Total channel videos: 1096
+2016-10-16 10:06:42,242 Saving finished.
+2016-10-16 10:07:10,572 Saving to file...
+2016-10-16 10:07:10,573 Total channel videos: 1096
+2016-10-16 10:07:11,137 Saving finished.
+2016-10-16 10:07:40,045 Saving to file...
+2016-10-16 10:07:40,045 Total channel videos: 1096
+2016-10-16 10:07:40,618 Saving finished.
+2016-10-16 10:08:14,660 Saving to file...
+2016-10-16 10:08:14,661 Total channel videos: 1096
+2016-10-16 10:08:15,235 Saving finished.
+2016-10-16 10:08:41,710 Saving to file...
+2016-10-16 10:08:41,710 Total channel videos: 1096
+2016-10-16 10:08:42,284 Saving finished.
+2016-10-16 10:09:09,875 Saving to file...
+2016-10-16 10:09:09,875 Total channel videos: 1096
+2016-10-16 10:09:10,467 Saving finished.
+2016-10-16 10:09:10,467 Total videos: 1096
+2016-10-16 10:09:10,500 Analyzing channel: documentaryfilm
+2016-10-16 10:09:33,326 Saving to file...
+2016-10-16 10:09:33,326 Total channel videos: 0
+2016-10-16 10:09:33,376 Saving finished.
+2016-10-16 10:09:44,110 Saving to file...
+2016-10-16 10:09:44,110 Total channel videos: 0
+2016-10-16 10:09:44,110 Saving finished.
+2016-10-16 10:09:44,110 Total videos: 1096
+2016-10-16 10:09:44,111 Analyzing channel: everythinganimated
+2016-10-16 10:10:12,401 Saving to file...
+2016-10-16 10:10:12,401 Total channel videos: 163
+2016-10-16 10:10:12,550 Saving finished.
+2016-10-16 10:10:37,083 Saving to file...
+2016-10-16 10:10:37,083 Total channel videos: 163
+2016-10-16 10:10:37,212 Saving finished.
+2016-10-16 10:11:03,523 Saving to file...
+2016-10-16 10:11:03,523 Total channel videos: 163
+2016-10-16 10:11:03,661 Saving finished.
+2016-10-16 10:11:32,900 Saving to file...
+2016-10-16 10:11:32,900 Total channel videos: 163
+2016-10-16 10:11:33,047 Saving finished.
+2016-10-16 10:12:06,076 Saving to file...
+2016-10-16 10:12:06,076 Total channel videos: 163
+2016-10-16 10:12:06,223 Saving finished.
+2016-10-16 10:12:35,351 Saving to file...
+2016-10-16 10:12:35,351 Total channel videos: 163
+2016-10-16 10:12:35,500 Saving finished.
+2016-10-16 10:13:07,729 Saving to file...
+2016-10-16 10:13:07,730 Total channel videos: 163
+2016-10-16 10:13:07,843 Saving finished.
+2016-10-16 10:13:11,091 Saving to file...
+2016-10-16 10:13:11,091 Total channel videos: 163
+2016-10-16 10:13:11,242 Saving finished.
+2016-10-16 10:13:11,242 Total videos: 1259
+2016-10-16 10:13:11,245 Analyzing channel: nicetype
+2016-10-16 10:13:42,486 Saving to file...
+2016-10-16 10:13:42,487 Total channel videos: 52
+2016-10-16 10:13:42,563 Saving finished.
+2016-10-16 10:14:04,734 Saving to file...
+2016-10-16 10:14:04,734 Total channel videos: 52
+2016-10-16 10:14:04,815 Saving finished.
+2016-10-16 10:14:04,816 Total videos: 1311
+2016-10-16 10:14:04,817 Analyzing channel: 1nspirational
+2016-10-16 10:14:28,983 Saving to file...
+2016-10-16 10:14:28,983 Total channel videos: 35
+2016-10-16 10:14:29,046 Saving finished.
+2016-10-16 10:14:55,419 Saving to file...
+2016-10-16 10:14:55,419 Total channel videos: 35
+2016-10-16 10:14:55,483 Saving finished.
+2016-10-16 10:15:24,367 Saving to file...
+2016-10-16 10:15:24,368 Total channel videos: 35
+2016-10-16 10:15:24,437 Saving finished.
+2016-10-16 10:15:50,512 Saving to file...
+2016-10-16 10:15:50,512 Total channel videos: 35
+2016-10-16 10:15:50,575 Saving finished.
+2016-10-16 10:16:15,348 Saving to file...
+2016-10-16 10:16:15,348 Total channel videos: 35
+2016-10-16 10:16:15,414 Saving finished.
+2016-10-16 10:16:45,290 Saving to file...
+2016-10-16 10:16:45,290 Total channel videos: 35
+2016-10-16 10:16:45,360 Saving finished.
+2016-10-16 10:16:45,360 Saving to file...
+2016-10-16 10:16:45,360 Total channel videos: 35
+2016-10-16 10:16:45,389 Saving finished.
+2016-10-16 10:16:45,389 Total videos: 1346
+2016-10-16 10:16:45,390 Analyzing channel: shortoftheweek
+2016-10-16 10:17:08,491 Saving to file...
+2016-10-16 10:17:08,492 Total channel videos: 189
+2016-10-16 10:17:08,659 Saving finished.
+2016-10-16 10:17:31,735 Saving to file...
+2016-10-16 10:17:31,736 Total channel videos: 189
+2016-10-16 10:17:31,898 Saving finished.
+2016-10-16 10:17:49,386 Saving to file...
+2016-10-16 10:17:49,386 Total channel videos: 189
+2016-10-16 10:17:49,544 Saving finished.
+2016-10-16 10:17:49,544 Total videos: 1535
+2016-10-16 10:17:49,546 Analyzing channel: 1341
+2016-10-16 10:18:17,868 Saving to file...
+2016-10-16 10:18:17,869 Total channel videos: 227
+2016-10-16 10:18:18,078 Saving finished.
+2016-10-16 10:18:46,364 Saving to file...
+2016-10-16 10:18:46,364 Total channel videos: 227
+2016-10-16 10:18:46,572 Saving finished.
+2016-10-16 10:19:22,049 Saving to file...
+2016-10-16 10:19:22,049 Total channel videos: 227
+2016-10-16 10:19:22,255 Saving finished.
+2016-10-16 10:19:52,557 Saving to file...
+2016-10-16 10:19:52,557 Total channel videos: 227
+2016-10-16 10:19:52,774 Saving finished.
+2016-10-16 10:20:28,101 Saving to file...
+2016-10-16 10:20:28,102 Total channel videos: 227
+2016-10-16 10:20:28,312 Saving finished.
+2016-10-16 10:20:57,086 Saving to file...
+2016-10-16 10:20:57,087 Total channel videos: 227
+2016-10-16 10:20:57,315 Saving finished.
+2016-10-16 10:21:28,068 Saving to file...
+2016-10-16 10:21:28,069 Total channel videos: 227
+2016-10-16 10:21:28,273 Saving finished.
+2016-10-16 10:21:57,101 Saving to file...
+2016-10-16 10:21:57,101 Total channel videos: 227
+2016-10-16 10:21:57,317 Saving finished.
+2016-10-16 10:22:39,716 Saving to file...
+2016-10-16 10:22:39,716 Total channel videos: 227
+2016-10-16 10:22:39,928 Saving finished.
+2016-10-16 10:23:12,169 Saving to file...
+2016-10-16 10:23:12,169 Total channel videos: 227
+2016-10-16 10:23:12,365 Saving finished.
+2016-10-16 10:23:47,476 Saving to file...
+2016-10-16 10:23:47,476 Total channel videos: 227
+2016-10-16 10:23:47,684 Saving finished.
+2016-10-16 10:24:18,755 Saving to file...
+2016-10-16 10:24:18,755 Total channel videos: 227
+2016-10-16 10:24:18,975 Saving finished.
+2016-10-16 10:24:29,084 Saving to file...
+2016-10-16 10:24:29,085 Total channel videos: 227
+2016-10-16 10:24:29,302 Saving finished.
+2016-10-16 10:24:29,302 Total videos: 1762
+2016-10-16 10:24:29,308 Analyzing channel: 31259
+2016-10-16 10:24:56,531 Saving to file...
+2016-10-16 10:24:56,531 Total channel videos: 50
+2016-10-16 10:24:56,622 Saving finished.
+2016-10-16 10:25:23,798 Saving to file...
+2016-10-16 10:25:23,799 Total channel videos: 50
+2016-10-16 10:25:23,893 Saving finished.
+2016-10-16 10:25:23,893 Total videos: 1812
+2016-10-16 10:25:23,895 Analyzing channel: pmg
+2016-10-16 10:25:44,148 Saving to file...
+2016-10-16 10:25:44,149 Total channel videos: 9
+2016-10-16 10:25:44,198 Saving finished.
+2016-10-16 10:25:44,198 Total videos: 1821
+2016-10-16 10:25:44,199 Analyzing channel: worldhd
+2016-10-16 10:26:11,785 Saving to file...
+2016-10-16 10:26:11,785 Total channel videos: 387
+2016-10-16 10:26:12,079 Saving finished.
+2016-10-16 10:26:38,667 Saving to file...
+2016-10-16 10:26:38,667 Total channel videos: 854
+2016-10-16 10:26:39,249 Saving finished.
+2016-10-16 10:27:18,795 Saving to file...
+2016-10-16 10:27:18,796 Total channel videos: 1195
+2016-10-16 10:27:19,568 Saving finished.
+2016-10-16 10:27:43,499 Saving to file...
+2016-10-16 10:27:43,499 Total channel videos: 1195
+2016-10-16 10:27:44,271 Saving finished.
+2016-10-16 10:28:10,904 Saving to file...
+2016-10-16 10:28:10,905 Total channel videos: 1195
+2016-10-16 10:28:11,670 Saving finished.
+2016-10-16 10:28:36,843 Saving to file...
+2016-10-16 10:28:36,843 Total channel videos: 1195
+2016-10-16 10:28:37,597 Saving finished.
+2016-10-16 10:29:07,826 Saving to file...
+2016-10-16 10:29:07,826 Total channel videos: 1195
+2016-10-16 10:29:08,597 Saving finished.
+2016-10-16 10:29:41,266 Saving to file...
+2016-10-16 10:29:41,266 Total channel videos: 1195
+2016-10-16 10:29:42,017 Saving finished.
+2016-10-16 10:30:16,152 Saving to file...
+2016-10-16 10:30:16,152 Total channel videos: 1195
+2016-10-16 10:30:16,925 Saving finished.
+2016-10-16 10:30:48,710 Saving to file...
+2016-10-16 10:30:48,710 Total channel videos: 1195
+2016-10-16 10:30:49,474 Saving finished.
+2016-10-16 10:31:28,925 Saving to file...
+2016-10-16 10:31:28,925 Total channel videos: 1195
+2016-10-16 10:31:29,693 Saving finished.
+2016-10-16 10:31:59,270 Saving to file...
+2016-10-16 10:31:59,271 Total channel videos: 1195
+2016-10-16 10:31:59,995 Saving finished.
+2016-10-16 10:32:27,797 Saving to file...
+2016-10-16 10:32:27,797 Total channel videos: 1195
+2016-10-16 10:32:28,577 Saving finished.
+2016-10-16 10:32:56,869 Saving to file...
+2016-10-16 10:32:56,870 Total channel videos: 1195
+2016-10-16 10:32:57,621 Saving finished.
+2016-10-16 10:33:26,805 Saving to file...
+2016-10-16 10:33:26,805 Total channel videos: 1195
+2016-10-16 10:33:27,590 Saving finished.
+2016-10-16 10:33:58,473 Saving to file...
+2016-10-16 10:33:58,474 Total channel videos: 1195
+2016-10-16 10:33:59,236 Saving finished.
+2016-10-16 10:34:37,434 Saving to file...
+2016-10-16 10:34:37,434 Total channel videos: 1195
+2016-10-16 10:34:38,214 Saving finished.
+2016-10-16 10:35:11,043 Saving to file...
+2016-10-16 10:35:11,044 Total channel videos: 1195
+2016-10-16 10:35:11,800 Saving finished.
+2016-10-16 10:35:43,423 Saving to file...
+2016-10-16 10:35:43,423 Total channel videos: 1195
+2016-10-16 10:35:44,174 Saving finished.
+2016-10-16 10:36:17,734 Saving to file...
+2016-10-16 10:36:17,735 Total channel videos: 1195
+2016-10-16 10:36:18,497 Saving finished.
+2016-10-16 10:36:53,126 Saving to file...
+2016-10-16 10:36:53,127 Total channel videos: 1195
+2016-10-16 10:36:53,896 Saving finished.
+2016-10-16 10:37:24,557 Saving to file...
+2016-10-16 10:37:24,557 Total channel videos: 1195
+2016-10-16 10:37:25,317 Saving finished.
+2016-10-16 10:37:57,886 Saving to file...
+2016-10-16 10:37:57,886 Total channel videos: 1195
+2016-10-16 10:37:58,633 Saving finished.
+2016-10-16 10:38:29,480 Saving to file...
+2016-10-16 10:38:29,480 Total channel videos: 1195
+2016-10-16 10:38:30,218 Saving finished.
+2016-10-16 10:39:02,991 Saving to file...
+2016-10-16 10:39:02,991 Total channel videos: 1195
+2016-10-16 10:39:03,733 Saving finished.
+2016-10-16 10:39:43,109 Saving to file...
+2016-10-16 10:39:43,109 Total channel videos: 1195
+2016-10-16 10:39:43,876 Saving finished.
+2016-10-16 10:40:19,642 Saving to file...
+2016-10-16 10:40:19,643 Total channel videos: 1195
+2016-10-16 10:40:20,401 Saving finished.
+2016-10-16 10:40:56,366 Saving to file...
+2016-10-16 10:40:56,366 Total channel videos: 1195
+2016-10-16 10:40:57,149 Saving finished.
+2016-10-16 10:41:30,966 Saving to file...
+2016-10-16 10:41:30,966 Total channel videos: 1195
+2016-10-16 10:41:31,726 Saving finished.
+2016-10-16 10:41:40,145 Saving to file...
+2016-10-16 10:41:40,145 Total channel videos: 1195
+2016-10-16 10:41:40,910 Saving finished.
+2016-10-16 10:41:40,910 Total videos: 3016
+2016-10-16 10:41:40,952 Analyzing channel: fubiz
+2016-10-16 10:42:08,426 Saving to file...
+2016-10-16 10:42:08,427 Total channel videos: 73
+2016-10-16 10:42:08,528 Saving finished.
+2016-10-16 10:42:34,234 Saving to file...
+2016-10-16 10:42:34,234 Total channel videos: 73
+2016-10-16 10:42:34,333 Saving finished.
+2016-10-16 10:42:56,045 Saving to file...
+2016-10-16 10:42:56,046 Total channel videos: 73
+2016-10-16 10:42:56,148 Saving finished.
+2016-10-16 10:43:23,241 Saving to file...
+2016-10-16 10:43:23,242 Total channel videos: 73
+2016-10-16 10:43:23,347 Saving finished.
+2016-10-16 10:43:42,817 Saving to file...
+2016-10-16 10:43:42,818 Total channel videos: 73
+2016-10-16 10:43:42,916 Saving finished.
+2016-10-16 10:43:42,917 Total videos: 3089
+2016-10-16 10:43:42,919 Analyzing channel: wineaftercoffee
+2016-10-16 10:44:09,467 Saving to file...
+2016-10-16 10:44:09,468 Total channel videos: 421
+2016-10-16 10:44:09,706 Saving finished.
+2016-10-16 10:44:33,468 Saving to file...
+2016-10-16 10:44:33,468 Total channel videos: 669
+2016-10-16 10:44:33,815 Saving finished.
+2016-10-16 10:45:00,346 Saving to file...
+2016-10-16 10:45:00,346 Total channel videos: 669
+2016-10-16 10:45:00,689 Saving finished.
+2016-10-16 10:45:34,116 Saving to file...
+2016-10-16 10:45:34,117 Total channel videos: 669
+2016-10-16 10:45:34,457 Saving finished.
+2016-10-16 10:46:01,089 Saving to file...
+2016-10-16 10:46:01,089 Total channel videos: 669
+2016-10-16 10:46:01,437 Saving finished.
+2016-10-16 10:46:32,622 Saving to file...
+2016-10-16 10:46:32,622 Total channel videos: 669
+2016-10-16 10:46:32,965 Saving finished.
+2016-10-16 10:47:05,922 Saving to file...
+2016-10-16 10:47:05,922 Total channel videos: 669
+2016-10-16 10:47:06,279 Saving finished.
+2016-10-16 10:47:28,810 Saving to file...
+2016-10-16 10:47:28,810 Total channel videos: 669
+2016-10-16 10:47:29,127 Saving finished.
+2016-10-16 10:47:29,127 Saving to file...
+2016-10-16 10:47:29,127 Total channel videos: 669
+2016-10-16 10:47:29,477 Saving finished.
+2016-10-16 10:47:29,478 Total videos: 3758
+2016-10-16 10:47:29,492 Analyzing channel: demoreels
+2016-10-16 10:47:58,726 Saving to file...
+2016-10-16 10:47:58,726 Total channel videos: 1
+2016-10-16 10:47:58,771 Saving finished.
+2016-10-16 10:48:06,237 Saving to file...
+2016-10-16 10:48:06,237 Total channel videos: 1
+2016-10-16 10:48:06,280 Saving finished.
+2016-10-16 10:48:06,281 Total videos: 3759
+2016-10-16 10:48:06,281 Analyzing channel: iphonehd
+2016-10-16 10:48:34,086 Saving to file...
+2016-10-16 10:48:34,086 Total channel videos: 35
+2016-10-16 10:48:34,173 Saving finished.
+2016-10-16 10:48:46,845 Saving to file...
+2016-10-16 10:48:46,846 Total channel videos: 35
+2016-10-16 10:48:46,922 Saving finished.
+2016-10-16 10:48:46,923 Total videos: 3794
+2016-10-16 10:48:46,923 Analyzing channel: wearedn
+2016-10-16 10:49:10,060 Saving to file...
+2016-10-16 10:49:10,060 Total channel videos: 398
+2016-10-16 10:49:10,312 Saving finished.
+2016-10-16 10:49:34,595 Saving to file...
+2016-10-16 10:49:34,595 Total channel videos: 398
+2016-10-16 10:49:34,861 Saving finished.
+2016-10-16 10:50:02,873 Saving to file...
+2016-10-16 10:50:02,873 Total channel videos: 398
+2016-10-16 10:50:03,125 Saving finished.
+2016-10-16 10:50:37,139 Saving to file...
+2016-10-16 10:50:37,140 Total channel videos: 398
+2016-10-16 10:50:37,393 Saving finished.
+2016-10-16 10:51:08,707 Saving to file...
+2016-10-16 10:51:08,707 Total channel videos: 398
+2016-10-16 10:51:08,965 Saving finished.
+2016-10-16 10:51:36,506 Saving to file...
+2016-10-16 10:51:36,506 Total channel videos: 398
+2016-10-16 10:51:36,761 Saving finished.
+2016-10-16 10:52:03,613 Saving to file...
+2016-10-16 10:52:03,613 Total channel videos: 398
+2016-10-16 10:52:03,869 Saving finished.
+2016-10-16 10:52:29,488 Saving to file...
+2016-10-16 10:52:29,489 Total channel videos: 398
+2016-10-16 10:52:29,745 Saving finished.
+2016-10-16 10:52:52,959 Saving to file...
+2016-10-16 10:52:52,960 Total channel videos: 398
+2016-10-16 10:52:53,216 Saving finished.
+2016-10-16 10:53:04,743 Saving to file...
+2016-10-16 10:53:04,744 Total channel videos: 398
+2016-10-16 10:53:05,007 Saving finished.
+2016-10-16 10:53:05,007 Total videos: 4192
+2016-10-16 10:53:05,016 Analyzing channel: vimeohq
+2016-10-16 10:53:20,675 Saving to file...
+2016-10-16 10:53:20,675 Total channel videos: 4
+2016-10-16 10:53:20,678 Saving finished.
+2016-10-16 10:53:20,678 Total videos: 4196
+2016-10-16 10:53:20,679 Analyzing channel: designcollector
+2016-10-16 10:53:50,787 Saving to file...
+2016-10-16 10:53:50,788 Total channel videos: 377
+2016-10-16 10:53:51,050 Saving finished.
+2016-10-16 10:54:21,876 Saving to file...
+2016-10-16 10:54:21,876 Total channel videos: 377
+2016-10-16 10:54:22,128 Saving finished.
+2016-10-16 10:54:46,949 Saving to file...
+2016-10-16 10:54:46,949 Total channel videos: 377
+2016-10-16 10:54:47,192 Saving finished.
+2016-10-16 10:55:11,868 Saving to file...
+2016-10-16 10:55:11,868 Total channel videos: 377
+2016-10-16 10:55:12,127 Saving finished.
+2016-10-16 10:55:37,096 Saving to file...
+2016-10-16 10:55:37,097 Total channel videos: 377
+2016-10-16 10:55:37,347 Saving finished.
+2016-10-16 10:56:05,991 Saving to file...
+2016-10-16 10:56:05,992 Total channel videos: 377
+2016-10-16 10:56:06,257 Saving finished.
+2016-10-16 10:56:30,740 Saving to file...
+2016-10-16 10:56:30,741 Total channel videos: 377
+2016-10-16 10:56:30,993 Saving finished.
+2016-10-16 10:57:00,063 Saving to file...
+2016-10-16 10:57:00,063 Total channel videos: 377
+2016-10-16 10:57:00,318 Saving finished.
+2016-10-16 10:57:30,212 Saving to file...
+2016-10-16 10:57:30,213 Total channel videos: 377
+2016-10-16 10:57:30,453 Saving finished.
+2016-10-16 10:57:55,635 Saving to file...
+2016-10-16 10:57:55,636 Total channel videos: 377
+2016-10-16 10:57:55,892 Saving finished.
+2016-10-16 10:58:25,836 Saving to file...
+2016-10-16 10:58:25,837 Total channel videos: 377
+2016-10-16 10:58:26,083 Saving finished.
+2016-10-16 10:58:53,303 Saving to file...
+2016-10-16 10:58:53,304 Total channel videos: 377
+2016-10-16 10:58:53,518 Saving finished.
+2016-10-16 10:58:53,518 Saving to file...
+2016-10-16 10:58:53,518 Total channel videos: 377
+2016-10-16 10:58:53,748 Saving finished.
+2016-10-16 10:58:53,748 Total videos: 4573
+2016-10-16 10:58:53,754 Analyzing channel: musicvideoland
+2016-10-16 10:59:17,700 Saving to file...
+2016-10-16 10:59:17,700 Total channel videos: 308
+2016-10-16 10:59:17,856 Saving finished.
+2016-10-16 10:59:41,949 Saving to file...
+2016-10-16 10:59:41,949 Total channel videos: 308
+2016-10-16 10:59:42,102 Saving finished.
+2016-10-16 11:00:07,280 Saving to file...
+2016-10-16 11:00:07,280 Total channel videos: 308
+2016-10-16 11:00:07,438 Saving finished.
+2016-10-16 11:00:36,231 Saving to file...
+2016-10-16 11:00:36,231 Total channel videos: 308
+2016-10-16 11:00:36,386 Saving finished.
+2016-10-16 11:00:44,021 Saving to file...
+2016-10-16 11:00:44,021 Total channel videos: 308
+2016-10-16 11:00:44,173 Saving finished.
+2016-10-16 11:00:44,173 Total videos: 4881
+2016-10-16 11:00:44,176 Analyzing channel: soundworkscollection
+2016-10-16 11:00:50,014 Saving to file...
+2016-10-16 11:00:50,015 Total channel videos: 14
+2016-10-16 11:00:50,023 Saving finished.
+2016-10-16 11:00:50,023 Total videos: 4895
+2016-10-16 11:00:50,023 Analyzing channel: stereoscopy
+2016-10-16 11:01:26,005 Saving to file...
+2016-10-16 11:01:26,005 Total channel videos: 30
+2016-10-16 11:01:26,028 Saving finished.
+2016-10-16 11:01:50,031 Saving to file...
+2016-10-16 11:01:50,032 Total channel videos: 30
+2016-10-16 11:01:50,056 Saving finished.
+2016-10-16 11:02:17,556 Saving to file...
+2016-10-16 11:02:17,556 Total channel videos: 30
+2016-10-16 11:02:17,580 Saving finished.
+2016-10-16 11:02:52,117 Saving to file...
+2016-10-16 11:02:52,117 Total channel videos: 30
+2016-10-16 11:02:52,141 Saving finished.
+2016-10-16 11:02:53,920 Saving to file...
+2016-10-16 11:02:53,920 Total channel videos: 30
+2016-10-16 11:02:53,943 Saving finished.
+2016-10-16 11:02:53,944 Total videos: 4925
+2016-10-16 11:02:53,945 Analyzing channel: booooooom
+2016-10-16 11:03:19,141 Saving to file...
+2016-10-16 11:03:19,141 Total channel videos: 425
+2016-10-16 11:03:19,347 Saving finished.
+2016-10-16 11:03:51,020 Saving to file...
+2016-10-16 11:03:51,020 Total channel videos: 425
+2016-10-16 11:03:51,215 Saving finished.
+2016-10-16 11:04:16,193 Saving to file...
+2016-10-16 11:04:16,194 Total channel videos: 425
+2016-10-16 11:04:16,410 Saving finished.
+2016-10-16 11:04:16,410 Total videos: 5350
+2016-10-16 11:04:16,416 Analyzing channel: thosewhomake
+2016-10-16 11:04:39,123 Saving to file...
+2016-10-16 11:04:39,124 Total channel videos: 6
+2016-10-16 11:04:39,131 Saving finished.
+2016-10-16 11:04:39,131 Total videos: 5356
+2016-10-16 11:04:39,132 Analyzing channel: motionographer
+2016-10-16 11:05:09,634 Saving to file...
+2016-10-16 11:05:09,635 Total channel videos: 462
+2016-10-16 11:05:09,858 Saving finished.
+2016-10-16 11:05:36,050 Saving to file...
+2016-10-16 11:05:36,050 Total channel videos: 705
+2016-10-16 11:05:36,373 Saving finished.
+2016-10-16 11:06:02,312 Saving to file...
+2016-10-16 11:06:02,313 Total channel videos: 705
+2016-10-16 11:06:02,638 Saving finished.
+2016-10-16 11:06:24,950 Saving to file...
+2016-10-16 11:06:24,951 Total channel videos: 705
+2016-10-16 11:06:25,280 Saving finished.
+2016-10-16 11:06:28,372 Saving to file...
+2016-10-16 11:06:28,372 Total channel videos: 705
+2016-10-16 11:06:28,709 Saving finished.
+2016-10-16 11:06:28,709 Total videos: 6061
+2016-10-16 11:06:28,720 Analyzing channel: shootingpeople
+2016-10-16 11:06:34,969 Saving to file...
+2016-10-16 11:06:34,969 Total channel videos: 0
+2016-10-16 11:06:34,970 Saving finished.
+2016-10-16 11:06:34,970 Total videos: 6061
+2016-10-16 11:06:34,970 Analyzing channel: 238295
+2016-10-16 11:06:59,952 Saving to file...
+2016-10-16 11:06:59,952 Total channel videos: 84
+2016-10-16 11:07:00,008 Saving finished.
+2016-10-16 11:07:25,168 Saving to file...
+2016-10-16 11:07:25,168 Total channel videos: 84
+2016-10-16 11:07:25,225 Saving finished.
+2016-10-16 11:07:53,831 Saving to file...
+2016-10-16 11:07:53,832 Total channel videos: 84
+2016-10-16 11:07:53,896 Saving finished.
+2016-10-16 11:08:22,987 Saving to file...
+2016-10-16 11:08:22,987 Total channel videos: 84
+2016-10-16 11:08:23,047 Saving finished.
+2016-10-16 11:08:47,486 Saving to file...
+2016-10-16 11:08:47,486 Total channel videos: 84
+2016-10-16 11:08:47,540 Saving finished.
+2016-10-16 11:08:48,868 Saving to file...
+2016-10-16 11:08:48,869 Total channel videos: 84
+2016-10-16 11:08:48,924 Saving finished.
+2016-10-16 11:08:48,924 Total videos: 6145
+2016-10-16 11:08:48,925 Analyzing channel: whitehouse
+2016-10-16 11:09:10,512 Saving to file...
+2016-10-16 11:09:10,512 Total channel videos: 18
+2016-10-16 11:09:10,529 Saving finished.
+2016-10-16 11:09:28,915 Saving to file...
+2016-10-16 11:09:28,915 Total channel videos: 18
+2016-10-16 11:09:28,934 Saving finished.
+2016-10-16 11:09:28,934 Saving to file...
+2016-10-16 11:09:28,934 Total channel videos: 18
+2016-10-16 11:09:28,954 Saving finished.
+2016-10-16 11:09:28,954 Total videos: 6163
+2016-10-16 11:09:28,955 Analyzing channel: thecuriousbrain
+2016-10-16 11:09:57,647 Saving to file...
+2016-10-16 11:09:57,648 Total channel videos: 323
+2016-10-16 11:09:57,839 Saving finished.
+2016-10-16 11:10:25,181 Saving to file...
+2016-10-16 11:10:25,181 Total channel videos: 323
+2016-10-16 11:10:25,377 Saving finished.
+2016-10-16 11:10:50,873 Saving to file...
+2016-10-16 11:10:50,873 Total channel videos: 323
+2016-10-16 11:10:51,059 Saving finished.
+2016-10-16 11:11:16,787 Saving to file...
+2016-10-16 11:11:16,788 Total channel videos: 323
+2016-10-16 11:11:16,979 Saving finished.
+2016-10-16 11:11:40,881 Saving to file...
+2016-10-16 11:11:40,882 Total channel videos: 323
+2016-10-16 11:11:41,067 Saving finished.
+2016-10-16 11:12:06,530 Saving to file...
+2016-10-16 11:12:06,530 Total channel videos: 323
+2016-10-16 11:12:06,719 Saving finished.
+2016-10-16 11:12:35,082 Saving to file...
+2016-10-16 11:12:35,082 Total channel videos: 323
+2016-10-16 11:12:35,271 Saving finished.
+2016-10-16 11:12:35,271 Saving to file...
+2016-10-16 11:12:35,271 Total channel videos: 323
+2016-10-16 11:12:35,474 Saving finished.
+2016-10-16 11:12:35,474 Total videos: 6486
+2016-10-16 11:12:35,479 Analyzing channel: nowness
+2016-10-16 11:12:58,538 Saving to file...
+2016-10-16 11:12:58,539 Total channel videos: 0
+2016-10-16 11:12:58,566 Saving finished.
+2016-10-16 11:13:22,281 Saving to file...
+2016-10-16 11:13:22,282 Total channel videos: 0
+2016-10-16 11:13:22,322 Saving finished.
+2016-10-16 11:13:23,218 Saving to file...
+2016-10-16 11:13:23,218 Total channel videos: 0
+2016-10-16 11:13:23,218 Saving finished.
+2016-10-16 11:13:23,218 Total videos: 6486
+2016-10-16 11:13:23,219 Analyzing channel: fat
+2016-10-16 11:13:32,221 Saving to file...
+2016-10-16 11:13:32,222 Total channel videos: 0
+2016-10-16 11:13:32,222 Saving finished.
+2016-10-16 11:13:32,222 Total videos: 6486
+2016-10-16 11:13:32,223 Analyzing channel: dazed
+2016-10-16 11:13:35,879 Saving to file...
+2016-10-16 11:13:35,879 Total channel videos: 7
+2016-10-16 11:13:35,884 Saving finished.
+2016-10-16 11:13:35,885 Total videos: 6493
+2016-10-16 11:13:35,885 Analyzing channel: paragliding
+2016-10-16 11:14:11,515 Saving to file...
+2016-10-16 11:14:11,515 Total channel videos: 24
+2016-10-16 11:14:11,541 Saving finished.
+2016-10-16 11:14:39,946 Saving to file...
+2016-10-16 11:14:39,946 Total channel videos: 498
+2016-10-16 11:14:40,242 Saving finished.
+2016-10-16 11:15:16,044 Saving to file...
+2016-10-16 11:15:16,044 Total channel videos: 952
+2016-10-16 11:15:16,534 Saving finished.
+2016-10-16 11:15:50,903 Saving to file...
+2016-10-16 11:15:50,903 Total channel videos: 1417
+2016-10-16 11:15:51,595 Saving finished.
+2016-10-16 11:16:31,824 Saving to file...
+2016-10-16 11:16:31,824 Total channel videos: 1876
+2016-10-16 11:16:32,713 Saving finished.
+2016-10-16 11:17:08,836 Saving to file...
+2016-10-16 11:17:08,836 Total channel videos: 2335
+2016-10-16 11:17:09,854 Saving finished.
+2016-10-16 11:17:41,012 Saving to file...
+2016-10-16 11:17:41,012 Total channel videos: 2811
+2016-10-16 11:17:42,177 Saving finished.
+2016-10-16 11:18:14,241 Saving to file...
+2016-10-16 11:18:14,241 Total channel videos: 3269
+2016-10-16 11:18:15,560 Saving finished.
+2016-10-16 11:18:53,221 Saving to file...
+2016-10-16 11:18:53,221 Total channel videos: 3642
+2016-10-16 11:18:54,677 Saving finished.
+2016-10-16 11:19:34,883 Saving to file...
+2016-10-16 11:19:34,883 Total channel videos: 3642
+2016-10-16 11:19:36,367 Saving finished.
+2016-10-16 11:20:16,896 Saving to file...
+2016-10-16 11:20:16,897 Total channel videos: 3642
+2016-10-16 11:20:18,346 Saving finished.
+2016-10-16 11:20:52,212 Saving to file...
+2016-10-16 11:20:52,212 Total channel videos: 3642
+2016-10-16 11:20:53,717 Saving finished.
+2016-10-16 11:21:29,688 Saving to file...
+2016-10-16 11:21:29,688 Total channel videos: 3642
+2016-10-16 11:21:31,128 Saving finished.
+2016-10-16 11:22:05,580 Saving to file...
+2016-10-16 11:22:05,580 Total channel videos: 3642
+2016-10-16 11:22:07,047 Saving finished.
+2016-10-16 11:22:45,440 Saving to file...
+2016-10-16 11:22:45,440 Total channel videos: 3642
+2016-10-16 11:22:46,914 Saving finished.
+2016-10-16 11:23:24,207 Saving to file...
+2016-10-16 11:23:24,207 Total channel videos: 3642
+2016-10-16 11:23:25,656 Saving finished.
+2016-10-16 11:23:53,766 Saving to file...
+2016-10-16 11:23:53,766 Total channel videos: 3642
+2016-10-16 11:23:55,223 Saving finished.
+2016-10-16 11:24:31,543 Saving to file...
+2016-10-16 11:24:31,543 Total channel videos: 3642
+2016-10-16 11:24:32,992 Saving finished.
+2016-10-16 11:25:12,938 Saving to file...
+2016-10-16 11:25:12,938 Total channel videos: 3642
+2016-10-16 11:25:14,411 Saving finished.
+2016-10-16 11:25:47,450 Saving to file...
+2016-10-16 11:25:47,451 Total channel videos: 3642
+2016-10-16 11:25:48,907 Saving finished.
+2016-10-16 11:26:28,215 Saving to file...
+2016-10-16 11:26:28,216 Total channel videos: 3642
+2016-10-16 11:26:29,648 Saving finished.
+2016-10-16 11:27:07,947 Saving to file...
+2016-10-16 11:27:07,947 Total channel videos: 3642
+2016-10-16 11:27:09,398 Saving finished.
+2016-10-16 11:27:47,440 Saving to file...
+2016-10-16 11:27:47,440 Total channel videos: 3642
+2016-10-16 11:27:48,909 Saving finished.
+2016-10-16 11:28:24,423 Saving to file...
+2016-10-16 11:28:24,424 Total channel videos: 3642
+2016-10-16 11:28:25,861 Saving finished.
+2016-10-16 11:29:01,058 Saving to file...
+2016-10-16 11:29:01,058 Total channel videos: 3642
+2016-10-16 11:29:02,522 Saving finished.
+2016-10-16 11:29:44,144 Saving to file...
+2016-10-16 11:29:44,144 Total channel videos: 3642
+2016-10-16 11:29:45,595 Saving finished.
+2016-10-16 11:30:33,072 Saving to file...
+2016-10-16 11:30:33,073 Total channel videos: 3642
+2016-10-16 11:30:34,511 Saving finished.
+2016-10-16 11:31:09,585 Saving to file...
+2016-10-16 11:31:09,586 Total channel videos: 3642
+2016-10-16 11:31:11,049 Saving finished.
+2016-10-16 11:31:42,511 Saving to file...
+2016-10-16 11:31:42,511 Total channel videos: 3642
+2016-10-16 11:31:43,945 Saving finished.
+2016-10-16 11:32:29,970 Saving to file...
+2016-10-16 11:32:29,970 Total channel videos: 3642
+2016-10-16 11:32:31,346 Saving finished.
+2016-10-16 11:33:12,754 Saving to file...
+2016-10-16 11:33:12,754 Total channel videos: 3642
+2016-10-16 11:33:14,257 Saving finished.
+2016-10-16 11:33:53,017 Saving to file...
+2016-10-16 11:33:53,017 Total channel videos: 3642
+2016-10-16 11:33:54,464 Saving finished.
+2016-10-16 11:34:35,987 Saving to file...
+2016-10-16 11:34:35,988 Total channel videos: 3642
+2016-10-16 11:34:37,452 Saving finished.
+2016-10-16 11:35:16,338 Saving to file...
+2016-10-16 11:35:16,339 Total channel videos: 3642
+2016-10-16 11:35:17,798 Saving finished.
+2016-10-16 11:36:02,423 Saving to file...
+2016-10-16 11:36:02,423 Total channel videos: 3642
+2016-10-16 11:36:03,879 Saving finished.
+2016-10-16 11:36:42,972 Saving to file...
+2016-10-16 11:36:42,972 Total channel videos: 3642
+2016-10-16 11:36:44,423 Saving finished.
+2016-10-16 11:37:17,542 Saving to file...
+2016-10-16 11:37:17,542 Total channel videos: 3642
+2016-10-16 11:37:19,014 Saving finished.
+2016-10-16 11:37:56,945 Saving to file...
+2016-10-16 11:37:56,946 Total channel videos: 3642
+2016-10-16 11:37:58,385 Saving finished.
+2016-10-16 11:38:35,824 Saving to file...
+2016-10-16 11:38:35,824 Total channel videos: 3642
+2016-10-16 11:38:37,286 Saving finished.
+2016-10-16 11:39:14,873 Saving to file...
+2016-10-16 11:39:14,873 Total channel videos: 3642
+2016-10-16 11:39:16,336 Saving finished.
+2016-10-16 11:39:50,780 Saving to file...
+2016-10-16 11:39:50,780 Total channel videos: 3642
+2016-10-16 11:39:52,247 Saving finished.
+2016-10-16 11:40:28,570 Saving to file...
+2016-10-16 11:40:28,570 Total channel videos: 3642
+2016-10-16 11:40:30,048 Saving finished.
+2016-10-16 11:41:08,352 Saving to file...
+2016-10-16 11:41:08,352 Total channel videos: 3642
+2016-10-16 11:41:09,800 Saving finished.
+2016-10-16 11:41:53,705 Saving to file...
+2016-10-16 11:41:53,705 Total channel videos: 3642
+2016-10-16 11:41:55,168 Saving finished.
+2016-10-16 11:42:35,892 Saving to file...
+2016-10-16 11:42:35,892 Total channel videos: 3642
+2016-10-16 11:42:37,410 Saving finished.
+2016-10-16 11:43:17,260 Saving to file...
+2016-10-16 11:43:17,260 Total channel videos: 3642
+2016-10-16 11:43:18,734 Saving finished.
+2016-10-16 11:43:56,654 Saving to file...
+2016-10-16 11:43:56,654 Total channel videos: 3642
+2016-10-16 11:43:58,113 Saving finished.
+2016-10-16 11:44:29,724 Saving to file...
+2016-10-16 11:44:29,724 Total channel videos: 3642
+2016-10-16 11:44:31,193 Saving finished.
+2016-10-16 11:45:03,715 Saving to file...
+2016-10-16 11:45:03,716 Total channel videos: 3642
+2016-10-16 11:45:05,162 Saving finished.
+2016-10-16 11:45:44,469 Saving to file...
+2016-10-16 11:45:44,469 Total channel videos: 3642
+2016-10-16 11:45:45,843 Saving finished.
+2016-10-16 11:46:33,421 Saving to file...
+2016-10-16 11:46:33,421 Total channel videos: 3642
+2016-10-16 11:46:34,877 Saving finished.
+2016-10-16 11:47:13,626 Saving to file...
+2016-10-16 11:47:13,627 Total channel videos: 3642
+2016-10-16 11:47:15,061 Saving finished.
+2016-10-16 11:47:46,801 Saving to file...
+2016-10-16 11:47:46,801 Total channel videos: 3642
+2016-10-16 11:47:48,296 Saving finished.
+2016-10-16 11:48:21,587 Saving to file...
+2016-10-16 11:48:21,588 Total channel videos: 3642
+2016-10-16 11:48:23,027 Saving finished.
+2016-10-16 11:48:57,376 Saving to file...
+2016-10-16 11:48:57,376 Total channel videos: 3642
+2016-10-16 11:48:58,828 Saving finished.
+2016-10-16 11:49:37,486 Saving to file...
+2016-10-16 11:49:37,487 Total channel videos: 3642
+2016-10-16 11:49:38,958 Saving finished.
+2016-10-16 11:50:17,288 Saving to file...
+2016-10-16 11:50:17,288 Total channel videos: 3642
+2016-10-16 11:50:18,730 Saving finished.
+2016-10-16 11:50:54,073 Saving to file...
+2016-10-16 11:50:54,073 Total channel videos: 3642
+2016-10-16 11:50:55,550 Saving finished.
+2016-10-16 11:51:36,046 Saving to file...
+2016-10-16 11:51:36,046 Total channel videos: 3642
+2016-10-16 11:51:37,496 Saving finished.
+2016-10-16 11:52:17,367 Saving to file...
+2016-10-16 11:52:17,367 Total channel videos: 3642
+2016-10-16 11:52:18,807 Saving finished.
+2016-10-16 11:52:58,354 Saving to file...
+2016-10-16 11:52:58,354 Total channel videos: 3642
+2016-10-16 11:52:59,820 Saving finished.
+2016-10-16 11:53:39,703 Saving to file...
+2016-10-16 11:53:39,703 Total channel videos: 3642
+2016-10-16 11:53:41,180 Saving finished.
+2016-10-16 11:54:19,254 Saving to file...
+2016-10-16 11:54:19,255 Total channel videos: 3642
+2016-10-16 11:54:20,711 Saving finished.
+2016-10-16 11:54:20,711 Saving to file...
+2016-10-16 11:54:20,711 Total channel videos: 3642
+2016-10-16 11:54:22,000 Saving finished.
+2016-10-16 11:54:22,001 Total videos: 10135
+2016-10-16 11:54:22,056 Analyzing channel: bangnmedia
+2016-10-16 11:54:49,895 Saving to file...
+2016-10-16 11:54:49,896 Total channel videos: 242
+2016-10-16 11:54:50,049 Saving finished.
+2016-10-16 11:55:15,469 Saving to file...
+2016-10-16 11:55:15,470 Total channel videos: 242
+2016-10-16 11:55:15,619 Saving finished.
+2016-10-16 11:55:50,333 Saving to file...
+2016-10-16 11:55:50,333 Total channel videos: 242
+2016-10-16 11:55:50,485 Saving finished.
+2016-10-16 11:56:21,252 Saving to file...
+2016-10-16 11:56:21,252 Total channel videos: 242
+2016-10-16 11:56:21,402 Saving finished.
+2016-10-16 11:56:53,505 Saving to file...
+2016-10-16 11:56:53,506 Total channel videos: 242
+2016-10-16 11:56:53,661 Saving finished.
+2016-10-16 11:57:10,088 Saving to file...
+2016-10-16 11:57:10,088 Total channel videos: 242
+2016-10-16 11:57:10,244 Saving finished.
+2016-10-16 11:57:10,244 Total videos: 10377
+2016-10-16 11:57:10,248 Analyzing channel: mindjuice
+2016-10-16 11:57:37,188 Saving to file...
+2016-10-16 11:57:37,189 Total channel videos: 33
+2016-10-16 11:57:37,214 Saving finished.
+2016-10-16 11:57:42,879 Saving to file...
+2016-10-16 11:57:42,879 Total channel videos: 33
+2016-10-16 11:57:42,903 Saving finished.
+2016-10-16 11:57:42,903 Total videos: 10410
+2016-10-16 11:57:42,904 Analyzing channel: ceiga
+2016-10-16 11:58:15,081 Saving to file...
+2016-10-16 11:58:15,081 Total channel videos: 51
+2016-10-16 11:58:15,126 Saving finished.
+2016-10-16 11:58:40,692 Saving to file...
+2016-10-16 11:58:40,693 Total channel videos: 51
+2016-10-16 11:58:40,738 Saving finished.
+2016-10-16 11:59:13,113 Saving to file...
+2016-10-16 11:59:13,114 Total channel videos: 51
+2016-10-16 11:59:13,159 Saving finished.
+2016-10-16 11:59:38,063 Saving to file...
+2016-10-16 11:59:38,063 Total channel videos: 51
+2016-10-16 11:59:38,108 Saving finished.
+2016-10-16 12:00:05,222 Saving to file...
+2016-10-16 12:00:05,223 Total channel videos: 51
+2016-10-16 12:00:05,268 Saving finished.
+2016-10-16 12:00:36,357 Saving to file...
+2016-10-16 12:00:36,358 Total channel videos: 51
+2016-10-16 12:00:36,403 Saving finished.
+2016-10-16 12:00:36,403 Total videos: 10461
+2016-10-16 12:00:36,405 Analyzing channel: comedy
+2016-10-16 12:01:11,889 Saving to file...
+2016-10-16 12:01:11,889 Total channel videos: 3
+2016-10-16 12:01:11,891 Saving finished.
+2016-10-16 12:01:21,742 Saving to file...
+2016-10-16 12:01:21,743 Total channel videos: 3
+2016-10-16 12:01:21,786 Saving finished.
+2016-10-16 12:01:21,786 Total videos: 10464
+2016-10-16 12:01:21,787 Analyzing channel: welikeitindietv
+2016-10-16 12:01:47,826 Saving to file...
+2016-10-16 12:01:47,827 Total channel videos: 48
+2016-10-16 12:01:47,866 Saving finished.
+2016-10-16 12:02:14,208 Saving to file...
+2016-10-16 12:02:14,208 Total channel videos: 48
+2016-10-16 12:02:14,247 Saving finished.
+2016-10-16 12:02:44,178 Saving to file...
+2016-10-16 12:02:44,178 Total channel videos: 48
+2016-10-16 12:02:44,217 Saving finished.
+2016-10-16 12:03:14,695 Saving to file...
+2016-10-16 12:03:14,695 Total channel videos: 48
+2016-10-16 12:03:14,735 Saving finished.
+2016-10-16 12:03:16,367 Saving to file...
+2016-10-16 12:03:16,367 Total channel videos: 48
+2016-10-16 12:03:16,407 Saving finished.
+2016-10-16 12:03:16,407 Total videos: 10512
+2016-10-16 12:03:16,408 Analyzing channel: pegbarandgrill
+2016-10-16 12:03:43,182 Saving to file...
+2016-10-16 12:03:43,182 Total channel videos: 320
+2016-10-16 12:03:43,338 Saving finished.
+2016-10-16 12:04:14,500 Saving to file...
+2016-10-16 12:04:14,500 Total channel videos: 320
+2016-10-16 12:04:14,655 Saving finished.
+2016-10-16 12:04:41,660 Saving to file...
+2016-10-16 12:04:41,660 Total channel videos: 320
+2016-10-16 12:04:41,814 Saving finished.
+2016-10-16 12:05:05,655 Saving to file...
+2016-10-16 12:05:05,655 Total channel videos: 320
+2016-10-16 12:05:05,812 Saving finished.
+2016-10-16 12:05:34,598 Saving to file...
+2016-10-16 12:05:34,599 Total channel videos: 320
+2016-10-16 12:05:34,751 Saving finished.
+2016-10-16 12:05:47,859 Saving to file...
+2016-10-16 12:05:47,859 Total channel videos: 320
+2016-10-16 12:05:48,008 Saving finished.
+2016-10-16 12:05:48,008 Total videos: 10832
+2016-10-16 12:05:48,012 Analyzing channel: accentfeed
+2016-10-16 12:06:16,397 Saving to file...
+2016-10-16 12:06:16,397 Total channel videos: 42
+2016-10-16 12:06:16,436 Saving finished.
+2016-10-16 12:06:51,592 Saving to file...
+2016-10-16 12:06:51,592 Total channel videos: 42
+2016-10-16 12:06:51,637 Saving finished.
+2016-10-16 12:06:56,098 Saving to file...
+2016-10-16 12:06:56,098 Total channel videos: 42
+2016-10-16 12:06:56,136 Saving finished.
+2016-10-16 12:06:56,136 Total videos: 10874
+2016-10-16 12:06:56,138 Analyzing channel: animade
+2016-10-16 12:07:28,951 Saving to file...
+2016-10-16 12:07:28,951 Total channel videos: 88
+2016-10-16 12:07:29,006 Saving finished.
+2016-10-16 12:07:46,003 Saving to file...
+2016-10-16 12:07:46,003 Total channel videos: 88
+2016-10-16 12:07:46,061 Saving finished.
+2016-10-16 12:07:46,061 Total videos: 10962
+2016-10-16 12:07:46,062 Analyzing channel: iphones
+2016-10-16 12:08:10,731 Saving to file...
+2016-10-16 12:08:10,731 Total channel videos: 15
+2016-10-16 12:08:10,746 Saving finished.
+2016-10-16 12:08:19,189 Saving to file...
+2016-10-16 12:08:19,190 Total channel videos: 15
+2016-10-16 12:08:19,204 Saving finished.
+2016-10-16 12:08:19,204 Total videos: 10977
+2016-10-16 12:08:19,205 Analyzing channel: mvod
+2016-10-16 12:08:50,806 Saving to file...
+2016-10-16 12:08:50,807 Total channel videos: 16
+2016-10-16 12:08:50,817 Saving finished.
+2016-10-16 12:09:06,118 Saving to file...
+2016-10-16 12:09:06,118 Total channel videos: 16
+2016-10-16 12:09:06,129 Saving finished.
+2016-10-16 12:09:06,129 Total videos: 10993
+2016-10-16 12:09:06,130 Analyzing channel: 142575
+2016-10-16 12:09:06,763 Saving to file...
+2016-10-16 12:09:06,763 Total channel videos: 0
+2016-10-16 12:09:06,764 Saving finished.
+2016-10-16 12:09:06,764 Total videos: 10993
+2016-10-16 12:09:06,764 Analyzing channel: divertyoureyes
+2016-10-16 12:09:18,186 Saving to file...
+2016-10-16 12:09:18,186 Total channel videos: 8
+2016-10-16 12:09:18,243 Saving finished.
+2016-10-16 12:09:18,244 Total videos: 11001
+2016-10-16 12:09:18,244 Analyzing channel: kateopolis
+2016-10-16 12:09:51,493 Saving to file...
+2016-10-16 12:09:51,493 Total channel videos: 11
+2016-10-16 12:09:51,506 Saving finished.
+2016-10-16 12:10:22,291 Saving to file...
+2016-10-16 12:10:22,291 Total channel videos: 11
+2016-10-16 12:10:22,301 Saving finished.
+2016-10-16 12:10:50,519 Saving to file...
+2016-10-16 12:10:50,519 Total channel videos: 11
+2016-10-16 12:10:50,529 Saving finished.
+2016-10-16 12:10:52,438 Saving to file...
+2016-10-16 12:10:52,438 Total channel videos: 11
+2016-10-16 12:10:52,448 Saving finished.
+2016-10-16 12:10:52,448 Total videos: 11012
+2016-10-16 12:10:52,449 Analyzing channel: ladieswithlenses
+2016-10-16 12:11:09,057 Saving to file...
+2016-10-16 12:11:09,057 Total channel videos: 106
+2016-10-16 12:11:09,124 Saving finished.
+2016-10-16 12:11:09,124 Total videos: 11118
+2016-10-16 12:11:09,126 Analyzing channel: kuriositas
+2016-10-16 12:11:34,903 Saving to file...
+2016-10-16 12:11:34,903 Total channel videos: 119
+2016-10-16 12:11:35,000 Saving finished.
+2016-10-16 12:11:59,621 Saving to file...
+2016-10-16 12:11:59,621 Total channel videos: 119
+2016-10-16 12:11:59,717 Saving finished.
+2016-10-16 12:12:30,027 Saving to file...
+2016-10-16 12:12:30,027 Total channel videos: 119
+2016-10-16 12:12:30,123 Saving finished.
+2016-10-16 12:12:30,123 Saving to file...
+2016-10-16 12:12:30,123 Total channel videos: 119
+2016-10-16 12:12:30,226 Saving finished.
+2016-10-16 12:12:30,226 Total videos: 11237
+2016-10-16 12:12:30,228 Analyzing channel: radiosoulwax
+2016-10-16 12:12:31,591 Saving to file...
+2016-10-16 12:12:31,591 Total channel videos: 0
+2016-10-16 12:12:31,592 Saving finished.
+2016-10-16 12:12:31,592 Total videos: 11237
+2016-10-16 12:12:31,592 Analyzing channel: lipdub
+2016-10-16 12:12:41,217 Saving to file...
+2016-10-16 12:12:41,217 Total channel videos: 0
+2016-10-16 12:12:41,254 Saving finished.
+2016-10-16 12:12:41,254 Total videos: 11237
+2016-10-16 12:12:41,255 Analyzing channel: elementalproject
+2016-10-16 12:12:42,606 Saving to file...
+2016-10-16 12:12:42,606 Total channel videos: 0
+2016-10-16 12:12:42,638 Saving finished.
+2016-10-16 12:12:42,638 Total videos: 11237
+2016-10-16 12:12:42,638 Analyzing channel: snakedust
+2016-10-16 12:13:26,488 Saving to file...
+2016-10-16 12:13:26,488 Total channel videos: 85
+2016-10-16 12:13:26,545 Saving finished.
+2016-10-16 12:13:43,859 Saving to file...
+2016-10-16 12:13:43,860 Total channel videos: 85
+2016-10-16 12:13:43,919 Saving finished.
+2016-10-16 12:13:43,920 Total videos: 11322
+2016-10-16 12:13:43,921 Analyzing channel: musicbed
+2016-10-16 12:13:53,348 Saving to file...
+2016-10-16 12:13:53,349 Total channel videos: 45
+2016-10-16 12:13:53,388 Saving finished.
+2016-10-16 12:13:53,388 Total videos: 11367
+2016-10-16 12:13:53,389 Analyzing channel: challengewinners
+2016-10-16 12:14:14,135 Saving to file...
+2016-10-16 12:14:14,135 Total channel videos: 22
+2016-10-16 12:14:14,151 Saving finished.
+2016-10-16 12:14:14,151 Total videos: 11389
+2016-10-16 12:14:14,152 Analyzing channel: tributes
+2016-10-16 12:14:15,490 Saving to file...
+2016-10-16 12:14:15,490 Total channel videos: 0
+2016-10-16 12:14:15,490 Saving finished.
+2016-10-16 12:14:15,491 Total videos: 11389
+2016-10-16 12:14:15,491 Analyzing channel: news
+2016-10-16 12:14:17,583 Saving to file...
+2016-10-16 12:14:17,583 Total channel videos: 0
+2016-10-16 12:14:17,583 Saving finished.
+2016-10-16 12:14:17,583 Total videos: 11389
+2016-10-16 12:14:17,584 Analyzing channel: 262204
+2016-10-16 12:14:39,840 Saving to file...
+2016-10-16 12:14:39,840 Total channel videos: 62
+2016-10-16 12:14:39,887 Saving finished.
+2016-10-16 12:14:39,887 Total videos: 11451
+2016-10-16 12:14:39,889 Analyzing channel: cameo
+2016-10-16 12:14:40,964 Saving to file...
+2016-10-16 12:14:40,964 Total channel videos: 9
+2016-10-16 12:14:40,972 Saving finished.
+2016-10-16 12:14:40,972 Total videos: 11460
+2016-10-16 12:14:40,973 Analyzing channel: 101
+2016-10-16 12:14:48,547 Saving to file...
+2016-10-16 12:14:48,547 Total channel videos: 0
+2016-10-16 12:14:48,547 Saving finished.
+2016-10-16 12:14:48,548 Total videos: 11460
+2016-10-16 12:14:48,548 Analyzing channel: theshoeboxworld
+2016-10-16 12:14:50,928 Saving to file...
+2016-10-16 12:14:50,928 Total channel videos: 0
+2016-10-16 12:14:50,928 Saving finished.
+2016-10-16 12:14:50,928 Total videos: 11460
+2016-10-16 12:14:50,929 Analyzing channel: serialboxpresents
+2016-10-16 12:14:52,220 Saving to file...
+2016-10-16 12:14:52,220 Total channel videos: 0
+2016-10-16 12:14:52,222 Saving finished.
+2016-10-16 12:14:52,222 Total videos: 11460
+2016-10-16 12:14:52,223 Analyzing channel: thepowerofwords
+2016-10-16 12:14:52,686 Saving to file...
+2016-10-16 12:14:52,686 Total channel videos: 0
+2016-10-16 12:14:52,687 Saving finished.
+2016-10-16 12:14:52,687 Total videos: 11460
+2016-10-16 12:14:52,687 Analyzing channel: buildporn
+2016-10-16 12:14:53,451 Saving to file...
+2016-10-16 12:14:53,451 Total channel videos: 1
+2016-10-16 12:14:53,494 Saving finished.
+2016-10-16 12:14:53,494 Total videos: 11461
+2016-10-16 12:14:53,495 Analyzing channel: theoutline
+2016-10-16 12:14:53,992 Saving to file...
+2016-10-16 12:14:53,993 Total channel videos: 0
+2016-10-16 12:14:54,019 Saving finished.
+2016-10-16 12:14:54,019 Total videos: 11461
+2016-10-16 12:14:54,019 Analyzing channel: originals
+2016-10-16 12:14:54,622 Saving to file...
+2016-10-16 12:14:54,622 Total channel videos: 8
+2016-10-16 12:14:54,627 Saving finished.
+2016-10-16 12:14:54,627 Total videos: 11469
+2016-10-16 12:14:54,627 Analyzing channel: vimeopodcast
+2016-10-16 12:14:55,411 Saving to file...
+2016-10-16 12:14:55,411 Total channel videos: 14
+2016-10-16 12:14:55,419 Saving finished.
+2016-10-16 12:14:55,419 Total videos: 11483
+2016-10-16 12:14:55,419 Crawling finished.
