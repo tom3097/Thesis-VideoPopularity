@@ -120,7 +120,7 @@ class YoutubeCrawler(object):
         date = video_data['snippet']['publishedAt'][:7]
         if date not in self.condition_array:
             return False
-        views = video_data['statistics']['viewCount']
+        views = int(video_data['statistics']['viewCount'])
         if views < self.min_views:
             return False
         return True
