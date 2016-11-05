@@ -34,7 +34,7 @@ if __name__ == '__main__':
         with open(v_file, 'r') as f:
             videos = json.load(f)
             for v in videos:
-                os.makedirs(os.path.join(result_dir_path, v['id']), 755)
+                os.makedirs(os.path.join(result_dir_path, v['id']), 0755)
                 got_beginning = False
                 got_preferred = False
                 for thumb in v['thumbnails']:
