@@ -8,7 +8,7 @@
 printf "{ print > \$4\".lr\" }" > spl.sh
 
 # executing script
-awk -f spl.sh thumb_2_log.txt.train
+awk -f spl.sh $1.train
 
 # cleaning after script execution
 rm spl.sh
