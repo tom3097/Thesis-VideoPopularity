@@ -17,7 +17,7 @@ rm TrainingLoss.lr
 # creating script for Loss and Iterations plot
 printf "reset\n" > plotgen1.gps
 printf "set terminal png\n" >> plotgen1.gps 
-printf "set output \"LossVsIterationsTrain.jpg\" \n" >> plotgen1.gps
+printf "set output \"LossVsIterationsTrain.png\" \n" >> plotgen1.gps
 printf "set style data lines\n" >> plotgen1.gps
 printf "set key right\n" >> plotgen1.gps
 printf "set title \"Training loss vs. training iterations\"\n" >> plotgen1.gps
@@ -64,7 +64,7 @@ rm *.lr
 # creating script for Accuracy and Iterations plot
 printf "reset\n" > plotgen2.gps
 printf "set terminal png\n" >> plotgen2.gps 
-printf "set output \"AccuracyVsIterationsTest.jpg\" \n" >> plotgen2.gps
+printf "set output \"AccuracyVsIterationsTest.png\" \n" >> plotgen2.gps
 printf "set style data lines\n" >> plotgen2.gps
 printf "set key right\n" >> plotgen2.gps
 printf "set title \"Testing accuracy vs. testing iterations\"\n" >> plotgen2.gps
@@ -81,7 +81,7 @@ rm plotgen2.gps
 # creating script for Loss and Iterations plot
 printf "reset\n" > plotgen3.gps
 printf "set terminal png\n" >> plotgen3.gps 
-printf "set output \"LossVsIterationsTest.jpg\" \n" >> plotgen3.gps
+printf "set output \"LossVsIterationsTest.png\" \n" >> plotgen3.gps
 printf "set style data lines\n" >> plotgen3.gps
 printf "set key right\n" >> plotgen3.gps
 printf "set title \"Testing loss vs. testing iterations\"\n" >> plotgen3.gps
