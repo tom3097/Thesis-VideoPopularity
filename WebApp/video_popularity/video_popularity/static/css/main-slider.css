@@ -1,0 +1,20 @@
+#main-slider {
+	text-align: left;
+	width: 70vw;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 13vw;
+}
+
+#main-slider img {
+	position: absolute;
+	z-index: 0;
+}
+	 
+#main-slider img.previous {
+	z-index: 1;
+}
+	 
+#main-slider img.current {
+	z-index: 2;
+}

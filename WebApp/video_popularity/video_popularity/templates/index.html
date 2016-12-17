@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/style.css') }}">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/main-slider.css') }}">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/custom-file-input.css') }}">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <script type=text/javascript src="{{ url_for('static', filename='js/jquery-3.1.1.min.js') }}"></script>
+</head>
+<body>
+    <div id="container">
+        <div id="header">
+            <h1>What a Long-term Recurrent Convolutional Network</h1>
+            <h1>thinks about your video?</h1>
+        </div>
+        <div id="body">
+            <div id="main-slider">
+                <img class="resize-slider-img" src="{{ url_for('static', filename='img/vid_tmp_v_unpop.png') }}">
+                <img class="resize-slider-img" src="{{ url_for('static', filename='img/vid_tmp_unpop.png') }}">
+                <img class="resize-slider-img" src="{{ url_for('static', filename='img/vid_tmp_pop.png') }}">
+                <img class="resize-slider-img" src="{{ url_for('static', filename='img/vid_tmp_v_pop.png') }}">
+            </div>
+            <h2>Upload the video to check its popularity on varius websites</h2>
+            <div class="input-box">
+                <form>
+                    <input type="file"  id="video-upload" class="inputfile"  />
+                    <label id='upload-label' for="video-upload"><span>Choose a file&hellip;</span></label>
+                    <input id="submit-button" type=submit value=Upload>
+                </form>
+            </div>
+            <div id="supported-websites">
+                <h3>Currently supported websites</h3>
+                <div class="supported-site">
+                    <a href="https://www.facebook.com/" class="sites-style" target="_blank">Facebook</a>
+                </div>
+                <div class="supported-site">
+                    <a href="https://www.youtube.com" class="sites-style" target="_blank">Youtube</a>
+                </div>
+                <div class="supported-site">
+                    <a href="https://www.dailymotion.com/" class="sites-style" target="_blank">Dailymotion</a>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            Author: Tomasz Bochenski &copy; All rights reserved
+        </div>
+    </div>
+    <script type=text/javascript src="{{ url_for('static', filename='js/custom-file-input.js') }}"></script>
+    <script type=text/javascript src="{{ url_for('static', filename='js/main-slider.js') }}"></script>
+</body> 
