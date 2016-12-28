@@ -12,7 +12,8 @@ fi
 LOG=`basename $1`
 grep -v 'Data layer prefetch queue empty' $1 > filt1.txt
 grep -v 'Waiting for data' filt1.txt > filt2.txt
-grep -B 1 'Test ' filt2.txt > aux.txt
+grep -v 'Gradient clipping:' filt2.txt > filt3.txt
+grep -B 1 'Test ' filt3.txt > aux.txt
 grep 'Iteration ' aux.txt | sed  's/.*Iteration \([[:digit:]]*\).*/\1/g' > aux0.txt
 grep 'Test net output #0' aux.txt | awk '{print $11}' > aux1.txt
 grep 'Test net output #1' aux.txt | awk '{print $11}' > aux2.txt
@@ -41,4 +42,4 @@ grep ', lr = ' $1 | awk '{print $9}' > aux2.txt
 # Generating
 echo '# Iters Seconds TrainingLoss LearningRate'> $LOG.train
 paste aux0.txt aux3.txt aux1.txt aux2.txt | column -t >> $LOG.train
-rm filt1.txt filt2.txt aux.txt aux0.txt aux1.txt aux2.txt aux3.txt
+rm filt1.txt filt2.txt filt3.txt aux.txt aux0.txt aux1.txt aux2.txt aux3.txt
