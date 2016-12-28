@@ -1,6 +1,6 @@
 import os
 
-IMG_PATH = '/home/tomasz/Documents/Thesis/Thumbnails/facebook/results'
+IMG_PATH = ''
 IMG_FILE_SOURCE = 'unpopular_sorted.txt'
 IMG_FILE_TARGET = 'unpopular_prepared.txt'
 
