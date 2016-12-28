@@ -3,7 +3,6 @@
 CAFFE_PYTHON_PATH = '' 
 
 import sys
-
 sys.path.append(CAFFE_PYTHON_PATH)
 import caffe
 import io
