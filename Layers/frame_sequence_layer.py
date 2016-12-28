@@ -20,6 +20,11 @@ from multiprocessing import Pool
 from threading import Thread
 import skimage.io
 import copy
+import logging
+
+logging.basicConfig(level=logging.DEBUG, propagate=False, filename='sampleLog.txt', format='%(asctime)-15s %(message)s')
+logging.getLogger("requests").setLevel(logging.WARNING)
+logger = logging.getLogger(__name__)
 
 RGB_frames = ''
 test_frames = 16
@@ -51,14 +56,14 @@ class ImageProcessorCrop(object):
 
 
 class sequenceGeneratorVideo(object):
-    def __init__(self, buffer_size, clip_length, num_videos, video_dict, video_order):
+    def __init__(self, buffer_size, clip_length, num_videos, video_dict, video_order, idx):
         self.buffer_size = buffer_size
         self.clip_length = clip_length
         self.N = self.buffer_size*self.clip_length
         self.num_videos = num_videos
         self.video_dict = video_dict
         self.video_order = video_order
-        self.idx = 0
+        self.idx = idx
 
     def __call__(self):
         label_r = []
@@ -73,6 +78,8 @@ class sequenceGeneratorVideo(object):
         else:
             idx_list = range(self.idx, self.idx+self.buffer_size)
     
+        logger.info(idx_list)
+        
         for i in idx_list:
             key = self.video_order[i]
             label = self.video_dict[key]['label']
@@ -185,7 +192,7 @@ class videoRead(caffe.Layer):
         pool_size = 24
 
         self.image_processor = ImageProcessorCrop(self.transformer)
-        self.sequence_generator = sequenceGeneratorVideo(self.buffer_size, self.frames, self.num_videos, self.video_dict, self.video_order)
+        self.sequence_generator = sequenceGeneratorVideo(self.buffer_size, self.frames, self.num_videos, self.video_dict, self.video_order, self.idx)
 
         self.pool = Pool(processes=pool_size)
         self.batch_advancer = BatchAdvancer(self.thread_result, self.sequence_generator, self.image_processor, self.pool)
