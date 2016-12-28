@@ -6,9 +6,9 @@ import os
 
 # paths
 DEPLOY_ARCH = 'deploy_2.prototxt'
-CAFFEMODEL = '/home/tomasz/Documents/Thesis/Nets/Facebook/PrefBegin_2_vol3/facebook_solv4_iter_16000.caffemodel'
+CAFFEMODEL = ''
 IMG_MEAN = 'imagenet_mean.npy'
-IMG_PATH = '/home/tomasz/Documents/Thesis/Thumbnails/facebook/results/'
+IMG_PATH = ''
 VAL_IMG_FILE = 'val_thumb_2.txt'
 
 # set gpu mode
