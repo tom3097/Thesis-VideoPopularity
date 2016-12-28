@@ -3,7 +3,7 @@ import numpy as np
 import sys
 
 if len(sys.argv) != 3:
-    print "Usage: python convert_protomean.py proto.mean out.npy"
+    print "Usage: python convert.py in.binaryproto out.npy"
     sys.exit()
 
 blob = caffe.proto.caffe_pb2.BlobProto()
