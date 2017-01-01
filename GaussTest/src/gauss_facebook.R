@@ -39,7 +39,7 @@ norm_points <- log2(points)
 wd = getwd()
 setwd(file.path(r_path, 'results'))
 png(filename = paste('fb_', gsub(',', '_', args$date), '_', total_videos, '_views.png', sep = ''))
-hist(norm_points, breaks = 50)
+hist(norm_points, breaks = 50, main=paste('Distribution of Normalized Popularity Score (', gsub(',', '_', args$date), ')', sep='') , xlab='Normalized Popularity Score')
 dev.off()
 setwd(wd)
 
